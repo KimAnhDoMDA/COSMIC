@@ -1,3 +1,11 @@
+excerpt: "This post should [...]"
+header:
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
 ---
 title: "Welcome to Jekyll!"
 date: 2019-04-18T15:34:30-04:00
@@ -7,15 +15,6 @@ tags:
   - Jekyll
   - update
 ---
-
-excerpt: "This post should [...]"
-header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
