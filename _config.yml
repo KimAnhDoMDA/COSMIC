@@ -8,6 +8,15 @@ description: "A flexible Jekyll theme for your blog or site with a minimalist ae
 url: "https://btseng22.github.io/KDo/"
 repository: "btseng22/KDo"
 
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  
+
 head_scripts:
   - https://code.jquery.com/jquery-3.2.1.min.js
   - /assets/js/your-custom-head-script.js
