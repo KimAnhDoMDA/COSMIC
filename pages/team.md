@@ -2,7 +2,7 @@
 permalink: /team/
 author_profile: false
 layout: default
----	
+---
 
 <div class="responsive-container-block outer-container">
   <div class="responsive-container-block inner-container">
