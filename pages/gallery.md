@@ -6,7 +6,7 @@ author_profile: true
 
 gallery:
   - url: /assets/images/ruben.JPG
-    image_path: /assets/images/ruben.JPG
+    image_path: ../assets/images/ruben.JPG
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/food.JPG
