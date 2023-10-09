@@ -16,7 +16,7 @@ layout: default
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
-            <img class="team-img" src="https://btseng22.github.io/KDo/assets/images/KDoHeadshot.JPG">
+            <img class="team-img" src="../assets/images/KDoHeadshot.JPG">
           </div>
           <p class="text-blk name">
             Kim-Anh Do
@@ -103,7 +103,7 @@ layout: default
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
-            <img class="team-img" src="https://github.com/Btseng22/KDo/assets/images/bio-photo.JPG">
+            <img class="team-img" src="../assets/images/bio-photo.JPG">
           </div>
           <p class="text-blk name">
             John Doe
@@ -132,7 +132,7 @@ layout: default
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
-            <img class="team-img" src="https://github.com/Btseng22/KDo/assets/images/bio-photo.JPG">
+            <img class="team-img" src="../assets/images/bio-photo.JPG">
           </div>
           <p class="text-blk name">
             Jane Doe
@@ -159,7 +159,7 @@ layout: default
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
-            <img class="team-img" src="https://github.com/Btseng22/KDo/assets/images/bio-photo.JPG">
+            <img class="team-img" src="../assets/images/bio-photo.JPG">
           </div>
           <p class="text-blk name">
             Maxwell Doe
@@ -186,7 +186,7 @@ layout: default
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
-            <img class="team-img" src="https://github.com/Btseng22/KDo/assets/images/bio-photo.JPG">
+            <img class="team-img" src="../assets/images/bio-photo.JPG">
           </div>
           <p class="text-blk name">
             Jane Doe
@@ -213,7 +213,7 @@ layout: default
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
-            <img class="team-img" src="https://github.com/Btseng22/KDo/assets/images/bio-photo.JPG">
+            <img class="team-img" src="../assets/images/bio-photo.JPG">
           </div>
           <p class="text-blk name">
             Jessica Doe
