@@ -16,7 +16,7 @@ layout: default
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
-            <img class="team-img" src="/assets/images/author-photo.JPG">
+            <img class="team-img" src="./assets/images/author-photo.JPG">
           </div>
           <p class="text-blk name">
             Kim-Anh Do
@@ -46,7 +46,7 @@ layout: default
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
-            <img class="team-img" src="/assets/images/bio-photo.JPG">
+            <img class="team-img" src="./assets/images/bio-photo.JPG">
           </div>
           <p class="text-blk name">
             Maxwell Doe
