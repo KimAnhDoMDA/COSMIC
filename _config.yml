@@ -4,7 +4,7 @@ locale: "en-US"
 title: "Biostat test website"
 subtitle: "Skeleton"
 name: "Kim-Anh Do"
-description: "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+description: A personal website"
 url: "https://btseng22.github.io/KDo/"
 repository: "btseng22/KDo"
 
@@ -23,8 +23,8 @@ head_scripts:
 header:
   teaser: "https://images.unsplash.com/photo-1576086213369-97a306d36557?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1780&q=80"
 
-logo: "https://pbs.twimg.com/profile_images/1542859223008129026/I89yZRXe_400x400.jpg"
-masthead_title: "MDACC"
+logo: "https://www.creativefabrica.com/wp-content/uploads/2022/10/29/1667046714/DNA-Icon-580x386.jpg"
+masthead_title: "Biostatistics"
 
 defaults:
   # _posts
@@ -44,37 +44,37 @@ facebook:
   app_id:  # A Facebook app ID
 
 facebook:
-  username: "michaelrose"  # https://www.facebook.com/michaelrose
+  username: "kimanh.do.16"  # https://www.facebook.com/kimanh.do.16
 
-og_image: "https://pbs.twimg.com/profile_images/1542859223008129026/I89yZRXe_400x400.jpg"
+og_image: "https://www.creativefabrica.com/wp-content/uploads/2022/10/29/1667046714/DNA-Icon-580x386.jpg"
 
 social:
   type:  # Person or Organization (defaults to Person)
   name:  # If the user or organization name differs from the site's name
   links:
     - "https://twitter.com/yourTwitter"
-    - "https://www.facebook.com/yourFacebook"
+    - "https://www.facebook.com/kimanh.do.16"
     - "https://instagram.com/yourProfile"
     - "https://www.linkedin.com/in/yourprofile"
 
 author:
   name: "Kim-Anh Do"
-  avatar: "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/334503386_5774219646015832_2525286863182947147_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=bFpPJVPQaBQAX-FGYQK&_nc_ht=scontent-hou1-1.xx&oh=00_AfDq_Y7XoltHwnCb4B3TBgvkY0ADGG_fLPD2PNsZaTXdrg&oe=651F85D9"
+  avatar: "/assets/images/author-photo.JPG"
   bio: "I am an **amazing** person." # Note: Markdown is allowed
   location: "Houston, TX"
   links:
-    - label: "Made Mistakes"
+    - label: "My Website"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
+      url: "https://faculty.mdanderson.org/profiles/kim-anh_do.html"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-f"
+      url: "http://www.facebook.com/kimanh.do.16"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kim-anh-do-35b31463/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://www.instagram.com/klassykim1/"
 
 defaults:
   # _posts
@@ -109,3 +109,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development  # disable compression in dev environment
+
