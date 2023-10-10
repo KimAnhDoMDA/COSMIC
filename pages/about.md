@@ -1,10 +1,9 @@
 ---
 permalink: /about/
 layout: "single"
-title: I love cats & Mathematics!
 author_profile: true
 ---
-
+<h1>I love cats & Mathematics!</h1>
 <p>Description about who I am, what I like, and what I do. 
 Definitely not a robot.</p>
 
