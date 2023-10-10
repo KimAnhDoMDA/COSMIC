@@ -411,5 +411,25 @@ body {
   }
 }
 
+dl2 {
+  display: grid;
+  grid-template-columns: max-content;
+  column-gap: 1em;
+  row-gap: 1em;
+}
+
+dt2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  grid-column-start: 1;
+  font-weight: bold;
+
+}
+
+dd2 {
+  grid-column-start: 2;
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-size: 1em;
+}
+
   
  
