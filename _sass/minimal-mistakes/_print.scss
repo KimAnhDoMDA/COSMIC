@@ -97,8 +97,8 @@
   img {
     border: 0;
     display: block;
-    max-width: 100% !important;
-    vertical-align: middle;
+    //max-width: 100% !important;
+    //vertical-align: middle;
   }
 
   hr {
@@ -187,7 +187,7 @@
   }
 
   #main {
-    max-width: auto;
+    max-width: 100%;
   }
 
   .page {

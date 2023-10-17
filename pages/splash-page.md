@@ -2,6 +2,7 @@
 title: "Welcome to CASINO"
 layout: splash
 permalink: /
+classes: wide
 
 header:
   overlay_color: "#000"
@@ -70,10 +71,12 @@ Our group provides critical collaborative expertise (nonparametric multivariable
 <figcaption>Dr Kim-Anh Do with the CASINO team 2023</figcaption>
 </figure>
 
+
 <div class="centerIframe">
 <h1></h1>
 <iframe src="https://onedrive.live.com/embed?resid=DD1D7A6CCCA3FEEC%2160909&amp;authkey=!ALLKjlXnQyb-dDA&amp;em=2&amp;wdAr=1.7777777777777777" width="1000px" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 </div>
+
 
 
 {% include feature_row id="intro" type="center" %}

@@ -211,10 +211,11 @@ figure {
   iframe,
   .fluid-width-video-wrapper {
     margin-bottom: 1em;
+    display:flex;
   }
 
   img {
-    width: 100%;
+    width: 1000px;
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
