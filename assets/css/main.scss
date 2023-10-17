@@ -14,6 +14,7 @@ html {
 /* Body width fixing */
 body {
     max-width: 100%;
+    overflow-x: hidden;
 }
 
 .align{
@@ -75,7 +76,7 @@ body {
   }
   
   .text-blk {
-    margin-top: 0px;
+    margin-top: -1em;
     margin-right: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
@@ -87,6 +88,19 @@ body {
   }
   
   .responsive-container-block {
+    min-height: 75px;
+    height: fit-content;
+    width: 104%;
+    display: flex;
+    // flex-wrap: wrap;
+    margin-top: 20px;
+    margin-right: 40px;
+    margin-bottom: 0px;
+    margin-left: 40px;
+    justify-content: space-evenly;
+  }
+
+  .responsive-container-block1 {
     min-height: 75px;
     height: fit-content;
     width: 100%;
@@ -104,21 +118,20 @@ body {
     padding-right: 50px;
     padding-bottom: 10px;
     padding-left: 50px;
-    background-color: rgb(244, 252, 255);
   }
   
   .inner-container {
     max-width: 1320px;
     flex-direction: column;
     align-items: center;
-    margin-top: 50px;
+    margin-top: -1em;
     margin-right: auto;
-    margin-bottom: 50px;
+    //margin-bottom: 50px;
     margin-left: auto;
   }
   
   .section-head-text {
-    margin-top: 0px;
+    margin-top: -2em;
     margin-right: 0px;
     margin-bottom: 5px;
     margin-left: 0px;
@@ -142,7 +155,13 @@ body {
   }
   
   .img-wrapper {
-    width: 70%;
+    width: 180px;
+    height: 190px;
+  }
+
+  .img-wrapper1 {
+    width: 200px;
+    height: 210px;
   }
   
   .team-card {
@@ -152,10 +171,27 @@ body {
   }
   
   .social-media-links {
-    width: 125px;
+    text-decoration: none;
+    width: 20%;
     display: flex;
     justify-content: space-between;
-    margin-top: -30px;
+    margin-top: -20px;
+  }
+
+  .social-media-links1 {
+    text-decoration: none;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -20px;
+  }
+
+  .social-media-links3 {
+    text-decoration: none;
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -20px;
   }
   
   .name {
@@ -182,6 +218,12 @@ body {
     width: 100%;
     height: 100%;
     border-radius: 50%;
+  }
+
+  .alum-img{
+    width:50%;
+    height:50%;
+    border-radius: 25%;
   }
   
   .team-card-container {
@@ -432,5 +474,12 @@ dd2 {
   font-size: 0.8em;
 }
 
-  
+image{
+  width: 70%;
+  height: auto;
+}
+
+.archive__item-title:hover {
+  color: red; /* Change to the color you prefer */
+}
  

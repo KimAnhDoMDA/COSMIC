@@ -1,6 +1,6 @@
 main:
-  - title: "About Us"
-    url: /team/
+  - title: "People"
+    url: /people/
   - title: "About Me"
     url: /about/
   - title: "Published Papers"
