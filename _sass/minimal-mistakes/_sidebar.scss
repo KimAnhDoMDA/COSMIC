@@ -124,8 +124,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: auto;
-  height: auto;
+  width: 100px;
+  height: 100px;
 
   @include breakpoint($large) {
     display: block;
@@ -134,7 +134,7 @@
   }
 
   img {
-    max-width: 80%;
+    max-width: 50%;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -328,7 +328,7 @@
    Wide Pages
    ========================================================================== */
 
-.wide .sidebar__right {
+.wide .__right {
   margin-bottom: 1em;
 
   @include breakpoint($large) {

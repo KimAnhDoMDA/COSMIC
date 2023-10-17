@@ -90,13 +90,13 @@ body {
   .responsive-container-block {
     min-height: 75px;
     height: fit-content;
-    width: 104%;
+    width: 100%;
     display: flex;
     // flex-wrap: wrap;
     margin-top: 20px;
-    margin-right: 40px;
+    // margin-right: 40px;
     margin-bottom: 0px;
-    margin-left: 40px;
+    //margin-left: 40px;
     justify-content: space-evenly;
   }
 
@@ -107,13 +107,13 @@ body {
     display: flex;
     flex-wrap: wrap;
     margin-top: 0px;
-    margin-right: auto;
+    //margin-right: auto;
     margin-bottom: 0px;
-    margin-left: auto;
+    //margin-left: auto;
     justify-content: space-evenly;
   }
   
-  .outer-container {
+  .ainer {
     padding-top: 10px;
     padding-right: 50px;
     padding-bottom: 10px;
@@ -121,7 +121,7 @@ body {
   }
   
   .inner-container {
-    max-width: 1320px;
+    max-width: auto;
     flex-direction: column;
     align-items: center;
     margin-top: -1em;

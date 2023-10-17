@@ -58,9 +58,9 @@ social:
 
 author:
   name: "Kim-Anh Do, Ph.D."
-  avatar: "/assets/images/KDoHeadshot.JPG"
+  avatar: "../assets/images/KDoHeadshot.JPG"
 
-  bio: "Guiding the Way: Pioneering Progress in Biostatistics and Cancer Research" # Note: Markdown is allowed
+  bio: "Pioneering Progress in Biostatistics and Cancer Research" # Note: Markdown is allowed
   
   location: "Houston, TX"
   links:
@@ -73,9 +73,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kim-anh-do-35b31463/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/klassykim1/"
 
 defaults:
   # _posts
