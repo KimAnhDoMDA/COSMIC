@@ -5,7 +5,7 @@ layout: splash
 
 <div class="responsive-container-block outer-container">
   <div class="responsive-container-block inner-container">
-    <div class="text-blk section-head-text">
+    <div class="text-blk section-head-text" style="margin-top:1em;">
       Meet Our Team
     </div>
     <div class="responsive-container-block1">
@@ -713,7 +713,6 @@ layout: splash
       </div>
     </div>
 </div>
-
 
 
 

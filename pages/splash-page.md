@@ -74,7 +74,7 @@ Our group provides critical collaborative expertise (nonparametric multivariable
 
 <div class="centerIframe">
 <h1></h1>
-<iframe src="https://onedrive.live.com/embed?resid=DD1D7A6CCCA3FEEC%2160909&amp;authkey=!ALLKjlXnQyb-dDA&amp;em=2&amp;wdAr=1.7777777777777777" width="1000px" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?resid=DD1D7A6CCCA3FEEC%2160909&amp;authkey=!ALLKjlXnQyb-dDA&amp;em=2&amp;wdAr=1.7777777777777777" width="700px" height="600px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 </div>
 
 

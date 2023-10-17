@@ -12,7 +12,7 @@ author_profile: true
     </figure>
 </div>
 
-<div style="margin-bottom: 1.5em; margin-top: -1.5em;">
+<div style="margin-bottom: 1.5em; margin-top: 2em;">
 <details>
 <summary><h1 style="display:inline;">About Me</h1></summary>
 <p style="margin-top:1em;">
