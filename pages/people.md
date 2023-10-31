@@ -383,7 +383,7 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="/assets/images/alumni/1.jpg">
+              <img class="team-img" src="../assets/images/alumni/1.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Min Jin Ha
@@ -398,7 +398,7 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="/assets/images/alumni/2.jpg">
+              <img class="team-img" src="../assets/images/alumni/2.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Yushu Shi
@@ -413,7 +413,7 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="/assets/images/alumni/3.jpg">
+              <img class="team-img" src="../assets/images/alumni/3.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Liangliang Zhang
@@ -428,7 +428,7 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="/assets/images/alumni/4.jpg">
+              <img class="team-img" src="../assets/images/alumni/4.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Priyam Das
@@ -443,7 +443,7 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="/assets/images/alumni/5.jpg">
+              <img class="team-img" src="../assets/images/alumni/5.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Caleb Class
@@ -460,7 +460,7 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="/assets/images/alumni/6.jpg">
+              <img class="team-img" src="../assets/images/alumni/6.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Faezeh Darbanyian
@@ -490,7 +490,7 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="/assets/images/alumni/8.jpg">
+              <img class="team-img" src="../assets/images/alumni/8.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Licai Huang
@@ -505,7 +505,7 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="/assets/images/alumni/9.jpg">
+              <img class="team-img" src="../assets/images/alumni/9.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Thierry Chekou
@@ -520,7 +520,7 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="/assets/images/alumni/10.jpg">
+              <img class="team-img" src="../assets/images/alumni/10.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               David Shih
@@ -552,7 +552,7 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="/assets/images/alumni/12.jpg">
+              <img class="team-img" src="../assets/images/alumni/12.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Nabihah Tayob
@@ -567,7 +567,7 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="/assets/images/alumni/13.jpg">
+              <img class="team-img" src="../assets/images/alumni/13.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Song Zhang
@@ -597,7 +597,7 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="/assets/images/alumni/15.jpg">
+              <img class="team-img" src="../assets/images/alumni/15.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Yuan Wang
