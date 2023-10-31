@@ -14,7 +14,7 @@ gallery:
     alt: "placeholder image 2"
     title: "Presentations"
   - url: "/assets/images/group.JPG"
-    image_path: "/assets/images/group.jpg"
+    image_path: "/assets/images/group.JPG"
     alt: "placeholder image 3"
     title: "Group photo"
   - url: "https://btseng22.github.io/KDo/assets/images/group3.JPG"
