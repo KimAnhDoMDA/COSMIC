@@ -58,7 +58,7 @@ social:
 
 author:
   name: "Kim-Anh Do, Ph.D."
-  avatar: "../assets/images/KDoHeadshot.JPG"
+  avatar: "./assets/images/KDoHeadshot.JPG"
 
   bio: "Pioneering Progress in Biostatistics and Cancer Research" # Note: Markdown is allowed
   

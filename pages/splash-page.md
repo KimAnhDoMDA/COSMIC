@@ -7,31 +7,31 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/splash.JPG
+  overlay_image: ./assets/images/splash.JPG
 excerpt: "Computational Statistics, Biology, and Oncology"
 feature_row:
-  - image_path: /assets/images/blood-test.JPG
+  - image_path: ./assets/images/blood-test.JPG
     alt: "Article 1"
     date: ///
     image_caption: "09-20-2023"
     title: "Mortality Benefit of a Blood-Based Biomarker Panel for Lung Cancer on the Basis of the Prostate, Lung, Colorectal, and Ovarian Cohort"
     excerpt: "To investigate the utility of integrating a panel of circulating protein biomarkers in combination with a risk model on the basis of subject characteristics to identify individuals at high risk of harboring a lethal lung cancer... <br/><br/> (Click on title to read more)"
     url: "https://ascopubs.org/doi/abs/10.1200/JCO.22.02424?role=tab&journalCode=jco"
-  - image_path: /assets/images/oral-microbiome.JPG
+  - image_path: ./assets/images/oral-microbiome.JPG
     alt: "Article 2"
     date: ///
     image_caption: "09-08-2023"
     title: "Study finds link between oral microbiome and common side effect in patients with head and neck cancer"
     excerpt: "Oral mucositis – the development of sores in the mouth – is a common side effect for patients with head and neck cancers, affecting as many as 90%. It can lead to difficulty eating, weight loss, and readmission or prolonged hospital stays to manage pain or infections... <br/><br/> (Click on title to read more)"
     url: "https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.35001"
-  - image_path: /assets/images/microbiome.JPG
+  - image_path: ./assets/images/microbiome.JPG
     alt: "Article 5"
     date: ///
     image_caption: "02-13-2023"
     title: "Microbiome Heterogeneity in Pancreatic Cancer: Sparse Tree-Based Clustering"
     excerpt: "A novel unsupervised clustering approach in the Bayesian framework to characterize variation in the microbiome across cancer patients. Our proposed method innovates over existing model-based clustering approaches, such as the Dirichlet multinomial mixture model... <br/><br/> (Click on title to read more)"
     url: "https://pubmed.ncbi.nlm.nih.gov/37034187/"
-  - image_path: /assets/images/article4.JPG
+  - image_path: ./assets/images/article4.JPG
     alt: "Article 4"
     date: ///
     image_caption: "01-17-2023"
@@ -57,7 +57,7 @@ We also participate in the education and training of the next generation of comp
 
 <div class="center">
 <figure class="center">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/group.jpg" class="responsive-image" alt="">
+<img src="{{ site.url }}/assets/images/group.jpg" class="responsive-image" alt="">
 <figcaption>Dr Kim-Anh Do with the COSBO team 2023</figcaption>
 </figure>
 </div>
