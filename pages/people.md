@@ -183,6 +183,52 @@ layout: splash
                     </div>
                   </div>
                 </div>
+                <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+                    <div class="team-card">
+                      <div class="img-wrapper">
+                        <img class="team-img" src="../assets/images/samH.JPG">
+                      </div>
+                      <p class="text-blk name" style="margin-top:1em;">
+                        Samir Hanash, MD, PhD
+                      </p>
+                      <p class="text-blk position" style="margin-top:-1em;">
+                      <a href="https://faculty.mdanderson.org/profiles/samir_hanash.html" target="_blank" style="text-decoration: none; color: black;">
+                        Faculty Collaborator
+                      </a>
+                      </p>
+                      <div class="social-media-links">
+                        <a href="shanash@mdanderson.org" target="_blank">
+                          <i class="fa fa-envelope" style="color: #000000;"></i>
+                        </a>
+                        <a href="https://mdanderson.elsevierpure.com/en/persons/samir-hanash" target="_blank">
+                          <i class="fa fa-link" style="color: #000000;"></i>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+                    <div class="team-card">
+                      <div class="img-wrapper">
+                        <img class="team-img" src="../assets/images/johannesF.JPG">
+                      </div>
+                      <p class="text-blk name" style="margin-top:1em;">
+                        Johannes Fahrmann, PhD
+                      </p>
+                      <p class="text-blk position" style="margin-top:-1em;">
+                      <a href="https://faculty.mdanderson.org/profiles/johannes_fahrmann.html" target="_blank" style="text-decoration: none; color: black;">
+                        Faculty Collaborator
+                      </a>
+                      </p>
+                      <div class="social-media-links">
+                        <a href="JFFahrmann@mdanderson.org" target="_blank">
+                          <i class="fa fa-envelope" style="color: #000000;"></i>
+                        </a>
+                        <a href="https://mdanderson.elsevierpure.com/en/persons/johannes-francois-fahrmann" target="_blank">
+                          <i class="fa fa-link" style="color: #000000;"></i>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
   </div>   
   <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   <!-- End Second Row -->
@@ -478,21 +524,6 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/bio-photo.jpg">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              Junghi Kim
-            </p>
-            <div class="social-media-links">
-              <a href="https://www.linkedin.com/in/junghi-kim-a8610b29" target="_blank">
-                <i class="fa fa-link" style="color: #000000;"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
               <img class="team-img" src="../assets/images/alumni/8.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
@@ -540,21 +571,6 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/bio-photo.jpg">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              Clemete Aguilar
-            </p>
-            <div class="social-media-links">
-              <a href="" target="_blank">
-                <i class="fa fa-link" style="color: #000000;"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
               <img class="team-img" src="../assets/images/alumni/12.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
@@ -577,21 +593,6 @@ layout: splash
             </p>
             <div class="social-media-links">
               <a href="https://profiles.utsouthwestern.edu/profile/97222/song-zhang.html" target="_blank">
-                <i class="fa fa-link" style="color: #000000;"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/bio-photo.jpg">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              Wenting Wang
-            </p>
-            <div class="social-media-links">
-              <a href="https://www.linkedin.com/in/wenting-wang-58260371" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
               </a>
             </div>
@@ -647,21 +648,6 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/bio-photo.jpg">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              Xuebei An
-            </p>
-            <div class="social-media-links">
-              <a href="" target="_blank">
-                <i class="fa fa-link" style="color: #000000;"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
               <img class="team-img" src="../assets/images/alumni/19.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
@@ -694,21 +680,6 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/bio-photo.jpg">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              Vinicius Bonato
-            </p>
-            <div class="social-media-links">
-              <a href="" target="_blank">
-                <i class="fa fa-link" style="color: #000000;"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
               <img class="team-img" src="../assets/images/alumni/22.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
@@ -716,21 +687,6 @@ layout: splash
             </p>
             <div class="social-media-links">
               <a href="https://www.blackhat.com/us-14/speakers/Raj-Bandyopadhyay.html" target="_blank">
-                <i class="fa fa-link" style="color: #000000;"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/bio-photo.jpg">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              Lori Jackson
-            </p>
-            <div class="social-media-links">
-              <a href="" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
               </a>
             </div>
@@ -767,7 +723,18 @@ layout: splash
           </div>
         </div>
       </div>
-
+    </div>
+  </div>
+<div class="responsive-container-block inner-container">
+  <div class="row-container" style="margin-top: 3em;">
+    <p class="text-blk name" style="margin-right:5em;">Junghi Kim</p>
+    <p class="text-blk name" style="margin-right:5em;">Clemete Aguilar</p>
+    <p class="text-blk name" style="margin-right:5em;">Wenting Wang</p>
+    <p class="text-blk name" style="margin-right:5em;">Xuebei An</p>
+    <p class="text-blk name" style="margin-right:5em;">Vinicius Bonato</p>
+    <p class="text-blk name" style="margin-right:5em;">Lori Jackson</p>
+  </div>
+</div>
 
 
 

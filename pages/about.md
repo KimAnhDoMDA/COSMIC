@@ -125,4 +125,23 @@ Her unwavering commitment to statistical, medical, and cancer research is eviden
 </details>
 </div>
 
+<div style="margin-top:1.5em;">
+<details>
+<summary><h2 style="display: inline;">Softwares</h2></summary>
+<ul>
+    <li>CAMLU</li>
+    <li>PRECISE</li>
+    <li>DINGO, iDINGO</li>
+    <li>NEXUS</li>
+    <li>SIFORM</li>
+    <li>PROGPERM</li>
+    <li>BAZE</li>
+    <li>aPCoA</li>
+    <li>sparseMbClust</li>
+    <li>IooPA</li>
+    <li>mediate</li>
+</ul>
+</details>
+</div>
+
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>

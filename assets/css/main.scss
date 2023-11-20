@@ -129,6 +129,13 @@ body {
     //margin-bottom: 50px;
     margin-left: auto;
   }
+
+  .row-container {
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    margin-right: 1em;
+  }
   
   .section-head-text {
     margin-top: -2em;
