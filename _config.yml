@@ -34,17 +34,11 @@ defaults:
     values:
       show_date: true
 
-date_format: "%Y-%m-%d"
+date_format: "%m-%d-%Y"
 
 search: true
 lunr:
   search_within_pages: true
-
-facebook:
-  app_id:  # A Facebook app ID
-
-facebook:
-  username: "kimanh.do.16"  # https://www.facebook.com/kimanh.do.16
 
 og_image: "https://www.creativefabrica.com/wp-content/uploads/2022/10/29/1667046714/DNA-Icon-580x386.jpg"
 
@@ -52,8 +46,6 @@ social:
   type:  # Person or Organization (defaults to Person)
   name:  # If the user or organization name differs from the site's name
   links:
-    - "https://www.facebook.com/kimanh.do.16"
-    - "https://www.instagram.com/klassykim1/"
     - "https://www.linkedin.com/in/kim-anh-do-35b31463/"
 
 author:
@@ -65,11 +57,7 @@ author:
   location: "Houston, TX"
   links:
     - label: "My Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://faculty.mdanderson.org/profiles/kim-anh_do.html"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-f"
-      url: "http://www.facebook.com/kimanh.do.16"
+      icon: "https://faculty.mdanderson.org/profiles/kim-anh_do.html"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kim-anh-do-35b31463/"

@@ -9,15 +9,16 @@
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <div class="center">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
   </head>
+  </div>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
     {% include_cached skip-links.html %}
     {% include_cached masthead.html %}
-
     <div class="initial-content-splash">
       {{ content }}
     </div>
@@ -36,6 +37,5 @@
     </div>
 
     {% include scripts.html %}
-
   </body>
 </html>
