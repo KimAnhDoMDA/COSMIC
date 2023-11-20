@@ -9,88 +9,6 @@ layout: splash
       Meet Our Team
     </div>
     <!-- First row -->
-            <div class="responsive-container-block">
-                <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-                    <div class="team-card">
-                      <div class="img-wrapper">
-                        <img class="team-img" src="../assets/images/robertJ.JPG">
-                      </div>
-                      <p class="text-blk name" style="margin-top:1em;">
-                        Robert R Jenq, MD
-                      </p>
-                      <p class="text-blk position" style="margin-top:-1em;">
-                      <a href="https://faculty.mdanderson.org/profiles/robert_jenq.html" target="_blank" style="text-decoration: none; color: black;">
-                        Faculty Collaborator
-                      </a>
-                      </p>
-                      <div class="social-media-links">
-                        <a href="rrjenq@mdanderson.org" target="_blank">
-                          <i class="fa fa-envelope" style="color: #000000;"></i>
-                        </a>
-                        <a href="https://www.mdanderson.org/research/departments-labs-institutes/labs/jenq-laboratory.html" target="_blank">
-                          <i class="fa fa-link" style="color: #000000;"></i>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-                  <div class="team-card">
-                    <div class="img-wrapper">
-                      <img class="team-img" src="../assets/images/KDoHeadshot.JPG">
-                    </div>
-                    <p class="text-blk name" style="margin-top:1em;">
-                      Kim-Anh Do, Ph.D.
-                    </p>
-                    <p class="text-blk position" style="margin-top:-1em;">
-                    <a href="https://faculty.mdanderson.org/profiles/kim-anh_do.html" target="_blank" style="text-decoration: none; color: black;">
-                      Team Leader
-                    </a>
-                    </p>
-                    <div class="social-media-links1">
-                      <a href="http://www.facebook.com/kimanh.do.16" target="_blank">
-                        <i class="fab fa-facebook-f" style="color: #000000;"></i>
-                      </a>
-                      <a href="mailto:kim@mdanderson.org" target="_blank">
-                        <i class="fa fa-envelope" style="color: #000000;"></i>
-                      </a>
-                      <a href="https://www.linkedin.com/in/kim-anh-do-35b31463/" target="_blank">
-                        <i class="fab fa-linkedin" style="color: #000000;"></i>
-                      </a>
-                      <a href="https://faculty.mdanderson.org/profiles/kim-anh_do.html" target="_blank">
-                        <i class="fa fa-link" style="color: #000000;"></i>
-                      </a>
-                      <a href="https://scholar.google.com/citations?user=Ixr1k3gAAAAJ&hl=en" target="_blank">
-                        <i class="fab fa-google" style="color: #000000;"></i>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-                  <div class="team-card">
-                    <div class="img-wrapper">
-                      <img class="team-img" src="../assets/images/cielitoR.JPG">
-                    </div>
-                    <p class="text-blk name" style="margin-top:1em;">
-                      Cielito C. Reyes-Gibby, Dr.PH
-                    </p>
-                    <p class="text-blk position" style="margin-top:-1em;">
-                    <a href="https://faculty.mdanderson.org/profiles/robert_jenq.html" target="_blank" style="text-decoration: none; color: black;">
-                      Faculty Collaborator
-                    </a>
-                    </p>
-                    <div class="social-media-links">
-                      <a href="mailto:creyes@mdanderson.org" target="_blank">
-                        <i class="fa fa-envelope" style="color: #000000;"></i>
-                      </a>
-                      <a href="https://profiles.viictr.org/display/12583737" target="_blank">
-                        <i class="fa fa-link" style="color: #000000;"></i>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-  <!-- End First row -->
-  <!-- Second Row Start-->
     <div class="responsive-container-block">
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
@@ -124,7 +42,7 @@ layout: splash
             Ehsan Irajizad, Ph.D.
           </p>
           <p class="text-blk position" style="margin-top:-1em;">
-          <a href="https://faculty.mdanderson.org/profiles/ehsan_irajizad.html" target="_blank" style="text-decoration: none; color: black;">
+          <a href="../assets/EhsanIrajizadCV.pdf" target="_blank" style="text-decoration: none; color: black;">
             Faculty Leader
           </a>
           </p>
@@ -138,6 +56,35 @@ layout: splash
           </div>
         </div>
       </div>
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+                  <div class="team-card">
+                    <div class="img-wrapper">
+                      <img class="team-img" src="../assets/images/KDoHeadshot.JPG">
+                    </div>
+                    <p class="text-blk name" style="margin-top:1em;">
+                      Kim-Anh Do, Ph.D.
+                    </p>
+                    <p class="text-blk position" style="margin-top:-1em;">
+                    <a href="https://faculty.mdanderson.org/profiles/kim-anh_do.html" target="_blank" style="text-decoration: none; color: black;">
+                      Team Leader
+                    </a>
+                    </p>
+                    <div class="social-media-links1">
+                      <a href="mailto:kim@mdanderson.org" target="_blank">
+                        <i class="fa fa-envelope" style="color: #000000;"></i>
+                      </a>
+                      <a href="https://www.linkedin.com/in/kim-anh-do-35b31463/" target="_blank">
+                        <i class="fab fa-linkedin" style="color: #000000;"></i>
+                      </a>
+                      <a href="https://faculty.mdanderson.org/profiles/kim-anh_do.html" target="_blank">
+                        <i class="fa fa-link" style="color: #000000;"></i>
+                      </a>
+                      <a href="https://scholar.google.com/citations?user=Ixr1k3gAAAAJ&hl=en" target="_blank">
+                        <i class="fab fa-google" style="color: #000000;"></i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
@@ -187,6 +134,57 @@ layout: splash
     </div>
   </div>
 </div>
+  <!-- End First row -->
+  <!-- Second Row Start-->
+ <div class="responsive-container-block">
+                <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+                    <div class="team-card">
+                      <div class="img-wrapper">
+                        <img class="team-img" src="../assets/images/robertJ.JPG">
+                      </div>
+                      <p class="text-blk name" style="margin-top:1em;">
+                        Robert R Jenq, MD
+                      </p>
+                      <p class="text-blk position" style="margin-top:-1em;">
+                      <a href="https://faculty.mdanderson.org/profiles/robert_jenq.html" target="_blank" style="text-decoration: none; color: black;">
+                        Faculty Collaborator
+                      </a>
+                      </p>
+                      <div class="social-media-links">
+                        <a href="rrjenq@mdanderson.org" target="_blank">
+                          <i class="fa fa-envelope" style="color: #000000;"></i>
+                        </a>
+                        <a href="https://www.mdanderson.org/research/departments-labs-institutes/labs/jenq-laboratory.html" target="_blank">
+                          <i class="fa fa-link" style="color: #000000;"></i>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+                  <div class="team-card">
+                    <div class="img-wrapper">
+                      <img class="team-img" src="../assets/images/cielitoR.JPG">
+                    </div>
+                    <p class="text-blk name" style="margin-top:1em;">
+                      Cielito C. Reyes-Gibby, Dr.PH
+                    </p>
+                    <p class="text-blk position" style="margin-top:-1em;">
+                    <a href="https://faculty.mdanderson.org/profiles/robert_jenq.html" target="_blank" style="text-decoration: none; color: black;">
+                      Faculty Collaborator
+                    </a>
+                    </p>
+                    <div class="social-media-links">
+                      <a href="mailto:creyes@mdanderson.org" target="_blank">
+                        <i class="fa fa-envelope" style="color: #000000;"></i>
+                      </a>
+                      <a href="https://profiles.viictr.org/display/12583737" target="_blank">
+                        <i class="fa fa-link" style="color: #000000;"></i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+  </div>   
+  <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   <!-- End Second Row -->
   <!-- Start Third row-->
   <hr>
@@ -243,6 +241,7 @@ layout: splash
   </div>
 </div>
   <!-- End Third Row -->
+<a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   <!-- Start Fourth row -->
 <hr>
 <div class="responsive-container-block outer-container">
@@ -308,7 +307,7 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/bio-photo.JPG">
+              <img class="team-img" src="../assets/images/HongxuZ.JPG">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Hongxu Zhu
@@ -373,6 +372,7 @@ layout: splash
   </div>
 </div>
 <!--End Fifth Row -->
+<a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 <hr>
 <div class="responsive-container-block outer-container">
   <div class="responsive-container-block inner-container">
@@ -468,6 +468,9 @@ layout: splash
             <div class="social-media-links">
               <a href="https://www.linkedin.com/in/faezeh-darbaniyan-047b9098" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
+              </a>
+              <a href="https://scholar.google.com/citations?user=LnUCtngAAAAJ&hl=en&oi=ao" target="_blank">
+                        <i class="fab fa-google" style="color: #000000;"></i>
               </a>
             </div>
           </div>

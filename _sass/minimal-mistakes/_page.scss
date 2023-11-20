@@ -230,11 +230,12 @@ body {
     }
 
     .page__lead {
-      max-width: $medium;
+      text-align: center;
     }
 
     .page__title {
       font-size: $type-size-3;
+      text-align:center;
 
       @include breakpoint($small) {
         font-size: $type-size-1;

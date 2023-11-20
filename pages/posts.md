@@ -3,5 +3,5 @@ title: "Published Papers"
 layout: posts
 permalink: /papers/
 classes: wide
-author_profile: false
+author_profile: true
 ---
