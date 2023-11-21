@@ -21,4 +21,8 @@ gallery:
     image_path: "/assets/images/group3.JPG"
     alt: "placeholder image 4"
     title: "Team Lunch at India's Restaurant"
+  - url: "/assets/images/Lunch2023.JPG"
+    image_path: "/assets/images/Lunch2023.JPG"
+    alt: "placeholder image 5"
+    title: "Department Fall Lunch 2023"
 ---
