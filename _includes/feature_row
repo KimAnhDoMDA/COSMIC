@@ -18,7 +18,7 @@
                 {% if f.date %}
                   <p></p>
                 {% endif %}
-                {% if f.image_caption %}
+                {% if f.image_caption and f.image_caption != "" %}
                   <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
                 {% endif %}
           </div>
