@@ -108,7 +108,7 @@ We also participate in the education and training of the next generation of comp
 
 <div class="center">
 <figure class="center">
-<img src="./assets/images/group.JPG" class="responsive-image" alt="">
+<img src="./assets/images/group.jpg" class="responsive-image" alt="">
 <figcaption>Dr Kim-Anh Do with the COSBO team 2023</figcaption>
 </figure>
 </div>
