@@ -244,7 +244,7 @@ layout: splash
           <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
             <div class="team-card">
               <div class="img-wrapper">
-                <img class="team-img" src="../assets/images/bio-photo.JPG">
+                <img class="team-img" src="../assets/images/satabdiS.JPG">
               </div>
               <p class="text-blk name" style="margin-top:1em;">
                 Satabdi Saha, Ph.D.
@@ -375,7 +375,7 @@ layout: splash
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
-            <img class="team-img" src="../assets/images/bio-photo.JPG">
+            <img class="team-img" src="../assets/images/aRoy.JPG">
           </div>
             <p class="text-blk name" style="margin-top:1em;">
               Abhishikta Roy
