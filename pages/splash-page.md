@@ -90,7 +90,7 @@ feature_row3:
     url: "https://www.frontiersin.org/articles/10.3389/frai.2022.876100/full" 
 
 ---
-<div class="center">
+<div class="center" style="max-width: 800px">
 <p style="text-align: center">
 Dr. Kim-Anh Do and her dedicated research team are at the forefront of cutting-edge development in <br/> 
 <b>COmputational Statistics, Biology, and Oncology (COSBO).</b> <br/>
@@ -114,7 +114,7 @@ We also participate in the education and training of the next generation of comp
 </div>
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 <div class="centerIframe">
-<h2 style="text-align:center">Recent Talk at Texas A&M</h2>
+<h2 style="text-align:center; color: black;">Recent Talk at Texas A&M</h2>
 <iframe src="https://onedrive.live.com/embed?resid=DD1D7A6CCCA3FEEC%2160909&amp;authkey=%21ALLKjlXnQyb-dDA&amp;em=2&amp;wdAr=1.7777777777777777" class="responsive-image" width="105%" height="500px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 </div>
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>

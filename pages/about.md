@@ -129,17 +129,17 @@ Her unwavering commitment to statistical, medical, and cancer research is eviden
 <details>
 <summary><h2 style="display: inline;">Softwares</h2></summary>
 <ul>
-    <li>CAMLU</li>
-    <li>PRECISE</li>
-    <li>DINGO, iDINGO</li>
-    <li>NEXUS</li>
+    <li><a href="https://github.com/ziyili20/CAMLU.git" target="_blank">CAMLU</a></li>
+    <li><a href="https://github.com/MinJinHa/PRECISE" target="_blank">PRECISE</a></li>
+    <li><a href="https://github.com/cran/iDINGO.git" target="_blank">DINGO, iDINGO</a></li>
+    <li><a href="https://github.com/priyamdas2/NExUS" target="_blank">NExUS</a></li>
     <li>SIFORM</li>
-    <li>PROGPERM</li>
-    <li>BAZE</li>
-    <li>aPCoA</li>
-    <li>sparseMbClust</li>
+    <li><a href="https://biostatistics.mdanderson.org/shinyapps/ProgPerm/" target="_blank">ProgPerm</a></li>
+    <li><a href="https://www.example.com" target="_blank">BAZE</a></li>
+    <li><a href="https://biostatistics.mdanderson.org/shinyapps/aPCoA/" target="_blank">aPCoA</a></li>
+    <li><a href="https://github.com/YushuShi/sparseMbClust/" target="_blank">sparseMbClust</a></li>
     <li>IooPA</li>
-    <li>mediate</li>
+    <li><a href="https://github.com/longjp/mediateR" target="_blank">mediate</a></li>
 </ul>
 </details>
 </div>
