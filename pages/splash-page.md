@@ -90,7 +90,7 @@ feature_row3:
     url: "https://www.frontiersin.org/articles/10.3389/frai.2022.876100/full" 
 
 ---
-<div class="center" style="max-width: 800px">
+<div class="center" style="max-width: 800px; font-size: 1.1em;">
 <p style="text-align: center">
 Dr. Kim-Anh Do and her dedicated research team are at the forefront of cutting-edge development in <br/> 
 <b>COmputational Statistics, Biology, and Oncology (COSBO).</b> <br/>
