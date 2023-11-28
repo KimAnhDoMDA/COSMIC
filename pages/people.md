@@ -268,7 +268,7 @@ layout: splash
                 <img class="team-img" src="../assets/images/mahmoodG.JPG">
               </div>
               <p class="text-blk name" style="margin-top:1em;">
-                Seyyed Mahmood Ghasemi
+                Seyyed Mahmood Ghasemi, Ph.D.
               </p>
               <p class="text-blk position" style="margin-top:-1em;">
                 Postdoctoral Fellow

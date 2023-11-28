@@ -3,19 +3,19 @@ permalink: /about/
 layout: "single"
 author_profile: true
 ---
-<div style="display: flex; margin-bottom: -15%;">
-    <figure class="left" style="flex: 4; padding-right: 10px;">
+<div style="display: flex; margin-bottom: -50px;">
+    <figure class="left" style="flex: 5;">
         <img src="{{ site.url }}/assets/images/researchTheme.JPG" alt="">
     </figure>
     <figure class="right" style="flex: 3;">
         <img src="{{ site.url }}/assets/images/books.JPG" alt="">
     </figure>
 </div>
-
-<div style="margin-bottom: 1.5em; margin-top: 2em;">
+<div style="width: 1000px;">
 <details>
 <summary><h2 style="display:inline;">About Me</h2></summary>
-<p style="margin-top:1em;">
+<p2>
+<br>
 Dr. Kim-Anh Do, Ph.D., is a distinguished figure in the realm of biostatistics and cancer research.<br>
 She earned combined degrees in mathematics and computer science from the University of Queensland <br> 
 (First Class Honors) in 1983, and won the Caltex Woman of the Year Award to pursue
@@ -30,7 +30,7 @@ Her impact is further evident through her vital roles as the primary statisticia
 With significant publications in various domains, her most recent research endeavors focus on developing clustering and analytical methods for genomic, proteomic, and microbiome expressions. <br>
 Dr. Do has also made substantial contributions through the development of bioinformatics software and the authoring of 3 relevant books. <br> <br>
 Her unwavering commitment to statistical, medical, and cancer research is evident through her portfolio of over 260 published articles, a testament to her lasting impact on the field. 
-</p>
+</p2>
 </details>
 </div>
 
