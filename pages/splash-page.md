@@ -92,14 +92,14 @@ feature_row3:
 ---
 <div class="center" style="max-width: 800px; font-size: 20px;">
 <p style="text-align: center">
-Dr. Kim-Anh Do and her dedicated research team are at the forefront of cutting-edge development in <br/> 
+Our dedicated research team are at the forefront of cutting-edge development in <br/> 
 <b>COmputational Statistics, Biology, and Oncology (COSBO).</b> <br/>
 <br />
-This dynamic group provides a wealth of expertise in developing statistical and machine-learning methodologies for the integration and analysis of biological omic data (genomic, transcriptomic, proteomic, metabolomic, microbiome, single cell RNA-sequencing, and spatial transcriptomic), <br/>
+Our dynamic group provides a wealth of expertise in developing statistical and machine-learning methodologies for the integration and analysis of biological omic data (genomic, transcriptomic, proteomic, metabolomic, microbiome, single cell RNA-sequencing, and spatial transcriptomic), <br/>
 producing computational tools to efficiently apply our statistical methods <br/>to large biological data sets, small clinical data sets or large pan-cancer data sets.<br/>
 <br/>
-Together, they are passionately committed to advancing statistical research and its transformative impact on healthcare.
-Their collective efforts underscore the significance of rigorous statistical methods in unraveling the complexities of biological data, marking them as vital contributors to the ongoing progress of these fields, particularly in personalized medicine and precision oncology. <br/> <br/>
+Together, we are passionately committed to advancing statistical research and its transformative impact on healthcare.
+Our collective efforts underscore the significance of rigorous statistical methods in unraveling the complexities of biological data, marking them as vital contributors to the ongoing progress of these fields, particularly in personalized medicine and precision oncology. <br/> <br/>
 Our group provides critical collaborative expertise (nonparametric multivariable and <br/>dimension reduction methodologies, Bayesian methodology, graphical network modeling, <br/>
 feature selection of biomarkers, deep learning methodology and causal models to maximize causal prediction performance) to <br/> data scientists, biologists, clinicians, bioinformaticians, geneticists, and statisticians.
 <br/>

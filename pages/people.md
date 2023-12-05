@@ -20,7 +20,7 @@ layout: splash
           </p>
           <p class="text-blk position" style="margin-top:-1em;">
           <a href="https://faculty.mdanderson.org/profiles/christine_peterson.html" target="_blank" style="text-decoration: none; color: black;">
-            Faculty Leader
+            Biostatistics Faculty Leader
           </a>
           </p>
           <div class="social-media-links">
@@ -43,7 +43,7 @@ layout: splash
           </p>
           <p class="text-blk position" style="margin-top:-1em;">
           <a href="../assets/EhsanIrajizadCV.pdf" target="_blank" style="text-decoration: none; color: black;">
-            Faculty Leader
+            Biostatistics Faculty Leader
           </a>
           </p>
           <div class="social-media-links">
@@ -66,7 +66,7 @@ layout: splash
                     </p>
                     <p class="text-blk position" style="margin-top:-1em;">
                     <a href="https://faculty.mdanderson.org/profiles/kim-anh_do.html" target="_blank" style="text-decoration: none; color: black;">
-                      Team Leader
+                      Biostatistics Team Leader
                     </a>
                     </p>
                     <div class="social-media-links1">
@@ -95,7 +95,7 @@ layout: splash
           </p>
           <p class="text-blk position" style="margin-top:-1em;">
           <a href="https://faculty.mdanderson.org/profiles/james_long.html" target="_blank" style="text-decoration: none; color: black;">
-            Faculty Leader
+            Biostatistics Faculty Leader
           </a>
           </p>
           <div class="social-media-links">
@@ -118,7 +118,7 @@ layout: splash
           </p>
           <p class="text-blk position" style="margin-top:-1em;">
           <a href="https://faculty.mdanderson.org/profiles/ziyi_li.html" target="_blank" style="text-decoration: none; color: black;">
-            Faculty Leader
+            Biostatistics Faculty Leader
           </a>
           </p>
           <div class="social-media-links">
@@ -147,7 +147,7 @@ layout: splash
                       </p>
                       <p class="text-blk position" style="margin-top:-1em;">
                       <a href="https://faculty.mdanderson.org/profiles/robert_jenq.html" target="_blank" style="text-decoration: none; color: black;">
-                        Faculty Collaborator
+                        Major Faculty Collaborator
                       </a>
                       </p>
                       <div class="social-media-links">
@@ -170,7 +170,7 @@ layout: splash
                     </p>
                     <p class="text-blk position" style="margin-top:-1em;">
                     <a href="https://faculty.mdanderson.org/profiles/robert_jenq.html" target="_blank" style="text-decoration: none; color: black;">
-                      Faculty Collaborator
+                      Major Faculty Collaborator
                     </a>
                     </p>
                     <div class="social-media-links">
@@ -193,7 +193,7 @@ layout: splash
                       </p>
                       <p class="text-blk position" style="margin-top:-1em;">
                       <a href="https://faculty.mdanderson.org/profiles/samir_hanash.html" target="_blank" style="text-decoration: none; color: black;">
-                        Faculty Collaborator
+                        Major Faculty Collaborator
                       </a>
                       </p>
                       <div class="social-media-links">
@@ -216,7 +216,7 @@ layout: splash
                       </p>
                       <p class="text-blk position" style="margin-top:-1em;">
                       <a href="https://faculty.mdanderson.org/profiles/johannes_fahrmann.html" target="_blank" style="text-decoration: none; color: black;">
-                        Faculty Collaborator
+                        Major Faculty Collaborator
                       </a>
                       </p>
                       <div class="social-media-links">
