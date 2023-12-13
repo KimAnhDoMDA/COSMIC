@@ -11,7 +11,7 @@ gallery:
     title: "Tuesday meetings"
   - url: "https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/f8ab09bf941f8b81f66c31743365f0f1b70e8a19/assets/images/group.JPG"
     image_path: "https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/f8ab09bf941f8b81f66c31743365f0f1b70e8a19/assets/images/group.JPG"
-    alt: "Group photo"
+    alt: "placeholder image 3"
     title: "Group photo"
   - url: /assets/images/group2.JPG
     image_path: /assets/images/group2.JPG
