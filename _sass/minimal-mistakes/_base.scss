@@ -27,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 1em 0 0.5em;
+  margin: 0.5em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
@@ -208,7 +208,6 @@ figure {
   margin: 2em 0;
 
   img,
-  iframe,
   .fluid-width-video-wrapper {
     margin-bottom: 1em;
     display:flex;

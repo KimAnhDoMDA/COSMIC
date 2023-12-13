@@ -140,6 +140,7 @@ Her unwavering commitment to statistical, medical, and cancer research is eviden
     <li><a href="https://github.com/YushuShi/sparseMbClust/" target="_blank">sparseMbClust</a></li>
     <li>IooPA</li>
     <li><a href="https://github.com/longjp/mediateR" target="_blank">mediate</a></li>
+    <li><a href="https://odin.mdacc.tmc.edu/~kim/geneclust/" target="_blank">GENECLUST</a></li>
 </ul>
 </details>
 </div>

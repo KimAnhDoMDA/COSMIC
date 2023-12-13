@@ -169,7 +169,7 @@ layout: splash
                       Cielito C. Reyes-Gibby, Dr.PH
                     </p>
                     <p class="text-blk position" style="margin-top:-1em;">
-                    <a href="https://faculty.mdanderson.org/profiles/robert_jenq.html" target="_blank" style="text-decoration: none; color: black;">
+                    <a href="https://faculty.mdanderson.org/profiles/cielito_c_reyes-gibby.html" target="_blank" style="text-decoration: none; color: black;">
                       Major Faculty Collaborator
                     </a>
                     </p>
@@ -179,6 +179,32 @@ layout: splash
                       </a>
                       <a href="https://profiles.viictr.org/display/12583737" target="_blank">
                         <i class="fa fa-link" style="color: #000000;"></i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+                  <div class="team-card">
+                    <div class="img-wrapper">
+                      <img class="team-img" src="../assets/images/bradleyB.JPG">
+                    </div>
+                    <p class="text-blk name" style="margin-top:1em;">
+                      Bradley M. Broom, Ph.D.
+                    </p>
+                    <p class="text-blk position" style="margin-top:-1em;">
+                    <a href="https://faculty.mdanderson.org/profiles/bradley_broom.html" target="_blank" style="text-decoration: none; color: black;">
+                      Major Faculty Collaborator
+                    </a>
+                    </p>
+                    <div class="social-media-links">
+                      <a href="mailto:bmbroom@mdanderson.org" target="_blank">
+                        <i class="fa fa-envelope" style="color: #000000;"></i>
+                      </a>
+                      <a href="https://odin.mdacc.tmc.edu/~bmbroom/" target="_blank">
+                        <i class="fa fa-link" style="color: #000000;"></i>
+                      </a>
+                      <a href="https://www.linkedin.com/in/bradley-broom-6546377" target="_blank">
+                        <i class="fab fa-linkedin" style="color: #000000;"></i>
                       </a>
                     </div>
                   </div>

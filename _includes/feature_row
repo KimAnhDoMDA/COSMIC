@@ -29,14 +29,20 @@
           {% endif %}
 
           {% if f.excerpt %}
-            <div class="archive__item-excerpt">
-              {{ f.excerpt | markdownify }}
+            <div class="archive__item-excerpt" style="overflow: hidden; text-overflow: ellipsis;"> 
+              {{ f.excerpt | markdownify | strip_html | truncatewords: 40 }} 
+              <br/><br/>
             </div>
           {% endif %}
 
           {% if f.url %}
             <p><a href="{{ f.url | relative_url }}" target="_blank">{{default: site.data.ui-text[site.locale] }}</a></p>
           {% endif %}
+
+        </div>
+        <div class="archive__item-caption" style="text-align: left;">
+          <span>(Click on title to read more)</span>
+        <br/><br/>
         </div>
       </div>
     </div>

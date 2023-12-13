@@ -4,9 +4,9 @@ locale: "en-US"
 title: "Kim-Anh Do, Ph.D."
 subtitle: ""
 name: "Kim-Anh Do, Ph.D."
-description: A personal website"
-url: "https://btseng22.github.io/KDo/"
-repository: "btseng22/KDo"
+description: "Dr Kim-Anh Do's team website"
+url: "https://kimanhdomda.github.io/COSBO/"
+repository: "kimanhdomda/COSBO"
 
 plugins:
   - jekyll-paginate
@@ -15,6 +15,9 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+github: 
+  token: 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
 
 head_scripts:
   - https://code.jquery.com/jquery-3.2.1.min.js
@@ -52,7 +55,7 @@ author:
   
   location: "Houston, TX"
   links:
-    - label: "My Website"
+    - label: "Kim-Anh Do"
       icon: "https://faculty.mdanderson.org/profiles/kim-anh_do.html"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
