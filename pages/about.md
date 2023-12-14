@@ -5,10 +5,10 @@ author_profile: true
 ---
 <div style="display: flex; margin-bottom: -50px;">
     <figure class="left" style="flex: 5;">
-        <img src="{{ site.url }}/assets/images/researchTheme.JPG" alt="">
+        <img src="{{ site.url }}/COSBO/assets/images/researchTheme.JPG" alt="">
     </figure>
     <figure class="right" style="flex: 3;">
-        <img src="{{ site.url }}/assets/images/books.JPG" alt="">
+        <img src="{{ site.url }}/COSBO/assets/images/books.JPG" alt="">
     </figure>
 </div>
 <div style="width: 1000px;">
