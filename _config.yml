@@ -15,6 +15,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 github: 
   token: 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
