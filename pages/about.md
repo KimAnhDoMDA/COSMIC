@@ -3,6 +3,9 @@ permalink: /about/
 layout: "single"
 author_profile: true
 ---
+<div class="text-blk section-head-text" style="text-align: center;">
+    About Me: Research Theme & Books
+</div>
 <div style="display: flex; margin-bottom: -50px;">
     <figure class="left" style="flex: 5;">
         <img src="https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/master/assets/images/researchTheme.JPG" alt="Kim-Anh Do Research Theme">

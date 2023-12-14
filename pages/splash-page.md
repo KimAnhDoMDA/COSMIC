@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: ./assets/images/splash.JPG
-excerpt: "Computational Statistics, Biology, and Oncology"
+excerpt: "COmputational Statistics, Biology, and Oncology"
 feature_row:
   - image_path: ./assets/images/blank.JPG
     alt: "Article 1"
@@ -147,7 +147,7 @@ We also participate in the education and training of the next generation of comp
 </div>  
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 <div>
-<a href="/papers" target="_blank" style="text-decoration: none; color: black; text-align:center;"><h2>Recent Published and Impactful Papers</h2></a>
+<a href="/COSBO/papers" target="_blank" style="text-decoration: none; color: black; text-align:center;"><h2>Recent Published and Impactful Papers</h2></a>
 </div>
 
 {% include feature_row id="feature_row" %}
