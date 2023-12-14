@@ -30,7 +30,7 @@
 
           {% if f.excerpt %}
             <div class="archive__item-excerpt" style="overflow: hidden; text-overflow: ellipsis;"> 
-              {{ f.excerpt | markdownify | strip_html | truncatewords: 40 }} 
+              {{ f.excerpt | markdownify | strip_html | truncatewords: 30 }} 
               <br/><br/>
             </div>
           {% endif %}
