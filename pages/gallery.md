@@ -10,8 +10,8 @@ gallery:
     alt: "COSBO team in meeting"
     title: "Tuesday meetings"
 
-  - url: "https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/f8ab09bf941f8b81f66c31743365f0f1b70e8a19/assets/images/people/group.JPG"
-    image_path: "https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/f8ab09bf941f8b81f66c31743365f0f1b70e8a19/assets/images/people/group.JPG"
+  - url: "https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/master/assets/images/people/group.JPG"
+    image_path: "https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/master/assets/images/people/group.JPG"
     alt: "placeholder image 3"
     title: "Group photo"
 
@@ -30,7 +30,7 @@ gallery:
     alt: "Biostatistics Fall Lunch 2023"
     title: "Department Fall Lunch 2023"
 
-  - url: "/assets/images/Brad-Weinstein.JPG"
+  - url: "/assets/images/gallery/Brad-Weinstein.JPG"
     image_path: "/assets/images/gallery/Brad-Weinstein.JPG"
     alt: "Bradley Broom with John Weinstein"
     title: "Bradley Broom with John Weinstein"

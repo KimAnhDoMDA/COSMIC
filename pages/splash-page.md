@@ -15,7 +15,7 @@ feature_row:
     image_caption: "Accepted on 11-29-2023"
     title: "Attempts to Understand Oral Mucositis in Head and Neck Cancer Patients through Omics Studies: A Narrative Review"
     excerpt: "Oral mucositis (OM) is a common and clinically impactful side effect of cytotoxic cancer treatment, particularly in patients with head and neck squamous cell carcinoma (HNSCC) who undergo radiotherapy with or without concomitant chemotherapy. The etiology and pathogenic mechanisms of OM are complex, multifaceted and elicit both direct and indirect damage to the mucosa. In this narrative review, we describe studies that use various omics methodologies (genomics, transcriptomics, microbiomics and metabolomics) in attempts to elucidate the biological pathways associated with the development or severity of OM."
-    url: "https://ascopubs.org/doi/abs/10.1200/JCO.22.02424?role=tab&journalCode=jco"
+    url: "https://pubmed.ncbi.nlm.nih.gov/38069314/"
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 2"
     image_caption: "Published on 9-20-2023"
