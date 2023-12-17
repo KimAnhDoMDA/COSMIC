@@ -8,10 +8,10 @@ author_profile: true
 </div>
 <div style="display: flex; margin-bottom: -50px;">
     <figure class="left" style="flex: 5;">
-        <img src="https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/master/assets/images/researchTheme.JPG" alt="Kim-Anh Do Research Theme">
+        <img src="https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/master/assets/images/misc/researchTheme.JPG" alt="Kim-Anh Do Research Theme">
     </figure>
     <figure class="right" style="flex: 3;">
-        <img src="https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/master/assets/images/books.JPG" alt="Kim-Anh Do Books">
+        <img src="https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/master/assets/images/misc/books.JPG" alt="Kim-Anh Do Books">
     </figure>
 </div>
 <div style="width: 1000px;">

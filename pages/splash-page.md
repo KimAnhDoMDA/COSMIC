@@ -6,28 +6,29 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: ./assets/images/splash.JPG
-excerpt: "COmputational Statistics, Biology, and Oncology"
+  overlay_image: ./assets/images/misc/splash.JPG  
+excerpt: "Welcome to COSBO! <br/> COmputational Statistics, Biology, and Oncology"
+
 feature_row:
-  - image_path: ./assets/images/blank.JPG
+  - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
     image_caption: "Accepted on 11-29-2023"
     title: "Attempts to Understand Oral Mucositis in Head and Neck Cancer Patients through Omics Studies: A Narrative Review"
     excerpt: "Oral mucositis (OM) is a common and clinically impactful side effect of cytotoxic cancer treatment, particularly in patients with head and neck squamous cell carcinoma (HNSCC) who undergo radiotherapy with or without concomitant chemotherapy. The etiology and pathogenic mechanisms of OM are complex, multifaceted and elicit both direct and indirect damage to the mucosa. In this narrative review, we describe studies that use various omics methodologies (genomics, transcriptomics, microbiomics and metabolomics) in attempts to elucidate the biological pathways associated with the development or severity of OM."
     url: "https://ascopubs.org/doi/abs/10.1200/JCO.22.02424?role=tab&journalCode=jco"
-  - image_path: ./assets/images/blank.JPG
+  - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 2"
     image_caption: "Published on 9-20-2023"
     title: "Mortality Benefit of a Blood-Based Biomarker Panel for Lung Cancer on the Basis of the Prostate, Lung, Colorectal, and Ovarian Cohort"
     excerpt: "To investigate the utility of integrating a panel of circulating protein biomarkers in combination with a risk model on the basis of subject characteristics to identify individuals at high risk of harboring a lethal lung cancer."
     url: "https://ascopubs.org/doi/abs/10.1200/JCO.22.02424?role=tab&journalCode=jco"
-  - image_path: ./assets/images/blank.JPG
+  - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 3"
     image_caption: "Published on 9-19-2023"
     title: "A blood-based metabolomic signature predictive of risk for pancreatic cancer"
     excerpt: "Emerging evidence implicates microbiome involvement in the development of pancreatic cancer (PaCa). Here, we investigate whether increases in circulating microbial-related metabolites associate with PaCa risk by applying metabolomics profiling to 172 sera collected within 5 years prior to PaCa diagnosis and 863 matched non-subject sera from participants in the Prostate, Lung, Colorectal, and Ovarian (PLCO) cohort."
     url: "https://pubmed.ncbi.nlm.nih.gov/37729870/"
-  - image_path: ./assets/images/blank.JPG
+  - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 4"
     image_caption: "Published on 9-8-2023"
     title: "Study finds link between oral microbiome and common side effect in patients with head and neck cancer"
@@ -35,7 +36,7 @@ feature_row:
     url: "https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.35001"
 
 feature_row2:
-  - image_path: ./assets/images/blank.JPG
+  - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
     image_caption: "Revised on 11-09-2023"
     title: "Estimating Causal Effects with Hidden Confounding using Instrumental Variables and Environments"
@@ -45,19 +46,19 @@ feature_row2:
     (CD), is consistent under hidden confounding and represents an alternative to classical instrumental variable estimators such as Two Stage Least
     Squares (TSLS)."
     url: "https://arxiv.org/abs/2207.14753v2"
-  - image_path: ./assets/images/blank.JPG
+  - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 2"
     image_caption: "Published on 02-05-2023"
     title: "Performance determinants of unsupervised clustering methods for microbiome data"
     excerpt: "In microbiome data analysis, unsupervised clustering is often used to identify naturally occurring clusters, which can then be assessed for associations with characteristics of interest. In this work, we systematically compared beta diversity and clustering methods commonly used in microbiome analyses. We applied these to four published datasets where highly distinct microbiome profiles could be seen between sample groups, as well a clinical dataset with less clear separation between groups."
     url: "https://pubmed.ncbi.nlm.nih.gov/35120564/"
-  - image_path: ./assets/images/blank.JPG
+  - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 3"
     image_caption: "Posted on 11-1-2022"
     title: "A Blood-Based Metabolite Panel for Distinguishing Ovarian Cancer from Benign Pelvic Masses"
     excerpt: "A blood-based metabolite panel was developed that demonstrates independent predictive ability and complements ROMA for distinguishing early-stage ovarian cancer from benign disease to better inform clinical decision making."
     url: "https://pubmed.ncbi.nlm.nih.gov/36037307/"
-  - image_path: ./assets/images/blank.JPG
+  - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 4"
     image_caption: "Posted on 10-21-2022"
     title: "A machine learning-based method for automatically identifying novel cells in annotating single-cell RNA-seq data"
@@ -65,28 +66,28 @@ feature_row2:
     url: "https://pubmed.ncbi.nlm.nih.gov/36083008/"
 
 feature_row3:
-  - image_path: ./assets/images/blank.JPG
+  - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
     image_caption: "Posted on 10-14-2022"
     title: "Bayesian hierarchical quantile regression with application to characterizing the immune architecture of lung cancer"
     excerpt: "The successful development and implementation of precision immuno-oncology therapies requires a deeper understanding of the immune architecture at a patient level. T-cell receptor (TCR) repertoire sequencing is a relatively new technology that enables monitoring of T-cells, a subset of immune cells that play a central role in modulating immune response."
     url: "https://onlinelibrary.wiley.com/doi/10.1111/biom.13774"  
 
-  - image_path: ./assets/images/blank.JPG
+  - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 2"
     image_caption: "Posted on 9-21-2022"
     title: "Transcriptomic Signatures of Hypomethylating Agent Failure in Myelodysplastic Syndromes and Chronic Myelomonocytic Leukemia. Exp Hematol"
     excerpt: "Hypomethylating agents (HMAs) are the standard of care for myelodysplastic syndromes (MDS) and chronic myelomonocytic leukemia (CMML). HMA treatment failure is a major clinical problem and its mechanisms are poorly characterized. We performed RNA sequencing in CD34+ bone marrow stem hematopoietic stem and progenitor cells (BM-HSPCs) from 51 patients with CMML and MDS before HMA treatment and compared transcriptomic signatures between responders and nonresponders."
     url: "https://www.exphem.org/article/S0301-472X(22)00697-X/fulltext" 
 
-  - image_path: ./assets/images/blank.JPG
+  - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 3"
     image_caption: "Posted on 9-5-2022"
     title: "MDM2 antagonist improves therapeutic activity of azacitidine in myelodysplastic syndromes and chronic myelomonocytic leukemia"
     excerpt: "Failure of hypomethylation agent (HMA) treatments is an important issue in myelodysplastic syndromes (MDS) and chronic myelomonocytic leukemia (CMML). Recent studies indicated that function of wildtype TP53 positively impacts outcome of HMA treatments. We investigated the combination of the...."
     url: "https://www.tandfonline.com/doi/abs/10.1080/10428194.2022.2116932" 
 
-  - image_path: ./assets/images/blank.JPG
+  - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 4"
     image_caption: "Posted on 8-11-2022"
     title: "A Comprehensive Search of Non-Canonical Proteins in Non-Small Cell Lung Cancer and Their Impact on the Immune Response"
@@ -113,7 +114,7 @@ We also participate in the education and training of the next generation of comp
 
 <div class="center">
 <figure class="center">
-<img src="./assets/images/group.JPG" class="responsive-image" alt="">
+<img src="./assets/images/people/group.JPG" class="responsive-image" alt="">
 <figcaption>Dr Kim-Anh Do with the COSBO team 2023</figcaption>
 </figure>
 </div>

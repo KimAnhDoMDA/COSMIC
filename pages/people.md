@@ -36,7 +36,7 @@ layout: splash
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
-            <img class="team-img" src="../assets/images/ehsanI.JPG">
+            <img class="team-img" src="../assets/images/people/ehsanI.JPG">
           </div>
           <p class="text-blk name" style="margin-top:1em;">
             Ehsan Irajizad, Ph.D.
@@ -59,7 +59,7 @@ layout: splash
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
                   <div class="team-card">
                     <div class="img-wrapper">
-                      <img class="team-img" src="../assets/images/KDoHeadshot.JPG">
+                      <img class="team-img" src="../assets/images/people/KDoHeadshot.JPG">
                     </div>
                     <p class="text-blk name" style="margin-top:1em;">
                       Kim-Anh Do, Ph.D.
@@ -88,7 +88,7 @@ layout: splash
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
-            <img class="team-img" src="../assets/images/jamesL.JPG">
+            <img class="team-img" src="../assets/images/people/jamesL.JPG">
           </div>
           <p class="text-blk name" style="margin-top:1em;">
             James Long, Ph.D.
@@ -111,7 +111,7 @@ layout: splash
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
-            <img class="team-img" src="../assets/images/ziyiL.JPG">
+            <img class="team-img" src="../assets/images/people/ziyiL.JPG">
           </div>
           <p class="text-blk name" style="margin-top:1em;">
             Ziyi Li, Ph.D.
@@ -140,7 +140,7 @@ layout: splash
                 <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
                     <div class="team-card">
                       <div class="img-wrapper">
-                        <img class="team-img" src="../assets/images/robertJ.JPG">
+                        <img class="team-img" src="../assets/images/people/robertJ.JPG">
                       </div>
                       <p class="text-blk name" style="margin-top:1em;">
                         Robert R Jenq, MD
@@ -163,7 +163,7 @@ layout: splash
                 <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
                   <div class="team-card">
                     <div class="img-wrapper">
-                      <img class="team-img" src="../assets/images/cielitoR.JPG">
+                      <img class="team-img" src="../assets/images/people/cielitoR.JPG">
                     </div>
                     <p class="text-blk name" style="margin-top:1em;">
                       Cielito C. Reyes-Gibby, Dr.PH
@@ -186,7 +186,7 @@ layout: splash
                 <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
                   <div class="team-card">
                     <div class="img-wrapper">
-                      <img class="team-img" src="../assets/images/bradleyB.JPG">
+                      <img class="team-img" src="../assets/images/people/bradleyB.JPG">
                     </div>
                     <p class="text-blk name" style="margin-top:1em;">
                       Bradley M. Broom, Ph.D.
@@ -212,7 +212,7 @@ layout: splash
                 <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
                     <div class="team-card">
                       <div class="img-wrapper">
-                        <img class="team-img" src="../assets/images/samH.JPG">
+                        <img class="team-img" src="../assets/images/people/samH.JPG">
                       </div>
                       <p class="text-blk name" style="margin-top:1em;">
                         Samir Hanash, MD, PhD
@@ -235,7 +235,7 @@ layout: splash
                   <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
                     <div class="team-card">
                       <div class="img-wrapper">
-                        <img class="team-img" src="../assets/images/johannesF.JPG">
+                        <img class="team-img" src="../assets/images/people/johannesF.JPG">
                       </div>
                       <p class="text-blk name" style="margin-top:1em;">
                         Johannes Fahrmann, PhD
@@ -270,7 +270,7 @@ layout: splash
           <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
             <div class="team-card">
               <div class="img-wrapper">
-                <img class="team-img" src="../assets/images/satabdiS.JPG">
+                <img class="team-img" src="../assets/images/people/satabdiS.JPG">
               </div>
               <p class="text-blk name" style="margin-top:1em;">
                 Satabdi Saha, Ph.D.
@@ -291,7 +291,7 @@ layout: splash
           <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
             <div class="team-card">
               <div class="img-wrapper">
-                <img class="team-img" src="../assets/images/mahmoodG.JPG">
+                <img class="team-img" src="../assets/images/people/mahmoodG.JPG">
               </div>
               <p class="text-blk name" style="margin-top:1em;">
                 Seyyed Mahmood Ghasemi, Ph.D.
@@ -326,7 +326,7 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/chunhuiG.JPG">
+              <img class="team-img" src="../assets/images/people/chunhuiG.JPG">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Chunhui Gu
@@ -358,7 +358,7 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/luluS.JPG">
+              <img class="team-img" src="../assets/images/people/luluS.JPG">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Lulu Song
@@ -379,7 +379,7 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/HongxuZ.JPG">
+              <img class="team-img" src="../assets/images/people/HongxuZ.JPG">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Hongxu Zhu
@@ -401,7 +401,7 @@ layout: splash
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
-            <img class="team-img" src="../assets/images/aRoy.JPG">
+            <img class="team-img" src="../assets/images/people/aRoy.JPG">
           </div>
             <p class="text-blk name" style="margin-top:1em;">
               Abhishikta Roy
@@ -419,7 +419,7 @@ layout: splash
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
-            <img class="team-img" src="../assets/images/beckyT.JPG">
+            <img class="team-img" src="../assets/images/people/beckyT.JPG">
           </div>
           <p class="text-blk name" style="margin-top:1em;">
             Becky Tseng

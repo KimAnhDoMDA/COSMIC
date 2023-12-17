@@ -1,8 +1,7 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale: "en-US"
-title: "Welcome to COSBO"
-subtitle: ""
+title: "Kim-Anh Do"
 name: "Kim-Anh Do, Ph.D."
 description: "Dr Kim-Anh Do's team website"
 url: "https://kimanhdomda.github.io/"
@@ -23,7 +22,7 @@ github:
 head_scripts:
   - https://code.jquery.com/jquery-3.2.1.min.js
 
-logo: "./assets/images/logo.JPG"
+logo: "./assets/images/misc/logo.JPG"
 masthead_title: ""
 
 defaults:
@@ -40,7 +39,7 @@ search: true
 lunr:
   search_within_pages: true
 
-og_image: "./assets/images/logo.JPG"
+og_image: "./assets/images/misc/logo.JPG"
 
 social:
   type:  # Person or Organization (defaults to Person)
@@ -50,7 +49,7 @@ social:
 
 author:
   name: "Kim-Anh Do, Ph.D."
-  avatar: "./assets/images/KDoHeadshot.JPG"
+  avatar: "./assets/images/people/KDoHeadshot.JPG"
 
   bio: "Pioneering Progress in Biostatistics and Cancer Research" # Note: Markdown is allowed
   
