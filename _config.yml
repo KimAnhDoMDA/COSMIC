@@ -1,7 +1,7 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale: "en-US"
-title: "Kim-Anh Do"
+title: "Kim-Anh Do's Lab"
 name: "Kim-Anh Do, Ph.D."
 description: "Dr Kim-Anh Do's team website"
 url: "https://kimanhdomda.github.io/"
@@ -55,7 +55,7 @@ author:
   
   location: "Houston, TX"
   links:
-    - label: "Kim-Anh Do"
+    - label: "Kim-Anh Do, Ph.D"
       icon: "https://faculty.mdanderson.org/profiles/kim-anh_do.html"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"

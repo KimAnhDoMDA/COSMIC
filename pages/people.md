@@ -138,52 +138,6 @@ layout: splash
   <!-- Second Row Start-->
  <div class="responsive-container-block">
                 <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-                    <div class="team-card">
-                      <div class="img-wrapper">
-                        <img class="team-img" src="../assets/images/people/robertJ.JPG">
-                      </div>
-                      <p class="text-blk name" style="margin-top:1em;">
-                        Robert R Jenq, MD
-                      </p>
-                      <p class="text-blk position" style="margin-top:-1em;">
-                      <a href="https://faculty.mdanderson.org/profiles/robert_jenq.html" target="_blank" style="text-decoration: none; color: black;">
-                        Major Faculty Collaborator
-                      </a>
-                      </p>
-                      <div class="social-media-links">
-                        <a href="rrjenq@mdanderson.org" target="_blank">
-                          <i class="fa fa-envelope" style="color: #000000;"></i>
-                        </a>
-                        <a href="https://www.mdanderson.org/research/departments-labs-institutes/labs/jenq-laboratory.html" target="_blank">
-                          <i class="fa fa-link" style="color: #000000;"></i>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-                  <div class="team-card">
-                    <div class="img-wrapper">
-                      <img class="team-img" src="../assets/images/people/cielitoR.JPG">
-                    </div>
-                    <p class="text-blk name" style="margin-top:1em;">
-                      Cielito C. Reyes-Gibby, Dr.PH
-                    </p>
-                    <p class="text-blk position" style="margin-top:-1em;">
-                    <a href="https://faculty.mdanderson.org/profiles/cielito_c_reyes-gibby.html" target="_blank" style="text-decoration: none; color: black;">
-                      Major Faculty Collaborator
-                    </a>
-                    </p>
-                    <div class="social-media-links">
-                      <a href="mailto:creyes@mdanderson.org" target="_blank">
-                        <i class="fa fa-envelope" style="color: #000000;"></i>
-                      </a>
-                      <a href="https://profiles.viictr.org/display/12583737" target="_blank">
-                        <i class="fa fa-link" style="color: #000000;"></i>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
                   <div class="team-card">
                     <div class="img-wrapper">
                       <img class="team-img" src="../assets/images/people/bradleyB.JPG">
@@ -210,29 +164,29 @@ layout: splash
                   </div>
                 </div>
                 <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-                    <div class="team-card">
-                      <div class="img-wrapper">
-                        <img class="team-img" src="../assets/images/people/samH.JPG">
-                      </div>
-                      <p class="text-blk name" style="margin-top:1em;">
-                        Samir Hanash, MD, PhD
-                      </p>
-                      <p class="text-blk position" style="margin-top:-1em;">
-                      <a href="https://faculty.mdanderson.org/profiles/samir_hanash.html" target="_blank" style="text-decoration: none; color: black;">
-                        Major Faculty Collaborator
+                  <div class="team-card">
+                    <div class="img-wrapper">
+                      <img class="team-img" src="../assets/images/people/cielitoR.JPG">
+                    </div>
+                    <p class="text-blk name" style="margin-top:1em;">
+                      Cielito C. Reyes-Gibby, Dr.PH
+                    </p>
+                    <p class="text-blk position" style="margin-top:-1em;">
+                    <a href="https://faculty.mdanderson.org/profiles/cielito_c_reyes-gibby.html" target="_blank" style="text-decoration: none; color: black;">
+                      Major Faculty Collaborator
+                    </a>
+                    </p>
+                    <div class="social-media-links">
+                      <a href="mailto:creyes@mdanderson.org" target="_blank">
+                        <i class="fa fa-envelope" style="color: #000000;"></i>
                       </a>
-                      </p>
-                      <div class="social-media-links">
-                        <a href="shanash@mdanderson.org" target="_blank">
-                          <i class="fa fa-envelope" style="color: #000000;"></i>
-                        </a>
-                        <a href="https://mdanderson.elsevierpure.com/en/persons/samir-hanash" target="_blank">
-                          <i class="fa fa-link" style="color: #000000;"></i>
-                        </a>
-                      </div>
+                      <a href="https://profiles.viictr.org/display/12583737" target="_blank">
+                        <i class="fa fa-link" style="color: #000000;"></i>
+                      </a>
                     </div>
                   </div>
-                  <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+                </div>
+                <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
                     <div class="team-card">
                       <div class="img-wrapper">
                         <img class="team-img" src="../assets/images/people/johannesF.JPG">
@@ -250,6 +204,52 @@ layout: splash
                           <i class="fa fa-envelope" style="color: #000000;"></i>
                         </a>
                         <a href="https://mdanderson.elsevierpure.com/en/persons/johannes-francois-fahrmann" target="_blank">
+                          <i class="fa fa-link" style="color: #000000;"></i>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+                    <div class="team-card">
+                      <div class="img-wrapper">
+                        <img class="team-img" src="../assets/images/people/robertJ.JPG">
+                      </div>
+                      <p class="text-blk name" style="margin-top:1em;">
+                        Robert R Jenq, MD
+                      </p>
+                      <p class="text-blk position" style="margin-top:-1em;">
+                      <a href="https://faculty.mdanderson.org/profiles/robert_jenq.html" target="_blank" style="text-decoration: none; color: black;">
+                        Major Faculty Collaborator
+                      </a>
+                      </p>
+                      <div class="social-media-links">
+                        <a href="rrjenq@mdanderson.org" target="_blank">
+                          <i class="fa fa-envelope" style="color: #000000;"></i>
+                        </a>
+                        <a href="https://www.mdanderson.org/research/departments-labs-institutes/labs/jenq-laboratory.html" target="_blank">
+                          <i class="fa fa-link" style="color: #000000;"></i>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+                    <div class="team-card">
+                      <div class="img-wrapper">
+                        <img class="team-img" src="../assets/images/people/samH.JPG">
+                      </div>
+                      <p class="text-blk name" style="margin-top:1em;">
+                        Samir Hanash, MD, PhD
+                      </p>
+                      <p class="text-blk position" style="margin-top:-1em;">
+                      <a href="https://faculty.mdanderson.org/profiles/samir_hanash.html" target="_blank" style="text-decoration: none; color: black;">
+                        Major Faculty Collaborator
+                      </a>
+                      </p>
+                      <div class="social-media-links">
+                        <a href="shanash@mdanderson.org" target="_blank">
+                          <i class="fa fa-envelope" style="color: #000000;"></i>
+                        </a>
+                        <a href="https://mdanderson.elsevierpure.com/en/persons/samir-hanash" target="_blank">
                           <i class="fa fa-link" style="color: #000000;"></i>
                         </a>
                       </div>
@@ -448,70 +448,113 @@ layout: splash
 <hr>
 <div class="responsive-container-block outer-container">
   <div class="responsive-container-block inner-container">
-      <div class="text-blk section-head-text">
+    <div class="text-blk section-head-text" style="margin-top:1em;">
+      External Statistical Collaborators
+    </div>
+    <div class="responsive-container-block">
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/people/francescoS.jpg">
+          </div>
+          <p class="text-blk name" style="margin-top:1em;">
+            Francesco Stingo
+          </p>
+          <div class="social-media-links">
+            <a href="https://sites.google.com/site/fcstingo/" target="_blank">
+              <i class="fa fa-link" style="color: #000000;"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/people/jianhuaH.jpg">
+          </div>
+          <p class="text-blk name" style="margin-top:1em;">
+            Jianhua Hu
+          </p>
+          <div class="social-media-links">
+            <a href="https://www.publichealth.columbia.edu/profile/jianhua-hu-phd" target="_blank">
+              <i class="fa fa-link" style="color: #000000;"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/alumni/3.jpg">
+          </div>
+          <p class="text-blk name" style="margin-top:1em;">
+            Liangliang Zhang
+          </p>
+          <div class="social-media-links">
+            <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/liangliang-lyons-zhang" target="_blank">
+              <i class="fa fa-link" style="color: #000000;"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="responsive-container-block">
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/alumni/9.jpg">
+          </div>
+          <p class="text-blk name" style="margin-top:1em;">
+            Thierry Chekouo
+          </p>
+          <div class="social-media-links">
+            <a href="https://directory.sph.umn.edu/bio/sph-a-z/thierry-chekouo" target="_blank">
+              <i class="fa fa-link" style="color: #000000;"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/people/VeeraB.jpg">
+          </div>
+          <p class="text-blk name" style="margin-top:1em;">
+            Veera Baladandayuthapani
+          </p>
+          <div class="social-media-links">
+            <a href="https://sph.umich.edu/faculty-profiles/baladandayuthapani-veerabhadran.html" target="_blank">
+              <i class="fa fa-link" style="color: #000000;"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/alumni/2.jpg">
+          </div>
+          <p class="text-blk name" style="margin-top:1em;">
+            Yushu Shi
+          </p>
+          <div class="social-media-links">
+            <a href="https://www.linkedin.com/in/yushushi" target="_blank">
+              <i class="fa fa-link" style="color: #000000;"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+<hr>   
+<div class="responsive-container-block outer-container">
+  <div class="responsive-container-block inner-container">
+      <div class="text-blk section-head-text" style="margin-top:1em;">
         Alumni
       </div>
       <div class="responsive-container-block">
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/alumni/1.jpg">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              Min Jin Ha
-            </p>
-            <div class="social-media-links">
-              <a href="https://sites.google.com/view/minjinha/home" target="_blank">
-                <i class="fa fa-link" style="color: #000000;"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/alumni/2.jpg">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              Yushu Shi
-            </p>
-            <div class="social-media-links">
-              <a href="https://www.linkedin.com/in/yushushi" target="_blank">
-                <i class="fa fa-link" style="color: #000000;"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/alumni/3.jpg">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              Liangliang Zhang
-            </p>
-            <div class="social-media-links">
-              <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/liangliang-lyons-zhang" target="_blank">
-                <i class="fa fa-link" style="color: #000000;"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/alumni/4.jpg">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              Priyam Das
-            </p>
-            <div class="social-media-links">
-              <a href="https://medschool.vcu.edu/about/portfolio/details/dasp4/" target="_blank">
-                <i class="fa fa-link" style="color: #000000;"></i>
-              </a>
-            </div>
-          </div>
-        </div>
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -527,8 +570,36 @@ layout: splash
             </div>
           </div>
         </div>
-      </div>
-      <div class="responsive-container-block">
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+            <div class="team-card">
+              <div class="img-wrapper">
+                <img class="team-img" src="../assets/images/alumni/10.jpg">
+              </div>
+              <p class="text-blk name" style="margin-top:1em;">
+                David Shih
+              </p>
+              <div class="social-media-links">
+                <a href="https://hk.linkedin.com/in/davidjhshih" target="_blank">
+                  <i class="fa fa-link" style="color: #000000;"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+          <div class="team-card">
+            <div class="img-wrapper">
+              <img class="team-img" src="../assets/images/alumni/24.jpg">
+            </div>
+            <p class="text-blk name" style="margin-top:1em;">
+              Dorota Doherty
+            </p>
+            <div class="social-media-links">
+              <a href="https://research-repository.uwa.edu.au/en/persons/dorota-doherty" target="_blank">
+                <i class="fa fa-link" style="color: #000000;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -550,43 +621,13 @@ layout: splash
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/alumni/8.jpg">
+              <img class="team-img" src="../assets/images/alumni/3.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
-              Licai Huang
+              Liangliang Zhang
             </p>
             <div class="social-media-links">
-              <a href="https://www.linkedin.com/in/licai-huang-b01bb1b2" target="_blank">
-                <i class="fa fa-link" style="color: #000000;"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/alumni/9.jpg">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              Thierry Chekou
-            </p>
-            <div class="social-media-links">
-              <a href="https://directory.sph.umn.edu/bio/sph-a-z/thierry-chekouo" target="_blank">
-                <i class="fa fa-link" style="color: #000000;"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/alumni/10.jpg">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              David Shih
-            </p>
-            <div class="social-media-links">
-              <a href="https://hk.linkedin.com/in/davidjhshih" target="_blank">
+              <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/liangliang-lyons-zhang" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
               </a>
             </div>
@@ -594,83 +635,21 @@ layout: splash
         </div>
       </div>
       <div class="responsive-container-block">
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/alumni/12.jpg">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              Nabihah Tayob
-            </p>
-            <div class="social-media-links">
-              <a href="https://www.dfhcc.harvard.edu/insider/member-detail/member/nabihah-tayob-phd/" target="_blank">
-                <i class="fa fa-link" style="color: #000000;"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/alumni/13.jpg">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              Song Zhang
-            </p>
-            <div class="social-media-links">
-              <a href="https://profiles.utsouthwestern.edu/profile/97222/song-zhang.html" target="_blank">
-                <i class="fa fa-link" style="color: #000000;"></i>
-              </a>
+          <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+            <div class="team-card">
+              <div class="img-wrapper">
+                <img class="team-img" src="../assets/images/alumni/8.jpg">
+              </div>
+              <p class="text-blk name" style="margin-top:1em;">
+                Licai Huang
+              </p>
+              <div class="social-media-links">
+                <a href="https://www.linkedin.com/in/licai-huang-b01bb1b2" target="_blank">
+                  <i class="fa fa-link" style="color: #000000;"></i>
+                </a>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/alumni/15.jpg">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              Yuan Wang
-            </p>
-            <div class="social-media-links">
-              <a href="https://sc.edu/study/colleges_schools/public_health/faculty-staff/wang_yuan.php" target="_blank">
-                <i class="fa fa-link" style="color: #000000;"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="responsive-container-block">
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/alumni/16.jpg">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              Yuanging Yan
-            </p>
-            <div class="social-media-links">
-              <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=53252" target="_blank">
-                <i class="fa fa-link" style="color: #000000;"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/alumni/17.jpg">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              Xiangying Mao
-            </p>
-            <div class="social-media-links">
-              <a href="https://www.linkedin.com/in/xiangying-mao-2a03aba5" target="_blank">
-                <i class="fa fa-link" style="color: #000000;"></i>
-              </a>
-            </div>
-          </div>
-        </div>
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -701,33 +680,33 @@ layout: splash
             </div>
           </div>
         </div>
-      </div>
-      <div class="responsive-container-block">
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/alumni/22.jpg">
+              <img class="team-img" src="../assets/images/alumni/1.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
-              Raj Bandyopadhyay
+              Min Jin Ha
             </p>
             <div class="social-media-links">
-              <a href="https://www.blackhat.com/us-14/speakers/Raj-Bandyopadhyay.html" target="_blank">
+              <a href="https://sites.google.com/view/minjinha/home" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
               </a>
             </div>
           </div>
         </div>
+      </div>
+      <div class="responsive-container-block">
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/alumni/24.jpg">
+              <img class="team-img" src="../assets/images/alumni/12.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
-              Dorota Doherty
+              Nabihah Tayob
             </p>
             <div class="social-media-links">
-              <a href="https://research-repository.uwa.edu.au/en/persons/dorota-doherty" target="_blank">
+              <a href="https://www.dfhcc.harvard.edu/insider/member-detail/member/nabihah-tayob-phd/" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
               </a>
             </div>
@@ -748,17 +727,141 @@ layout: splash
             </div>
           </div>
         </div>
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+          <div class="team-card">
+            <div class="img-wrapper">
+              <img class="team-img" src="../assets/images/alumni/4.jpg">
+            </div>
+            <p class="text-blk name" style="margin-top:1em;">
+              Priyam Das
+            </p>
+            <div class="social-media-links">
+              <a href="https://medschool.vcu.edu/about/portfolio/details/dasp4/" target="_blank">
+                <i class="fa fa-link" style="color: #000000;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="responsive-container-block">
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+          <div class="team-card">
+            <div class="img-wrapper">
+              <img class="team-img" src="../assets/images/alumni/22.jpg">
+            </div>
+            <p class="text-blk name" style="margin-top:1em;">
+              Raj Bandyopadhyay
+            </p>
+            <div class="social-media-links">
+              <a href="https://www.blackhat.com/us-14/speakers/Raj-Bandyopadhyay.html" target="_blank">
+                <i class="fa fa-link" style="color: #000000;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+          <div class="team-card">
+            <div class="img-wrapper">
+              <img class="team-img" src="../assets/images/alumni/13.jpg">
+            </div>
+            <p class="text-blk name" style="margin-top:1em;">
+              Song Zhang
+            </p>
+            <div class="social-media-links">
+              <a href="https://profiles.utsouthwestern.edu/profile/97222/song-zhang.html" target="_blank">
+                <i class="fa fa-link" style="color: #000000;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+          <div class="team-card">
+            <div class="img-wrapper">
+              <img class="team-img" src="../assets/images/alumni/9.jpg">
+            </div>
+            <p class="text-blk name" style="margin-top:1em;">
+              Thierry Chekouo
+            </p>
+            <div class="social-media-links">
+              <a href="https://directory.sph.umn.edu/bio/sph-a-z/thierry-chekouo" target="_blank">
+                <i class="fa fa-link" style="color: #000000;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+          <div class="team-card">
+            <div class="img-wrapper">
+              <img class="team-img" src="../assets/images/alumni/17.jpg">
+            </div>
+            <p class="text-blk name" style="margin-top:1em;">
+              Xiangying Mao
+            </p>
+            <div class="social-media-links">
+              <a href="https://www.linkedin.com/in/xiangying-mao-2a03aba5" target="_blank">
+                <i class="fa fa-link" style="color: #000000;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="responsive-container-block">
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+          <div class="team-card">
+            <div class="img-wrapper">
+              <img class="team-img" src="../assets/images/alumni/15.jpg">
+            </div>
+            <p class="text-blk name" style="margin-top:1em;">
+              Yuan Wang
+            </p>
+            <div class="social-media-links">
+              <a href="https://sc.edu/study/colleges_schools/public_health/faculty-staff/wang_yuan.php" target="_blank">
+                <i class="fa fa-link" style="color: #000000;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+          <div class="team-card">
+            <div class="img-wrapper">
+              <img class="team-img" src="../assets/images/alumni/16.jpg">
+            </div>
+            <p class="text-blk name" style="margin-top:1em;">
+              Yuanging Yan
+            </p>
+            <div class="social-media-links">
+              <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=53252" target="_blank">
+                <i class="fa fa-link" style="color: #000000;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+          <div class="team-card">
+            <div class="img-wrapper">
+              <img class="team-img" src="../assets/images/alumni/2.jpg">
+            </div>
+            <p class="text-blk name" style="margin-top:1em;">
+              Yushu Shi
+            </p>
+            <div class="social-media-links">
+              <a href="https://www.linkedin.com/in/yushushi" target="_blank">
+                <i class="fa fa-link" style="color: #000000;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
 <div class="responsive-container-block inner-container">
   <div class="row-container" style="margin-top: 3em;">
-    <p class="text-blk name" style="margin-right:5em;">Junghi Kim</p>
     <p class="text-blk name" style="margin-right:5em;">Clemete Aguilar</p>
+    <p class="text-blk name" style="margin-right:5em;">Junghi Kim</p>
+    <p class="text-blk name" style="margin-right:5em;">Lori Jackson</p>
+    <p class="text-blk name" style="margin-right:5em;">Vinicius Bonato</p>
     <p class="text-blk name" style="margin-right:5em;">Wenting Wang</p>
     <p class="text-blk name" style="margin-right:5em;">Xuebei An</p>
-    <p class="text-blk name" style="margin-right:5em;">Vinicius Bonato</p>
-    <p class="text-blk name" style="margin-right:5em;">Lori Jackson</p>
   </div>
 </div>
 

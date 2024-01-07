@@ -3,8 +3,9 @@ main:
     url: /people/
   - title: "About Me"
     url: /about/
+  - title: "Softwares"
+    url: /softwares/
   - title: "Published Papers"
     url: /papers/
   - title: "Gallery"
     url: /gallery/
-  - 

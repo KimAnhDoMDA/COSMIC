@@ -7,6 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: ./assets/images/misc/splash.JPG  
+title: "Kim-Anh Do, Ph.D"
 excerpt: "Welcome to COSBO! <br/> COmputational Statistics, Biology, and Oncology"
 
 feature_row:
@@ -97,26 +98,26 @@ feature_row3:
 
 ---
 <div class="center" style="max-width: 800px; font-size: 20px;">
-<p style="text-align: center">
-Our dedicated research team are at the forefront of cutting-edge development in <br/> 
-<b>COmputational Statistics, Biology, and Oncology (COSBO).</b> <br/>
-<br />
-Our dynamic group provides a wealth of expertise in developing statistical and machine-learning methodologies for the integration and analysis of biological omic data (genomic, transcriptomic, proteomic, metabolomic, microbiome, single cell RNA-sequencing, and spatial transcriptomic), <br/>
-producing computational tools to efficiently apply our statistical methods <br/>to large biological data sets, small clinical data sets or large pan-cancer data sets.<br/>
-<br/>
-Together, we are passionately committed to advancing statistical research and its transformative impact on healthcare.
-Our collective efforts underscore the significance of rigorous statistical methods in unraveling the complexities of biological data, marking them as vital contributors to the ongoing progress of these fields, particularly in personalized medicine and precision oncology. <br/> <br/>
-Our group provides critical collaborative expertise (nonparametric multivariable and <br/>dimension reduction methodologies, Bayesian methodology, graphical network modeling, <br/>
-feature selection of biomarkers, deep learning methodology and causal models to maximize causal prediction performance) to <br/> data scientists, biologists, clinicians, bioinformaticians, geneticists, and statisticians.
-<br/>
-We also participate in the education and training of the next generation of computational statisticians and data scientists.</p>
+  <p style="text-align: left">
+  Our dedicated research team are at the forefront of cutting-edge development in <br/> 
+  <b>COmputational Statistics, Biology, and Oncology (COSBO).</b> <br/>
+  <br />
+  Our dynamic group provides a wealth of expertise in developing statistical and machine-learning methodologies for the integration and analysis of biological omic data (genomic, transcriptomic, proteomic, metabolomic, microbiome, single cell RNA-sequencing, and spatial transcriptomic), <br/>
+  producing computational tools to efficiently apply our statistical methods <br/>to large biological data sets, small clinical data sets or large pan-cancer data sets.<br/>
+  <br/>
+  Together, we are passionately committed to advancing statistical research and its transformative impact on healthcare.
+  Our collective efforts underscore the significance of rigorous statistical methods in unraveling the complexities of biological data, marking them as vital contributors to the ongoing progress of these fields, particularly in personalized medicine and precision oncology. <br/> <br/>
+  Our group provides critical collaborative expertise (nonparametric multivariable and <br/>dimension reduction methodologies, Bayesian methodology, graphical network modeling, <br/>
+  feature selection of biomarkers, deep learning methodology and causal models to maximize causal prediction performance) to <br/> data scientists, biologists, clinicians, bioinformaticians, geneticists, and statisticians.
+  <br/>
+  We also participate in the education and training of the next generation of computational statisticians and data scientists.</p>
 </div>
 
 <div class="center">
-<figure class="center">
-<img src="./assets/images/people/group.JPG" class="responsive-image" alt="">
-<figcaption>Dr Kim-Anh Do with the COSBO team 2023</figcaption>
-</figure>
+  <figure class="center">
+  <img src="./assets/images/people/group.JPG" class="responsive-image" alt="">
+  <figcaption>Dr Kim-Anh Do with the COSBO team 2023</figcaption>
+  </figure>
 </div>
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 <div class="containerIframe">
@@ -130,25 +131,24 @@ We also participate in the education and training of the next generation of comp
     <summary><h2 style="text-align: center; color: black;">List of Softwares</h2></summary>
     <div style="text-align: center;">
       <div style="text-align: left; display: inline-block;">
-      <li><a href="https://github.com/ziyili20/CAMLU.git" target="_blank">CAMLU</a></li>
-      <li><a href="https://github.com/MinJinHa/PRECISE" target="_blank">PRECISE</a></li>
-      <li><a href="https://github.com/cran/iDINGO.git" target="_blank">DINGO, iDINGO</a></li>
-      <li><a href="https://github.com/priyamdas2/NExUS" target="_blank">NExUS</a></li>
-      <li>SIFORM</li> <!--Page does not exist anymore containing the software (faculty odin page)-->
-      <li><a href="https://biostatistics.mdanderson.org/shinyapps/ProgPerm/" target="_blank">ProgPerm</a></li>
-      <li>BAZE</li>
-      <li><a href="https://biostatistics.mdanderson.org/shinyapps/aPCoA/" target="_blank">aPCoA</a></li>
-      <li><a href="https://github.com/YushuShi/sparseMbClust/" target="_blank">sparseMbClust</a></li>
-      <li>IooPA</li>
-      <li><a href="https://github.com/longjp/mediateR" target="_blank">mediateR</a></li>
-      <li><a href="https://odin.mdacc.tmc.edu/~kim/geneclust/" target="_blank">GENECLUST</a></li>
+        <li><a href="https://biostatistics.mdanderson.org/shinyapps/aPCoA/" target="_blank">aPCoA</a></li>
+        <li><a href="https://github.com/LyonsZhang/BAZE" target="_blank">BAZE</a></li>
+        <li><a href="https://github.com/ziyili20/CAMLU.git" target="_blank">CAMLU</a></li>
+        <li><a href="https://github.com/cran/iDINGO.git" target="_blank">DINGO, iDINGO</a></li>
+        <li><a href="https://odin.mdacc.tmc.edu/~kim/geneclust/" target="_blank">GENECLUST</a></li>
+        <li><a href="https://rdrr.io/github/YushuShi/looPA/" target="_blank">looPA</a></li>
+        <li><a href="https://github.com/longjp/mediateR" target="_blank">mediateR</a></li>
+        <li><a href="https://github.com/priyamdas2/NExUS" target="_blank">NExUS</a></li>
+        <li><a href="https://github.com/MinJinHa/PRECISE" target="_blank">PRECISE</a></li>
+        <li><a href="https://biostatistics.mdanderson.org/shinyapps/ProgPerm/" target="_blank">ProgPerm</a></li>
+        <li><a href="https://github.com/YushuShi/sparseMbClust/" target="_blank">sparseMbClust</a></li>
       </div>
     </div>
   </div>
 </div>  
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 <div>
-<a href="/COSBO/papers" target="_blank" style="text-decoration: none; color: black; text-align:center;"><h2>Recent Published and Impactful Papers</h2></a>
+  <a href="/COSBO/papers" target="_blank" style="text-decoration: none; color: black; text-align:center;"><h2>Recent Published and Impactful Papers</h2></a>
 </div>
 
 {% include feature_row id="feature_row" %}
