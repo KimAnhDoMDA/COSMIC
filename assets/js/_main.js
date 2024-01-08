@@ -34,8 +34,8 @@ $(function() {
   });
 
   // Close search screen with Esc key
-  $(document).keyup(function(e) {
-    if (e.keyCode === 27) {
+  $(".search__toggle").on('keyup', function(e) {
+    if (e.key === 'Escape') {
       if ($(".initial-content").hasClass("is--hidden")) {
         $(".search-content").toggleClass("is--visible");
         $(".initial-content").toggleClass("is--hidden");
@@ -45,6 +45,7 @@ $(function() {
 
   // Search toggle
   $(".search__toggle").on("click", function() {
+    console.log("Search toggle clicked")
     $(".search-content").toggleClass("is--visible");
     $(".initial-content").toggleClass("is--hidden");
     // set focus on input

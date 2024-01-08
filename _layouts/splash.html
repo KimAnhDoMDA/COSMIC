@@ -1,5 +1,5 @@
 ---
-layout: defaultSplash
+layout: default
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
@@ -17,9 +17,6 @@ layout: defaultSplash
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
     <section class="page__content" itemprop="text">
       {{ content }}
-      <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
     </section>
   </article>
 </div>
-
-{% include scripts.html %}
