@@ -258,7 +258,6 @@ layout: splash
   </div>   
   <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   <!-- End Second Row -->
-  <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 <hr>
 <div class="responsive-container-block outer-container">
   <div class="responsive-container-block inner-container">
