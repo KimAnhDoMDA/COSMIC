@@ -258,6 +258,109 @@ layout: splash
   </div>   
   <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   <!-- End Second Row -->
+  <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+<hr>
+<div class="responsive-container-block outer-container">
+  <div class="responsive-container-block inner-container">
+    <div class="text-blk section-head-text" style="margin-top:1em;">
+      External Statistical Collaborators
+    </div>
+    <div class="responsive-container-block">
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/misc/bio-photo.jpg">
+          </div>
+          <p class="text-blk name" style="margin-top:1em;">
+            Francesco Stingo
+          </p>
+          <div class="social-media-links">
+            <a href="https://sites.google.com/site/fcstingo/" target="_blank">
+              <i class="fa fa-link" style="color: #000000;"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/people/jianhuaH.jpg">
+          </div>
+          <p class="text-blk name" style="margin-top:1em;">
+            Jianhua Hu
+          </p>
+          <div class="social-media-links">
+            <a href="https://www.publichealth.columbia.edu/profile/jianhua-hu-phd" target="_blank">
+              <i class="fa fa-link" style="color: #000000;"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/alumni/3.jpg">
+          </div>
+          <p class="text-blk name" style="margin-top:1em;">
+            Liangliang Zhang
+          </p>
+          <div class="social-media-links">
+            <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/liangliang-lyons-zhang" target="_blank">
+              <i class="fa fa-link" style="color: #000000;"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="responsive-container-block">
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/alumni/9.jpg">
+          </div>
+          <p class="text-blk name" style="margin-top:1em;">
+            Thierry Chekouo
+          </p>
+          <div class="social-media-links">
+            <a href="https://directory.sph.umn.edu/bio/sph-a-z/thierry-chekouo" target="_blank">
+              <i class="fa fa-link" style="color: #000000;"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/people/VeeraB.jpg">
+          </div>
+          <p class="text-blk name" style="margin-top:1em;">
+            Veera Baladandayuthapani
+          </p>
+          <div class="social-media-links">
+            <a href="https://sph.umich.edu/faculty-profiles/baladandayuthapani-veerabhadran.html" target="_blank">
+              <i class="fa fa-link" style="color: #000000;"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/alumni/2.jpg">
+          </div>
+          <p class="text-blk name" style="margin-top:1em;">
+            Yushu Shi
+          </p>
+          <div class="social-media-links">
+            <a href="https://www.linkedin.com/in/yushushi" target="_blank">
+              <i class="fa fa-link" style="color: #000000;"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
   <!-- Start Third row-->
   <hr>
 <div class="responsive-container-block outer-container">
@@ -444,109 +547,6 @@ layout: splash
   </div>
 </div>
 <!--End Fifth Row -->
-<a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-<hr>
-<div class="responsive-container-block outer-container">
-  <div class="responsive-container-block inner-container">
-    <div class="text-blk section-head-text" style="margin-top:1em;">
-      External Statistical Collaborators
-    </div>
-    <div class="responsive-container-block">
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-        <div class="team-card">
-          <div class="img-wrapper">
-            <img class="team-img" src="../assets/images/misc/bio-photo.jpg">
-          </div>
-          <p class="text-blk name" style="margin-top:1em;">
-            Francesco Stingo
-          </p>
-          <div class="social-media-links">
-            <a href="https://sites.google.com/site/fcstingo/" target="_blank">
-              <i class="fa fa-link" style="color: #000000;"></i>
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-        <div class="team-card">
-          <div class="img-wrapper">
-            <img class="team-img" src="../assets/images/people/jianhuaH.jpg">
-          </div>
-          <p class="text-blk name" style="margin-top:1em;">
-            Jianhua Hu
-          </p>
-          <div class="social-media-links">
-            <a href="https://www.publichealth.columbia.edu/profile/jianhua-hu-phd" target="_blank">
-              <i class="fa fa-link" style="color: #000000;"></i>
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-        <div class="team-card">
-          <div class="img-wrapper">
-            <img class="team-img" src="../assets/images/alumni/3.jpg">
-          </div>
-          <p class="text-blk name" style="margin-top:1em;">
-            Liangliang Zhang
-          </p>
-          <div class="social-media-links">
-            <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/liangliang-lyons-zhang" target="_blank">
-              <i class="fa fa-link" style="color: #000000;"></i>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="responsive-container-block">
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-        <div class="team-card">
-          <div class="img-wrapper">
-            <img class="team-img" src="../assets/images/alumni/9.jpg">
-          </div>
-          <p class="text-blk name" style="margin-top:1em;">
-            Thierry Chekouo
-          </p>
-          <div class="social-media-links">
-            <a href="https://directory.sph.umn.edu/bio/sph-a-z/thierry-chekouo" target="_blank">
-              <i class="fa fa-link" style="color: #000000;"></i>
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-        <div class="team-card">
-          <div class="img-wrapper">
-            <img class="team-img" src="../assets/images/people/VeeraB.jpg">
-          </div>
-          <p class="text-blk name" style="margin-top:1em;">
-            Veera Baladandayuthapani
-          </p>
-          <div class="social-media-links">
-            <a href="https://sph.umich.edu/faculty-profiles/baladandayuthapani-veerabhadran.html" target="_blank">
-              <i class="fa fa-link" style="color: #000000;"></i>
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-        <div class="team-card">
-          <div class="img-wrapper">
-            <img class="team-img" src="../assets/images/alumni/2.jpg">
-          </div>
-          <p class="text-blk name" style="margin-top:1em;">
-            Yushu Shi
-          </p>
-          <div class="social-media-links">
-            <a href="https://www.linkedin.com/in/yushushi" target="_blank">
-              <i class="fa fa-link" style="color: #000000;"></i>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 <hr>   
 <div class="responsive-container-block outer-container">
