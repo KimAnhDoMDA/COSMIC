@@ -854,7 +854,7 @@ layout: splash
       </div>
     </div>
   </div>
-<div class="responsive-container-block inner-container">
+<div class="responsive-container-block container">
   <div class="row-container" style="margin-top: 3em;">
     <p class="text-blk name" style="margin-right:5em;">Clemete Aguilar</p>
     <p class="text-blk name" style="margin-right:5em;">Junghi Kim</p>
