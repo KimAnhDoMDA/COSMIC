@@ -21,6 +21,7 @@ body {
     text-align:center;
 }
 
+
 /* Box sizing depending on parent */
 *,
 *:before,
@@ -38,11 +39,35 @@ body {
 
 /* Column width change depends
       on screen size */
-@media screen and (max-width: 670px) {
+@media screen and (max-width: 600px) {
     .column {
         width: 100%;
-        text-align: none;
+        text-align: left;
     }
+    .responsive-container-block {
+      /* Adjust styles for smaller screens */
+      flex-direction: column; /* For example, stack items vertically on smaller screens */
+    }
+
+    .container {
+      padding: 10px;
+    }
+
+    h2 {
+      text-align: center;
+      display: block;
+    }
+
+    dl2 {
+      grid-template-columns: 1fr; /* Single column on smaller screens */
+    }
+    
+    .feature__wrapper {
+      margin-left: 2em;
+      margin-right: 2em;
+      display: block;
+    }
+
 }
 
 /* Card designing */
@@ -463,6 +488,13 @@ body {
 dl2 {
   display: grid;
   grid-template-columns: max-content;
+  column-gap: 1em;
+  row-gap: 1em;
+}
+
+dl3 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));;
   column-gap: 1em;
   row-gap: 1em;
 }

@@ -52,6 +52,12 @@
   overflow: hidden;
   text-overflow: ellipsis;
 
+  @media screen and (max-width: 600px) {
+     // Prevent text wrapping on small screens
+    overflow: hidden;     // Hide overflowing text
+    text-overflow: ellipsis;  // Add ellipsis for hidden text
+  }
+
   a[rel="permalink"]::before {
     content: '';
     position: absolute;
@@ -144,6 +150,10 @@
   z-index: 5;
   opacity: 1;
   border-radius: $border-radius 0 0 0;
+
+  @media screen and (max-width: 600px) {
+    text-align: center;       // Center-align text for smaller screens
+  }
 
   @include breakpoint($large) {
     padding: 5px 10px;

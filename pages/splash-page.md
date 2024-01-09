@@ -122,10 +122,8 @@ feature_row3:
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 <div class="containerIframe">
   <div class="left-column">
-    <div class="centerIframe">
       <h2 style="text-align:center; color: black;">Recent Talk</h2>
-      <iframe src="https://onedrive.live.com/embed?resid=DD1D7A6CCCA3FEEC%2160909&amp;authkey=%21ALLKjlXnQyb-dDA&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="500px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-    </div>
+      <iframe src="https://onedrive.live.com/embed?resid=DD1D7A6CCCA3FEEC%2160909&amp;authkey=%21ALLKjlXnQyb-dDA&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="90%" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
   </div>
   <div class="right-column">
     <summary><h2 style="text-align: center; color: black;">List of Softwares</h2></summary>

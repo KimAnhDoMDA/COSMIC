@@ -14,7 +14,7 @@ author_profile: true
         <img src="https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/master/assets/images/misc/books.JPG" alt="Kim-Anh Do Books">
     </figure>
 </div>
-<div style="width: 1000px;">
+<div style="width: 100%;">
 <details>
 <summary><h2 style="display:inline;">About Me</h2></summary>
 <p2>
