@@ -100,8 +100,7 @@ feature_row3:
 <div class="center" style="max-width: 800px; font-size: 20px;">
   <p style="text-align: left">
   Our dedicated research team are at the forefront of cutting-edge development in <br/> 
-  <b>COmputational Statistics, Biology, and Oncology (COSBO).</b> <br/>
-  <br />
+  <p style="text-align: center"><b>COmputational Statistics, Biology, and Oncology (COSBO).</b></p>
   Our dynamic group provides a wealth of expertise in developing statistical and machine-learning methodologies for the integration and analysis of biological omic data (genomic, transcriptomic, proteomic, metabolomic, microbiome, single cell RNA-sequencing, and spatial transcriptomic), <br/>
   producing computational tools to efficiently apply our statistical methods <br/>to large biological data sets, small clinical data sets or large pan-cancer data sets.<br/>
   <br/>
