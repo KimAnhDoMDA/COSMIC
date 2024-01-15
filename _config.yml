@@ -17,7 +17,7 @@ plugins:
   - jekyll-seo-tag
 
 github: 
-  token: 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
+  token: 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
 
 head_scripts:
   - https://code.jquery.com/jquery-3.6.0.min.js

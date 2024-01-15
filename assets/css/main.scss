@@ -47,6 +47,7 @@ body {
     .responsive-container-block {
       /* Adjust styles for smaller screens */
       flex-direction: column; /* For example, stack items vertically on smaller screens */
+      justify-content: center;
     }
 
     .container {
@@ -144,7 +145,7 @@ body {
     //margin-right: auto;
     margin-bottom: 0px;
     //margin-left: auto;
-    justify-content: space-evenly;
+    justify-content: center;
   }
   
   .ainer {
