@@ -13,30 +13,36 @@ excerpt: "Welcome to COSBO! <br/> COmputational Statistics, Biology, and Oncolog
 feature_row:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
+    image_caption: "Posted 12-21-2023"
+    title: "Our Research Study Earns a Place in MD Anderson's 23 Cancer Research Highlights of 2023!"
+    excerpt: "Read more about it on the MD Anderson website: Blood test developed at MD Anderson aids in predicting lung cancer mortality risk"
+    url: "https://www.mdanderson.org/cancerwise/23-cancer-research-highlights-from-the-past-year-2023.h00-159624168.html"
+  - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 2"
     image_caption: "Accepted on 11-29-2023"
     title: "Attempts to Understand Oral Mucositis in Head and Neck Cancer Patients through Omics Studies: A Narrative Review"
     excerpt: "Oral mucositis (OM) is a common and clinically impactful side effect of cytotoxic cancer treatment, particularly in patients with head and neck squamous cell carcinoma (HNSCC) who undergo radiotherapy with or without concomitant chemotherapy. The etiology and pathogenic mechanisms of OM are complex, multifaceted and elicit both direct and indirect damage to the mucosa. In this narrative review, we describe studies that use various omics methodologies (genomics, transcriptomics, microbiomics and metabolomics) in attempts to elucidate the biological pathways associated with the development or severity of OM."
     url: "https://pubmed.ncbi.nlm.nih.gov/38069314/"
   - image_path: ./assets/images/misc/blank.JPG
-    alt: "Article 2"
+    alt: "Article 3"
     image_caption: "Published on 9-20-2023"
     title: "Mortality Benefit of a Blood-Based Biomarker Panel for Lung Cancer on the Basis of the Prostate, Lung, Colorectal, and Ovarian Cohort"
     excerpt: "To investigate the utility of integrating a panel of circulating protein biomarkers in combination with a risk model on the basis of subject characteristics to identify individuals at high risk of harboring a lethal lung cancer."
     url: "https://ascopubs.org/doi/abs/10.1200/JCO.22.02424?role=tab&journalCode=jco"
   - image_path: ./assets/images/misc/blank.JPG
-    alt: "Article 3"
+    alt: "Article 4"
     image_caption: "Published on 9-19-2023"
     title: "A blood-based metabolomic signature predictive of risk for pancreatic cancer"
     excerpt: "Emerging evidence implicates microbiome involvement in the development of pancreatic cancer (PaCa). Here, we investigate whether increases in circulating microbial-related metabolites associate with PaCa risk by applying metabolomics profiling to 172 sera collected within 5 years prior to PaCa diagnosis and 863 matched non-subject sera from participants in the Prostate, Lung, Colorectal, and Ovarian (PLCO) cohort."
     url: "https://pubmed.ncbi.nlm.nih.gov/37729870/"
+
+feature_row2:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 4"
     image_caption: "Published on 9-8-2023"
     title: "Study finds link between oral microbiome and common side effect in patients with head and neck cancer"
     excerpt: "Oral mucositis refers to erythematous and ulcerative lesions of the oral mucosa observed in patients with cancer being treated with chemotherapy, and/or with radiation therapy to fields involving the oral cavity. Lesions of oral mucositis are often very painful and compromise nutrition and oral hygiene as well as increase risk for local and systemic infection. Mucositis can also involve other areas of the alimentary tract; for example, gastrointestinal (GI) mucositis can manifest as diarrhea. Thus, mucositis is a highly significant and sometimes dose-limiting complication of cancer therapy"
     url: "https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.35001"
-
-feature_row2:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
     image_caption: "Revised on 11-09-2023"
@@ -59,14 +65,14 @@ feature_row2:
     title: "A Blood-Based Metabolite Panel for Distinguishing Ovarian Cancer from Benign Pelvic Masses"
     excerpt: "A blood-based metabolite panel was developed that demonstrates independent predictive ability and complements ROMA for distinguishing early-stage ovarian cancer from benign disease to better inform clinical decision making."
     url: "https://pubmed.ncbi.nlm.nih.gov/36037307/"
+
+feature_row3:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 4"
     image_caption: "Posted on 10-21-2022"
     title: "A machine learning-based method for automatically identifying novel cells in annotating single-cell RNA-seq data"
     excerpt: "We developed a straightforward yet effective method combining autoencoder with iterative feature selection to automatically identify novel cells from scRNA-seq data. Our method trains an autoencoder with the labeled training data and applies the autoencoder to the testing data to obtain reconstruction errors. By iteratively selecting features that demonstrate a bi-modal pattern and reclustering the cells using the selected feature, our method can accurately identify novel cells that are not present in the training data."
     url: "https://pubmed.ncbi.nlm.nih.gov/36083008/"
-
-feature_row3:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
     image_caption: "Posted on 10-14-2022"
@@ -87,13 +93,6 @@ feature_row3:
     title: "MDM2 antagonist improves therapeutic activity of azacitidine in myelodysplastic syndromes and chronic myelomonocytic leukemia"
     excerpt: "Failure of hypomethylation agent (HMA) treatments is an important issue in myelodysplastic syndromes (MDS) and chronic myelomonocytic leukemia (CMML). Recent studies indicated that function of wildtype TP53 positively impacts outcome of HMA treatments. We investigated the combination of the...."
     url: "https://www.tandfonline.com/doi/abs/10.1080/10428194.2022.2116932" 
-
-  - image_path: ./assets/images/misc/blank.JPG
-    alt: "Article 4"
-    image_caption: "Posted on 8-11-2022"
-    title: "A Comprehensive Search of Non-Canonical Proteins in Non-Small Cell Lung Cancer and Their Impact on the Immune Response"
-    excerpt: "There is substantial interest in mining neoantigens for cancer applications. Non-canonical proteins resulting from frameshift mutations have been identified as neoantigens in cancer. We investigated the landscape of non-canonical proteins in non-small cell lung cancer (NSCLC) and their induced immune response in..."
-    url: "https://www.mdpi.com/1422-0067/23/16/8933" 
 
 
 ---
