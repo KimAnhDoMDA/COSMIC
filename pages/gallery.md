@@ -5,6 +5,12 @@ permalink: /gallery/
 author_profile: true
 
 gallery:
+
+  - url: /assets/images/gallery/gingerCafe.JPG
+    image_path: /assets/images/gallery/gingerCafe.JPG
+    alt: "COSBO team lunch at Ginger Cafe"
+    title: "COSBO team lunch at Ginger Cafe"
+
   - url: /assets/images/gallery/group1.JPG
     image_path: /assets/images/gallery/group1.JPG
     alt: "COSBO team in meeting"
@@ -135,8 +141,4 @@ gallery:
     alt: "Paul Scheet and Bradley Broom"
     title: "Paul Scheet and Bradley Broom"
 
-  - url: /assets/images/gallery/gingerCafe.JPG
-    image_path: /assets/images/gallery/gingerCafe.JPG
-    alt: "COSBO team lunch at Ginger Cafe"
-    title: "COSBO team lunch at Ginger Cafe"
 ---
