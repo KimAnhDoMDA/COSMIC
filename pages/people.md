@@ -136,7 +136,7 @@ layout: splash
 </div>
   <!-- End First row -->
   <!-- Second Row Start-->
- <div class="responsive-container-block">
+<div class="responsive-container-block">
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
               <div class="img-wrapper">
@@ -150,7 +150,7 @@ layout: splash
                     Major Faculty Collaborator
                   </a>
                 </p>
-                <div class="social-media-links">
+                <div class="social-media-links1">
                   <a href="mailto:bmbroom@mdanderson.org" target="_blank">
                     <i class="fa fa-envelope" style="color: #000000;"></i>
                   </a>
@@ -257,7 +257,7 @@ layout: splash
           </div>
     </div>   
   <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-<!-- End Second Row -->
+
 <!-- Start Third row-->
 <hr>
 <div class="responsive-container-block outer-container">
@@ -328,6 +328,29 @@ layout: splash
       </div>
     </div>
   <div class="responsive-container-block">
+  <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+            <div class="team-card">
+                <div class="img-wrapper">
+                  <img class="team-img" src="../assets/images/people/geoffMcLachlan.JPG">
+                </div>
+                <p class="text-blk name" style="margin-top:1em;">
+                  Geoffrey McLachlan, PhD
+                </p>
+                <p class="text-blk position" style="margin-top:-1em;">
+                <a href="https://smp.uq.edu.au/profile/246/geoffrey-mclachlan" target="_blank" style="text-decoration: none; color: black;">
+                  Major Faculty Collaborator
+                </a>
+                </p>
+                <div class="social-media-links">
+                  <a href="g.mclachlan@uq.edu.au" target="_blank">
+                    <i class="fa fa-envelope" style="color: #000000;"></i>
+                  </a>
+                  <a href="https://smp.uq.edu.au/profile/246/geoffrey-mclachlan" target="_blank">
+                    <i class="fa fa-link" style="color: #000000;"></i>
+                  </a>
+                </div>
+              </div>
+          </div>
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
