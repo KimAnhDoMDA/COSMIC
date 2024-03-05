@@ -334,12 +334,7 @@ layout: splash
                   <img class="team-img" src="../assets/images/people/geoffMcLachlan.JPG">
                 </div>
                 <p class="text-blk name" style="margin-top:1em;">
-                  Geoffrey McLachlan, PhD
-                </p>
-                <p class="text-blk position" style="margin-top:-1em;">
-                <a href="https://smp.uq.edu.au/profile/246/geoffrey-mclachlan" target="_blank" style="text-decoration: none; color: black;">
-                  Major Faculty Collaborator
-                </a>
+                  Geoffrey McLachlan
                 </p>
                 <div class="social-media-links">
                   <a href="g.mclachlan@uq.edu.au" target="_blank">
