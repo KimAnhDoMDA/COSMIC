@@ -839,7 +839,7 @@ layout: splash
               Nabihah Tayob
             </p>
             <div class="social-media-links">
-              <a href="https://www.dfhcc.harvard.edu/insider/member-detail/member/nabihah-tayob-phd/" target="_blank">
+              <a href="https://www.dfhcc.harvard.edu/insider/member-detail?tx_hcc_persondetail%5Baction%5D=show&tx_hcc_persondetail%5Bcontroller%5D=Person&tx_hcc_persondetail%5Bperson%5D=1552&cHash=0dfc96bc25b8363d733c4512de514627" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
               </a>
             </div>
