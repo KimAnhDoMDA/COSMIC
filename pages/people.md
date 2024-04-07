@@ -326,9 +326,7 @@ layout: splash
           </div>
         </div>
       </div>
-    </div>
-  <div class="responsive-container-block">
-  <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
             <div class="team-card">
                 <div class="img-wrapper">
                   <img class="team-img" src="../assets/images/people/geoffMcLachlan.JPG">
@@ -345,7 +343,9 @@ layout: splash
                   </a>
                 </div>
               </div>
-          </div>
+        </div>
+    </div>
+  <div class="responsive-container-block">
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
