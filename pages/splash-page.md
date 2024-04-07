@@ -6,10 +6,12 @@ author_profile: true
 
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0"
   overlay_image: ./assets/images/misc/splash.JPG  
-title: "Kim-Anh Do, Ph.D"
-excerpt: "Welcome to COSMIC! <br/> COmputational Statistics, Medicine, Integrative Cancer Research"
+title: "Kim-Anh Do, Ph.D<br>"
+excerpt: "<h4><b>Welcome to COSMIC!</b></h4>"
+tagline: "COmputational Statistics, Medicine, Integrative omiC Research"
+
 
 feature_row:
   - image_path: ./assets/images/misc/blank.JPG
@@ -91,7 +93,7 @@ feature_row3:
 <div class="center" style="max-width: 800px; font-size: 20px;">
   <p style="text-align: left">
   Our dedicated research team is at the forefront of cutting-edge development in translational data science focusing on<br/> 
-  <p style="text-align: center"><b>COmputational Statistics, Medicine, Integrative Cancer Research (COSMIC).research.</b></p>
+  <p style="text-align: center"><b>COmputational Statistics, Medicine, Integrative omiC Research (COSMIC).research.</b></p>
   Our dynamic group provides a wealth of expertise in developing statistical and machine-learning methodologies to address translational data science challenges including the integration and analysis of biological omic data (genomic, transcriptomic, proteomic, metabolomic, microbiome, single cell RNA-sequencing, and spatial transcriptomic), <br/>
   producing computational tools to efficiently apply our statistical methods <br/>to large biological data sets, small clinical data sets or large pan-cancer data sets.<br/>
   <br/>

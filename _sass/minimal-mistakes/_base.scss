@@ -24,9 +24,7 @@ body {
 h1,
 h2,
 h3,
-h4,
-h5,
-h6 {
+h5{
   margin: 0.5em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
@@ -44,6 +42,13 @@ h2 {
   margin-top: 2em;
 }
 
+h6 {
+  font-size: $h-size-6;
+  color: white;
+  text-align: left;
+
+}
+
 h1:hover{
   color: grey;
 }
@@ -57,7 +62,9 @@ h3 {
 }
 
 h4 {
-  font-size: $h-size-4;
+  font-size: 2em;
+  color: white;
+  text-align: center;
 }
 
 h5 {
@@ -83,6 +90,7 @@ ins {
   border-bottom: 1px solid $text-color;
   a {
     color: black;
+    text-align: left;
   }
 }
 
