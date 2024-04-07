@@ -394,21 +394,6 @@ layout: splash
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
-            <img class="team-img" src="../assets/images/alumni/3.jpg">
-          </div>
-          <p class="text-blk name" style="margin-top:1em;">
-            Liangliang Zhang
-          </p>
-          <div class="social-media-links">
-            <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/liangliang-lyons-zhang" target="_blank">
-              <i class="fa fa-link" style="color: #000000;"></i>
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-        <div class="team-card">
-          <div class="img-wrapper">
             <img class="team-img" src="../assets/images/people/binYu.JPG">
           </div>
           <p class="text-blk name" style="margin-top:1em;">
@@ -416,6 +401,21 @@ layout: splash
           </p>
           <div class="social-media-links">
             <a href="https://binyu.stat.berkeley.edu/" target="_blank">
+              <i class="fa fa-link" style="color: #000000;"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/alumni/3.jpg">
+          </div>
+          <p class="text-blk name" style="margin-top:1em;">
+            Liangliang Zhang
+          </p>
+          <div class="social-media-links">
+            <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/liangliang-lyons-zhang" target="_blank">
               <i class="fa fa-link" style="color: #000000;"></i>
             </a>
           </div>

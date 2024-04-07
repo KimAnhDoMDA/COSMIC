@@ -2,6 +2,7 @@
 layout: splash
 permalink: /
 classes: wide
+author_profile: true
 
 header:
   overlay_color: "#000"
@@ -106,6 +107,7 @@ feature_row3:
   <figure class="center">
   <img src="./assets/images/people/group.JPG" class="responsive-image" alt="">
   <figcaption>Dr Kim-Anh Do with the COSMIC team 2023</figcaption>
+  <a href="mailto:kimdo@mdanderson.org"><p style="text-style: none; text-align: center;">Contact Me</p></a>
   </figure>
 </div>
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
