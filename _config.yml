@@ -5,7 +5,7 @@ title: "Kim-Anh Do Lab"
 name: "Kim-Anh Do, Ph.D."
 description: "Dr Kim-Anh Do's team website"
 url: "https://kimanhdomda.github.io/"
-repository: "kimanhdomda/COSBO"
+repository: "kimanhdomda/COSMIC"
 
 plugins:
   - jekyll-paginate
@@ -59,17 +59,25 @@ social:
 
 author:
   name: "Kim-Anh Do, Ph.D."
-  avatar: "https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/master/assets/images/people/KDoHeadshot.jpg"
+  avatar: "https://raw.githubusercontent.com/KimAnhDoMDA/COSMIC/master/assets/images/people/KDoHeadshot.jpg"
 
   bio: "Pioneering Progress in Biostatistics and Cancer Research" # Note: Markdown is allowed
   
-  location: "Houston, TX"
   links:
     - label: "Kim-Anh Do, Ph.D"
       icon: "https://faculty.mdanderson.org/profiles/kim-anh_do.html"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kim-anh-do-35b31463/"
+    - label: "KimDo@MDAnderson.org"
+      icon: "fas fa-envelope"
+      url: "mailto:kimdo@mdanderson.org"
+    - label: "713-745-2483"
+      icon: "fas fa-phone"
+      url: "tel:713-745-2483"
+    - label: "1515 Holcombe Blvd., Unit 1411"
+      icon: "fas fa-map-marker-alt"
+      url: "https://maps.app.goo.gl/meMJn75tevfSGZmc7"
 
 defaults:
   # _posts

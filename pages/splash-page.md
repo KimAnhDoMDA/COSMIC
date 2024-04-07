@@ -8,15 +8,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: ./assets/images/misc/splash.JPG  
 title: "Kim-Anh Do, Ph.D"
-excerpt: "Welcome to COSBO! <br/> COmputational Statistics, Biology, and Oncology"
+excerpt: "Welcome to COSMIC! <br/> COmputational Statistics, Medicine, Integrative Cancer Research"
 
 feature_row:
-  - image_path: ./assets/images/misc/blank.JPG
-    alt: "Article 1"
-    image_caption: "Posted 12-21-2023"
-    title: "Our Research Study Earns a Place in MD Anderson's 23 Cancer Research Highlights of 2023!"
-    excerpt: "Read more about it on the MD Anderson website: Blood test developed at MD Anderson aids in predicting lung cancer mortality risk"
-    url: "https://www.mdanderson.org/cancerwise/23-cancer-research-highlights-from-the-past-year-2023.h00-159624168.html"
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 2"
     image_caption: "Accepted on 11-29-2023"
@@ -35,14 +29,13 @@ feature_row:
     title: "A blood-based metabolomic signature predictive of risk for pancreatic cancer"
     excerpt: "Emerging evidence implicates microbiome involvement in the development of pancreatic cancer (PaCa). Here, we investigate whether increases in circulating microbial-related metabolites associate with PaCa risk by applying metabolomics profiling to 172 sera collected within 5 years prior to PaCa diagnosis and 863 matched non-subject sera from participants in the Prostate, Lung, Colorectal, and Ovarian (PLCO) cohort."
     url: "https://pubmed.ncbi.nlm.nih.gov/37729870/"
-
-feature_row2:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 4"
     image_caption: "Published on 9-8-2023"
     title: "Study finds link between oral microbiome and common side effect in patients with head and neck cancer"
     excerpt: "Oral mucositis refers to erythematous and ulcerative lesions of the oral mucosa observed in patients with cancer being treated with chemotherapy, and/or with radiation therapy to fields involving the oral cavity. Lesions of oral mucositis are often very painful and compromise nutrition and oral hygiene as well as increase risk for local and systemic infection. Mucositis can also involve other areas of the alimentary tract; for example, gastrointestinal (GI) mucositis can manifest as diarrhea. Thus, mucositis is a highly significant and sometimes dose-limiting complication of cancer therapy"
     url: "https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.35001"
+feature_row2:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
     image_caption: "Revised on 11-09-2023"
@@ -65,28 +58,26 @@ feature_row2:
     title: "A Blood-Based Metabolite Panel for Distinguishing Ovarian Cancer from Benign Pelvic Masses"
     excerpt: "A blood-based metabolite panel was developed that demonstrates independent predictive ability and complements ROMA for distinguishing early-stage ovarian cancer from benign disease to better inform clinical decision making."
     url: "https://pubmed.ncbi.nlm.nih.gov/36037307/"
-
-feature_row3:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 4"
     image_caption: "Posted on 10-21-2022"
     title: "A machine learning-based method for automatically identifying novel cells in annotating single-cell RNA-seq data"
     excerpt: "We developed a straightforward yet effective method combining autoencoder with iterative feature selection to automatically identify novel cells from scRNA-seq data. Our method trains an autoencoder with the labeled training data and applies the autoencoder to the testing data to obtain reconstruction errors. By iteratively selecting features that demonstrate a bi-modal pattern and reclustering the cells using the selected feature, our method can accurately identify novel cells that are not present in the training data."
     url: "https://pubmed.ncbi.nlm.nih.gov/36083008/"
+
+feature_row3:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
     image_caption: "Posted on 10-14-2022"
     title: "Bayesian hierarchical quantile regression with application to characterizing the immune architecture of lung cancer"
     excerpt: "The successful development and implementation of precision immuno-oncology therapies requires a deeper understanding of the immune architecture at a patient level. T-cell receptor (TCR) repertoire sequencing is a relatively new technology that enables monitoring of T-cells, a subset of immune cells that play a central role in modulating immune response."
     url: "https://onlinelibrary.wiley.com/doi/10.1111/biom.13774"  
-
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 2"
     image_caption: "Posted on 9-21-2022"
     title: "Transcriptomic Signatures of Hypomethylating Agent Failure in Myelodysplastic Syndromes and Chronic Myelomonocytic Leukemia. Exp Hematol"
     excerpt: "Hypomethylating agents (HMAs) are the standard of care for myelodysplastic syndromes (MDS) and chronic myelomonocytic leukemia (CMML). HMA treatment failure is a major clinical problem and its mechanisms are poorly characterized. We performed RNA sequencing in CD34+ bone marrow stem hematopoietic stem and progenitor cells (BM-HSPCs) from 51 patients with CMML and MDS before HMA treatment and compared transcriptomic signatures between responders and nonresponders."
     url: "https://www.exphem.org/article/S0301-472X(22)00697-X/fulltext" 
-
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 3"
     image_caption: "Posted on 9-5-2022"
@@ -98,26 +89,36 @@ feature_row3:
 ---
 <div class="center" style="max-width: 800px; font-size: 20px;">
   <p style="text-align: left">
-  Our dedicated research team are at the forefront of cutting-edge development in <br/> 
-  <p style="text-align: center"><b>COmputational Statistics, Biology, and Oncology (COSBO).</b></p>
-  Our dynamic group provides a wealth of expertise in developing statistical and machine-learning methodologies for the integration and analysis of biological omic data (genomic, transcriptomic, proteomic, metabolomic, microbiome, single cell RNA-sequencing, and spatial transcriptomic), <br/>
+  Our dedicated research team is at the forefront of cutting-edge development in translational data science focusing on<br/> 
+  <p style="text-align: center"><b>COmputational Statistics, Medicine, Integrative Cancer Research (COSMIC).research.</b></p>
+  Our dynamic group provides a wealth of expertise in developing statistical and machine-learning methodologies to address translational data science challenges including the integration and analysis of biological omic data (genomic, transcriptomic, proteomic, metabolomic, microbiome, single cell RNA-sequencing, and spatial transcriptomic), <br/>
   producing computational tools to efficiently apply our statistical methods <br/>to large biological data sets, small clinical data sets or large pan-cancer data sets.<br/>
   <br/>
   Together, we are passionately committed to advancing statistical research and its transformative impact on healthcare.
-  Our collective efforts underscore the significance of rigorous statistical methods in unraveling the complexities of biological data, marking them as vital contributors to the ongoing progress of these fields, particularly in personalized medicine and precision oncology. <br/> <br/>
-  Our group provides critical collaborative expertise (nonparametric multivariable and <br/>dimension reduction methodologies, Bayesian methodology, graphical network modeling, <br/>
-  feature selection of biomarkers, deep learning methodology and causal models to maximize causal prediction performance) to <br/> data scientists, biologists, clinicians, bioinformaticians, geneticists, and statisticians.
+  Our collective efforts underscore the significance of rigorous statistical methods in unraveling the complexities of correlated data in biology and medicine, marking them as vital contributors to the ongoing progress of these fields, particularly in personalized medicine and precision oncology. <br/> <br/>
+  Our group provides critical collaborative expertise (nonparametric multivariable and <br/>dimension reduction methodologies, Bayesian methodology, graphical and neural network modeling, <br/>
+  feature selection of biomarkers, deep learning methodology and causal models to maximize prediction performance, clinical trial design, and survival modeling) to <br/> data scientists, biologists, clinicians, bioinformaticians, geneticists, and statisticians.
   <br/>
-  We also participate in the education and training of the next generation of computational statisticians and data scientists.</p>
+  We also design state-of-the-art courses for the education and training of the next generation of computational statisticians and data scientists.</p>
 </div>
 
 <div class="center">
   <figure class="center">
   <img src="./assets/images/people/group.JPG" class="responsive-image" alt="">
-  <figcaption>Dr Kim-Anh Do with the COSBO team 2023</figcaption>
+  <figcaption>Dr Kim-Anh Do with the COSMIC team 2023</figcaption>
   </figure>
 </div>
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+<div>
+  <a href="" target="_blank" style="text-decoration: none; color: black; text-align:center;"><h2>In the News</h2></a>
+</div>
+<div class="custom-feature">
+    <p style="font-size: small;">Posted on 12-21-2023</p>
+    <a href="https://www.mdanderson.org/cancerwise/23-cancer-research-highlights-from-the-past-year-2023.h00-159624168.html" target="_blank">
+    <h3>Our Research Study Earns a Place in MD Anderson's 23 Cancer Research Highlights of 2023! </h3></a>
+    <p>Read more about it on the MD Anderson website: Blood test developed at MD Anderson aids in predicting lung cancer mortality risk</p>
+</div>
+
 <div class="containerIframe">
   <div class="left-column">
       <h2 style="text-align:center; color: black;">Recent Talk</h2>
@@ -144,7 +145,7 @@ feature_row3:
 </div>  
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 <div>
-  <a href="/COSBO/papers" target="_blank" style="text-decoration: none; color: black; text-align:center;"><h2>Recent Published and Impactful Papers</h2></a>
+  <a href="/COSMIC/papers" target="_blank" style="text-decoration: none; color: black; text-align:center;"><h2>Recent Published and Impactful Papers</h2></a>
 </div>
 
 {% include feature_row id="feature_row" %}

@@ -59,7 +59,7 @@ layout: splash
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
                   <div class="team-card">
                     <div class="img-wrapper">
-                      <img class="team-img" src="https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/master/assets/images/people/KDoHeadshot.jpg">
+                      <img class="team-img" src="https://raw.githubusercontent.com/KimAnhDoMDA/COSMIC/master/assets/images/people/KDoHeadshot.jpg">
                     </div>
                     <p class="text-blk name" style="margin-top:1em;">
                       Kim-Anh Do, Ph.D.
@@ -70,8 +70,8 @@ layout: splash
                     </a>
                     </p>
                     <div class="social-media-links1">
-                      <a href="mailto:kim@mdanderson.org" target="_blank">
-                        <i class="fa fa-envelope" style="color: #000000;"></i>
+                      <a href="mailto:kimdo@mdanderson.org" target="_blank">
+                        <i class="fa fa-envelope" style="color: #000000;"></i>f
                       </a>
                       <a href="https://www.linkedin.com/in/kim-anh-do-35b31463/" target="_blank">
                         <i class="fab fa-linkedin" style="color: #000000;"></i>
@@ -388,9 +388,25 @@ layout: splash
           </div>
         </div>
       </div>
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/people/binYu.JPG">
+          </div>
+          <p class="text-blk name" style="margin-top:1em;">
+            Bin Yu
+          </p>
+          <div class="social-media-links">
+            <a href="https://binyu.stat.berkeley.edu/" target="_blank">
+              <i class="fa fa-link" style="color: #000000;"></i>
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
+<a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 <!--End Third Row-->
 <!-- Start Fourth Row-->
   <hr>
@@ -932,6 +948,7 @@ layout: splash
     <p class="text-blk name" style="margin-right:5em;">Wenting Wang</p>
   </div>
 </div>
+<a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
 
 

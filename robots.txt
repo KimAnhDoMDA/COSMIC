@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /                
 User-agent: Googlebot      
 Allow: /                   
-Sitemap: https://kimanhdomda.github.io/COSBO/sitemap.xml
+Sitemap: https://kimanhdomda.github.io/COSMIC/sitemap.xml

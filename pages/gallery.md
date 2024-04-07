@@ -7,22 +7,22 @@ author_profile: true
 gallery:
   - url: /assets/images/gallery/group1.JPG
     image_path: /assets/images/gallery/group1.JPG
-    alt: "COSBO team in meeting"
+    alt: "COSMIC team in meeting"
     title: "Tuesday meetings"
 
-  - url: "https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/master/assets/images/people/group.JPG"
-    image_path: "https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/master/assets/images/people/group.JPG"
+  - url: "https://raw.githubusercontent.com/KimAnhDoMDA/COSMIC/master/assets/images/people/group.JPG"
+    image_path: "https://raw.githubusercontent.com/KimAnhDoMDA/COSMIC/master/assets/images/people/group.JPG"
     alt: "placeholder image 3"
     title: "Group photo"
 
   - url: /assets/images/gallery/group2.JPG
     image_path: /assets/images/gallery/group2.JPG
-    alt: "Presentations from the COSBO team"
+    alt: "Presentations from the COSMIC team"
     title: "Presentations"
 
-  - url: "https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/master/assets/images/gallery/group3.JPG"
-    image_path: "https://raw.githubusercontent.com/KimAnhDoMDA/COSBO/master/assets/images/gallery/group3.JPG"
-    alt: "COSBO team at India's restaurant"
+  - url: "https://raw.githubusercontent.com/KimAnhDoMDA/COSMIC/master/assets/images/gallery/group3.JPG"
+    image_path: "https://raw.githubusercontent.com/KimAnhDoMDA/COSMIC/master/assets/images/gallery/group3.JPG"
+    alt: "COSMIC team at India's restaurant"
     title: "Team Lunch at India's Restaurant"
 
   - url: "/assets/images/gallery/Lunch2023.JPG"
