@@ -5,7 +5,7 @@ author_profile: true
 title: About Me
 ---
 <div class="text-blk section-head-text" style="text-align: center;">
-    About Me: Research Theme & Books
+    Research Theme & Books
 </div>
 <div style="display: flex; margin-bottom: -50px;">
     <figure class="left" style="flex: 5;">

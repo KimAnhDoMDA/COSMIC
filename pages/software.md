@@ -5,11 +5,6 @@ author_profile: true
 title: Softwares
 ---
 
-<div class="text-blk section-head-text" style="text-align: left;">
-    Softwares
-</div>
-
-
 <!--aPCoA-->
 <div style="width: 100%; margin-top:1.5em; text-align: left;">
     <details>
