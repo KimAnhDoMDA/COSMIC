@@ -75,9 +75,11 @@ author:
     - label: "713-745-2483"
       icon: "fas fa-phone"
       url: "tel:713-745-2483"
-    - label: "1515 Holcombe Blvd., Unit 1411"
+    - label: "1MC, Room 12.2317 <br>
+              ```7007 Bertner Avenue <br>
+              ```Houston, TX 77030"
       icon: "fas fa-map-marker-alt"
-      url: "https://maps.app.goo.gl/meMJn75tevfSGZmc7"
+      url: "https://maps.app.goo.gl/Yn6k1VPdvW4P88U57"
 
 defaults:
   # _posts
