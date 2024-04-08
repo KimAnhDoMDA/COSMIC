@@ -2,6 +2,7 @@
 permalink: /about/
 layout: "single"
 author_profile: true
+title: About Me
 ---
 <div class="text-blk section-head-text" style="text-align: center;">
     About Me: Research Theme & Books

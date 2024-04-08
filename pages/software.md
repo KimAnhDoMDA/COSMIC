@@ -2,6 +2,7 @@
 permalink: /softwares/
 layout: "single"
 author_profile: true
+title: Softwares
 ---
 
 <div class="text-blk section-head-text" style="text-align: left;">

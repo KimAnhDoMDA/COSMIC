@@ -141,4 +141,5 @@ gallery:
     alt: "Paul Scheet and Bradley Broom"
     title: "Paul Scheet and Bradley Broom"
 
+title: Gallery
 ---

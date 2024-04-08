@@ -93,7 +93,7 @@ feature_row3:
 <div class="center" style="max-width: 800px; font-size: 20px;">
   <p style="text-align: left">
   Our dedicated research team is at the forefront of cutting-edge development in translational data science focusing on<br/> 
-  <p style="text-align: center"><b>COmputational Statistics, Medicine, Integrative omiC Research (COSMIC).research.</b></p>
+  <p style="text-align: center"><b>COmputational Statistics, Medicine, Integrative omiC Research (COSMIC).</b></p>
   Our dynamic group provides a wealth of expertise in developing statistical and machine-learning methodologies to address translational data science challenges including the integration and analysis of biological omic data (genomic, transcriptomic, proteomic, metabolomic, microbiome, single cell RNA-sequencing, and spatial transcriptomic), <br/>
   producing computational tools to efficiently apply our statistical methods <br/>to large biological data sets, small clinical data sets or large pan-cancer data sets.<br/>
   <br/>

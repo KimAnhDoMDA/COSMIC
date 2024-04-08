@@ -1,6 +1,7 @@
 ---
 permalink: /people/
 layout: splash
+title: Meet Our Team
 ---
 
 <div class="responsive-container-block outer-container">
