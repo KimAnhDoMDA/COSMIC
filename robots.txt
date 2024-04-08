@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /path_to_js/main.min.js
+Disallow: assets/js/main.min.js
 
 Sitemap: https://kimanhdomda.github.io/COSMIC/sitemap.xml
