@@ -1,7 +1,4 @@
-User-agent: *             
-Disallow: /                
-User-agent: Googlebot      
-Allow: /                   
+User-agent: *
+Disallow: /path_to_js/main.min.js
+
 Sitemap: https://kimanhdomda.github.io/COSMIC/sitemap.xml
-Disallow: /path_to_js/main.min.js 
-Disallow: /*.js$
