@@ -114,7 +114,7 @@ feature_row3:
 </div>
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 <div>
-  <a href="" target="_blank" style="text-decoration: none; color: black; text-align:center;"><h2>In the News</h2></a>
+  <h2 style="text-decoration: none; color: black; text-align:center;">In the News</h2>
 </div>
 <div class="custom-feature">
     <p style="font-size: small;">Posted on 12-21-2023</p>
