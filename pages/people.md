@@ -889,7 +889,7 @@ title: Meet Our Team
               Yuan Wang
             </p>
             <div class="social-media-links">
-              <a href="https://sc.edu/study/colleges_schools/public_health/faculty-staff/wang_yuan.php" target="_blank">
+              <a href="hhttps://www.math.wsu.edu/faculty/ywang/" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
               </a>
             </div>
