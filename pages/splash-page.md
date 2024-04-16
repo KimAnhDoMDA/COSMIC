@@ -90,18 +90,25 @@ feature_row3:
 
 
 ---
-<div class="center" style="max-width: 800px; font-size: 20px;">
-  <p style="text-align: left">
-  Our dedicated research team is at the forefront of cutting-edge development in translational data science focusing on<br/> 
-  <p style="text-align: center"><b>COmputational Statistics, Medicine, Integrative omiC Research (COSMIC).</b></p>
-  Our dynamic group provides a wealth of expertise in developing statistical and machine-learning methodologies to address translational data science challenges including the integration and analysis of biological omic data (genomic, transcriptomic, proteomic, metabolomic, microbiome, single cell RNA-sequencing, and spatial transcriptomic), <br/>
-  producing computational tools to efficiently apply our statistical methods <br/>to large biological data sets, small clinical data sets or large pan-cancer data sets.<br/>
+<div class="center" style="max-width: 1250px; font-size: 25px;">
+  <p style="text-align: left; font-size: 25px;">
+  Our dedicated research team is at the forefront of cutting-edge development in translational data science focusing on
+  <p style="text-align: center; font-size: 25px;"><b>COmputational Statistics, Medicine, Integrative omiC Research (COSMIC).</b></p>
+  Our dynamic group provides a wealth of expertise in developing statistical and machine-learning methodologies to address translational data science challenges including the integration and analysis of biological omic data (genomic, transcriptomic, proteomic, metabolomic, microbiome, single cell RNA-sequencing, and spatial transcriptomic),
+  producing computational tools to efficiently apply our statistical methods to large biological data sets, small clinical data sets or large pan-cancer data sets.
   <br/>
   Together, we are passionately committed to advancing statistical research and its transformative impact on healthcare.
-  Our collective efforts underscore the significance of rigorous statistical methods in unraveling the complexities of correlated data in biology and medicine, marking them as vital contributors to the ongoing progress of these fields, particularly in personalized medicine and precision oncology. <br/> <br/>
-  Our group provides critical collaborative expertise (nonparametric multivariable and <br/>dimension reduction methodologies, Bayesian methodology, graphical and neural network modeling, <br/>
-  feature selection of biomarkers, deep learning methodology and causal models to maximize prediction performance, clinical trial design, and survival modeling) to <br/> data scientists, biologists, clinicians, bioinformaticians, geneticists, and statisticians.
+  Our collective efforts underscore the significance of rigorous statistical methods in unraveling the complexities of correlated data in biology and medicine, marking them as vital contributors to the ongoing progress of these fields, particularly in personalized medicine and precision oncology.
   <br/>
+  Our group provides critical collaborative expertise to data scientists, basic and computational biologists, clinicians, bioinformaticians, geneticists, and statisticians:
+  <ul> 
+    <li style="font-size: 25px;">Bayesian Methodology</li>
+    <li style="font-size: 25px;">Graphical and Neural Network Modeling</li> 
+    <li style="font-size: 25px;">Feature Selection of Biomarkers</li>
+    <li style="font-size: 25px;">Deep Learning Methodology and Causal Models to Maximize Prediction Performance</li> 
+    <li style="font-size: 25px;">Clinical Trial Design</li>
+    <li style="font-size: 25px;">Survival Modeling</li>
+  </ul>
   We also design state-of-the-art courses for the education and training of the next generation of computational statisticians and data scientists.</p>
 </div>
 
@@ -109,7 +116,7 @@ feature_row3:
   <figure class="center">
   <img src="./assets/images/people/group.JPG" class="responsive-image" alt="">
   <figcaption>Dr Kim-Anh Do with the COSMIC team 2023</figcaption>
-  <a href="mailto:kimdo@mdanderson.org"><p style="text-style: none; text-align: center;">Contact Me</p></a>
+  <a href="mailto:kimdo@mdanderson.org"><p style="text-style: none; text-align: center; font-size:20px">Contact Me</p></a>
   </figure>
 </div>
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
@@ -117,10 +124,10 @@ feature_row3:
   <h2 style="text-decoration: none; color: black; text-align:center;">In the News</h2>
 </div>
 <div class="custom-feature">
-    <p style="font-size: small;">Posted on 12-21-2023</p>
+    <p style="font-size: medium;">Posted on 12-21-2023</p>
     <a href="https://www.mdanderson.org/cancerwise/23-cancer-research-highlights-from-the-past-year-2023.h00-159624168.html" target="_blank">
     <h3>Our Research Study Earns a Place in MD Anderson's 23 Cancer Research Highlights of 2023! </h3></a>
-    <p>Read more about it on the MD Anderson website: Blood test developed at MD Anderson aids in predicting lung cancer mortality risk</p>
+    <p style="font-size: 25px;" >Read more about it on the MD Anderson website: Blood test developed at MD Anderson aids in predicting lung cancer mortality risk</p>
 </div>
 
 <div class="containerIframe">
@@ -132,17 +139,17 @@ feature_row3:
     <summary><h2 style="text-align: center; color: black;">List of Softwares</h2></summary>
     <div style="text-align: center;">
       <div style="text-align: left; display: inline-block;">
-        <li><a href="https://biostatistics.mdanderson.org/shinyapps/aPCoA/" target="_blank">aPCoA</a></li>
-        <li><a href="https://github.com/LyonsZhang/BAZE" target="_blank">BAZE</a></li>
-        <li><a href="https://github.com/ziyili20/CAMLU.git" target="_blank">CAMLU</a></li>
-        <li><a href="https://github.com/cran/iDINGO.git" target="_blank">DINGO, iDINGO</a></li>
-        <li><a href="https://odin.mdacc.tmc.edu/~kim/geneclust/" target="_blank">GENECLUST</a></li>
-        <li><a href="https://rdrr.io/github/YushuShi/looPA/" target="_blank">looPA</a></li>
-        <li><a href="https://github.com/longjp/mediateR" target="_blank">mediateR</a></li>
-        <li><a href="https://github.com/priyamdas2/NExUS" target="_blank">NExUS</a></li>
-        <li><a href="https://github.com/MinJinHa/PRECISE" target="_blank">PRECISE</a></li>
-        <li><a href="https://biostatistics.mdanderson.org/shinyapps/ProgPerm/" target="_blank">ProgPerm</a></li>
-        <li><a href="https://github.com/YushuShi/sparseMbClust/" target="_blank">sparseMbClust</a></li>
+        <li style="font-size: 25px;"><a href="https://biostatistics.mdanderson.org/shinyapps/aPCoA/" target="_blank">aPCoA</a></li>
+        <li style="font-size: 25px;"><a href="https://github.com/LyonsZhang/BAZE" target="_blank">BAZE</a></li>
+        <li style="font-size: 25px;"><a href="https://github.com/ziyili20/CAMLU.git" target="_blank">CAMLU</a></li>
+        <li style="font-size: 25px;"><a href="https://github.com/cran/iDINGO.git" target="_blank">DINGO, iDINGO</a></li>
+        <li style="font-size: 25px;"><a href="https://odin.mdacc.tmc.edu/~kim/geneclust/" target="_blank">GENECLUST</a></li>
+        <li style="font-size: 25px;"><a href="https://rdrr.io/github/YushuShi/looPA/" target="_blank">looPA</a></li>
+        <li style="font-size: 25px;"><a href="https://github.com/longjp/mediateR" target="_blank">mediateR</a></li>
+        <li style="font-size: 25px;"><a href="https://github.com/priyamdas2/NExUS" target="_blank">NExUS</a></li>
+        <li style="font-size: 25px;"><a href="https://github.com/MinJinHa/PRECISE" target="_blank">PRECISE</a></li>
+        <li style="font-size: 25px;"><a href="https://biostatistics.mdanderson.org/shinyapps/ProgPerm/" target="_blank">ProgPerm</a></li>
+        <li style="font-size: 25px;"><a href="https://github.com/YushuShi/sparseMbClust/" target="_blank">sparseMbClust</a></li>
       </div>
     </div>
   </div>

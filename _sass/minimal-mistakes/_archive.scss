@@ -34,7 +34,7 @@
 }
 
 .archive__subtitle {
-  margin: 1.414em 0 0.5em;
+  margin: 0.5em 0 0.5em;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
   color: $muted-text-color;
@@ -47,7 +47,7 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
+  font-family: $global-font-family;
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -82,7 +82,7 @@
 
 .archive__item-excerpt {
   margin-top: 10px;
-  font-size: 0.8em; 
+  font-size: 1em; 
   text-align: left;
 
   & + p {
@@ -256,7 +256,7 @@
 
   .archive__item-title {
     margin-top: 0.5em;
-    font-size: $type-size-5;
+    font-size: $type-size-3;
   }
 
   .archive__item-excerpt {
@@ -296,9 +296,10 @@
 .feature__wrapper {
   @include clearfix();
   border-bottom: 1px solid $border-color;
-  margin-left: 4em;
-  margin-right: 4em;
+  margin-left: 2em;
+  margin-right: 2em;
   display: inline-flex;
+  justify-content: space-between;
 
 
   .archive__item-title {
@@ -351,6 +352,7 @@
     padding-right: gutter(1 of 12);
     height: 350px;  
     overflow: hidden;
+    font-size: 25px;
 
   }
 
@@ -486,7 +488,7 @@
       }
 
       .archive__item-body {
-        margin: 0 auto;
+        margin: 0;
         width: span(7 of 12);
         height: 350px;
       }
@@ -500,7 +502,7 @@
   .feature__wrapper {
     .archive__item-title {
       margin-top: 0.25em;
-      font-size: 0.8em;
+      font-size: 1em;
     }
   }
 

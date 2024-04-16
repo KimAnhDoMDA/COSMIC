@@ -1,6 +1,8 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@700&display=swap');
+
 
 html {
   /* sticky footer fix */
@@ -11,8 +13,8 @@ html {
 body {
   margin: 0;
   padding: 0;
-  color: #094ab2;
-  font-family: $global-font-family;
+  color: #000053;
+  font-family: 'source-sans-3', sans-serif;
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -72,7 +74,8 @@ h5 {
 }
 
 h6 {
-  font-size: $h-size-6;
+  font-size: 1em;
+  margin: 0;
 }
 
 small,
@@ -82,6 +85,7 @@ small,
 
 p {
   margin-bottom: 0px;
+  font-size: 25px;
 }
 
 u,
@@ -263,13 +267,16 @@ figure {
   }
 }
 
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 200 to 900
+
 /* Figure captions */
 
 figcaption {
   margin-bottom: 0.5em;
   color: $muted-text-color;
-  font-family: Nunito, sans-serif;
-  font-size: $type-size-6;
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: $type-size-5;
 
   a {
     -webkit-transition: $global-transition;
@@ -359,3 +366,4 @@ input[type="submit"],
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+

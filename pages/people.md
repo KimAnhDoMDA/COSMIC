@@ -72,7 +72,7 @@ title: Meet Our Team
                     </p>
                     <div class="social-media-links1">
                       <a href="mailto:kimdo@mdanderson.org" target="_blank">
-                        <i class="fa fa-envelope" style="color: #000000;"></i>f
+                        <i class="fa fa-envelope" style="color: #000000;"></i>
                       </a>
                       <a href="https://www.linkedin.com/in/kim-anh-do-35b31463/" target="_blank">
                         <i class="fab fa-linkedin" style="color: #000000;"></i>
@@ -146,10 +146,11 @@ title: Meet Our Team
                 <p class="text-blk name" style="margin-top:1em;">
                   Bradley M. Broom, Ph.D.
                 </p>
-                <p class="text-blk position" style="margin-top:-1em;">
+                <p class="text-blk position" style="margin-top:-1em; text-align: center;">
                   <a href="https://faculty.mdanderson.org/profiles/bradley_broom.html" target="_blank" style="text-decoration: none; color: black;">
                     Major Faculty Collaborator
-                  </a>
+                  </a><br>
+                  <a style="font-size: 15px; text-decoration: none; color: black;">Bioinformatics and Computational Biology</a>
                 </p>
                 <div class="social-media-links1">
                   <a href="mailto:bmbroom@mdanderson.org" target="_blank">
@@ -172,10 +173,11 @@ title: Meet Our Team
             <p class="text-blk name" style="margin-top:1em;">
               Johannes Fahrmann, PhD
             </p>
-            <p class="text-blk position" style="margin-top:-1em;">
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
             <a href="https://faculty.mdanderson.org/profiles/johannes_fahrmann.html" target="_blank" style="text-decoration: none; color: black;">
               Major Faculty Collaborator
-            </a>
+            </a><br>
+            <a style="font-size: 15px; text-decoration: none; color: black;">Clinical Cancer Prevention, Division of Cancer Prevention and Population Sciences</a>
             </p>
             <div class="social-media-links">
               <a href="JFFahrmann@mdanderson.org" target="_blank">
@@ -195,10 +197,11 @@ title: Meet Our Team
               <p class="text-blk name" style="margin-top:1em;">
                 Samir Hanash, MD, PhD
               </p>
-              <p class="text-blk position" style="margin-top:-1em;">
+              <p class="text-blk position" style="margin-top:-1em; text-align: center;">
               <a href="https://faculty.mdanderson.org/profiles/samir_hanash.html" target="_blank" style="text-decoration: none; color: black;">
                 Major Faculty Collaborator
-              </a>
+              </a><br>
+              <a style="font-size: 15px; text-decoration: none; color: black;">Clinical Cancer Prevention, Division of Cancer Prevention and Population Sciences</a>
               </p>
               <div class="social-media-links">
                 <a href="shanash@mdanderson.org" target="_blank">
@@ -218,10 +221,11 @@ title: Meet Our Team
                 <p class="text-blk name" style="margin-top:1em;">
                   Robert R Jenq, MD
                 </p>
-                <p class="text-blk position" style="margin-top:-1em;">
+                <p class="text-blk position" style="margin-top:-1em; text-align: center;">
                 <a href="https://faculty.mdanderson.org/profiles/robert_jenq.html" target="_blank" style="text-decoration: none; color: black;">
                   Major Faculty Collaborator
                 </a>
+                <a style="font-size: 15px; text-decoration: none; color: black;">Genomic Medicine, Division of Cancer Medicine</a>
                 </p>
                 <div class="social-media-links">
                   <a href="rrjenq@mdanderson.org" target="_blank">
@@ -241,10 +245,11 @@ title: Meet Our Team
                 <p class="text-blk name" style="margin-top:1em;">
                   Cielito Reyes-Gibby, Dr.PH
                 </p>
-                <p class="text-blk position" style="margin-top:-1em;">
+                <p class="text-blk position" style="margin-top:-1em; text-align: center;">
                 <a href="https://faculty.mdanderson.org/profiles/cielito_c_reyes-gibby.html" target="_blank" style="text-decoration: none; color: black;">
                   Major Faculty Collaborator
                 </a>
+                <a style="font-size: 15px; text-decoration: none; color: black;">Emergency Medicine, Division of Internal Medicine</a>
                 </p>
                 <div class="social-media-links">
                   <a href="mailto:creyes@mdanderson.org" target="_blank">
