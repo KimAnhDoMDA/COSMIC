@@ -9,9 +9,10 @@ title: Meet Our Team
     <div class="text-blk section-head-text" style="margin-top:1em;">
       Meet Our Team
     </div>
-    <!-- First row -->
-    <div class="responsive-container-block">
-          <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+<!-- Faculty Leader First row -->
+    <!-- Ehsan Iajizad -->
+    <div class="responsive-container-block"> 
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
             <img class="team-img" src="../assets/images/people/ehsanI.JPG">
@@ -34,7 +35,8 @@ title: Meet Our Team
           </div>
         </div>
       </div>
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+    <!-- James Long -->
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
             <img class="team-img" src="../assets/images/people/jamesL.JPG">
@@ -57,7 +59,8 @@ title: Meet Our Team
           </div>
         </div>
       </div>
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+    <!--Kim-Anh Do-->
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
                   <div class="team-card">
                     <div class="img-wrapper">
                       <img class="team-img" src="https://raw.githubusercontent.com/KimAnhDoMDA/COSMIC/master/assets/images/people/KDoHeadshot.jpg">
@@ -86,7 +89,8 @@ title: Meet Our Team
                     </div>
                   </div>
                 </div>
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+    <!--Ziyi Li-->
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
             <img class="team-img" src="../assets/images/people/ziyiL.JPG">
@@ -135,9 +139,12 @@ title: Meet Our Team
     </div>
   </div>
 </div>
+
   <!-- End First row -->
-  <!-- Second Row Start-->
+
+<!-- Major Faculty Collab Second Row Start-->
 <div class="responsive-container-block">
+    <!-- Bradley Broom -->
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
               <div class="img-wrapper">
@@ -165,7 +172,8 @@ title: Meet Our Team
                 </div>
             </div>
       </div>
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+      <!-- Johannes Fahrmann-->
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
             <div class="img-wrapper">
               <img class="team-img" src="../assets/images/people/johannesF.JPG">
@@ -189,7 +197,8 @@ title: Meet Our Team
             </div>
           </div>
       </div>
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+    <!-- Samir Hanash -->
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
               <div class="img-wrapper">
                 <img class="team-img" src="../assets/images/people/samH.JPG">
@@ -213,8 +222,9 @@ title: Meet Our Team
               </div>
             </div>
         </div>
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-            <div class="team-card">
+    <!-- Robert R Jenq-->
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
                 <div class="img-wrapper">
                   <img class="team-img" src="../assets/images/people/robertJ.JPG">
                 </div>
@@ -237,7 +247,8 @@ title: Meet Our Team
                 </div>
               </div>
           </div>
-          <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+    <!-- Cielito Reyes-Gibby -->
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
             <div class="team-card">
                 <div class="img-wrapper">
                   <img class="team-img" src="../assets/images/people/cielitoR.JPG">
@@ -262,9 +273,10 @@ title: Meet Our Team
               </div>
           </div>
     </div>   
-  <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
-<!-- Start Third row-->
+<a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+
+<!-- Ext Statist Collab (1/2) Start Third row-->
 <hr>
 <div class="responsive-container-block outer-container">
   <div class="responsive-container-block inner-container">
@@ -272,6 +284,7 @@ title: Meet Our Team
       External Statistical Collaborators
     </div>
   <div class="responsive-container-block">
+  <!-- Veera Baladandayuthapani -->
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
@@ -280,6 +293,9 @@ title: Meet Our Team
           <p class="text-blk name" style="margin-top:1em;">
             Veera Baladandayuthapani
           </p>
+          <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+          University of Michigan
+          </p>
           <div class="social-media-links">
             <a href="https://sph.umich.edu/faculty-profiles/baladandayuthapani-veerabhadran.html" target="_blank">
               <i class="fa fa-link" style="color: #000000;"></i>
@@ -287,6 +303,7 @@ title: Meet Our Team
           </div>
         </div>
       </div>
+  <!-- Thierry Chekouo-->
     <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
@@ -295,6 +312,9 @@ title: Meet Our Team
           <p class="text-blk name" style="margin-top:1em;">
             Thierry Chekouo
           </p>
+          <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+          University of Minnesota
+          </p>
           <div class="social-media-links">
             <a href="https://directory.sph.umn.edu/bio/sph-a-z/thierry-chekouo" target="_blank">
               <i class="fa fa-link" style="color: #000000;"></i>
@@ -302,7 +322,8 @@ title: Meet Our Team
           </div>
         </div>
       </div>
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+  <!-- Min Jin Ha -->
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
               <img class="team-img" src="../assets/images/alumni/1.jpg">
@@ -310,20 +331,27 @@ title: Meet Our Team
             <p class="text-blk name" style="margin-top:1em;">
               Min Jin Ha
             </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              Yonsei University
+            </p>
             <div class="social-media-links">
               <a href="https://sites.google.com/view/minjinha/home" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
               </a>
             </div>
           </div>
-        </div>
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+      </div>
+  <!-- Jianhua Hu -->  
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
             <img class="team-img" src="../assets/images/people/jianhuaH.jpg">
           </div>
           <p class="text-blk name" style="margin-top:1em;">
             Jianhua Hu
+          </p>
+          <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+            Columbia University Irving Medical Center
           </p>
           <div class="social-media-links">
             <a href="https://www.publichealth.columbia.edu/profile/jianhua-hu-phd" target="_blank">
@@ -332,13 +360,17 @@ title: Meet Our Team
           </div>
         </div>
       </div>
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+  <!-- Geoffrey McLachlan -->  
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
             <div class="team-card">
                 <div class="img-wrapper">
                   <img class="team-img" src="../assets/images/people/geoffMcLachlan.JPG">
                 </div>
                 <p class="text-blk name" style="margin-top:1em;">
                   Geoffrey McLachlan
+                </p>
+                <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+                  University of Queensland
                 </p>
                 <div class="social-media-links">
                   <a href="g.mclachlan@uq.edu.au" target="_blank">
@@ -351,14 +383,20 @@ title: Meet Our Team
               </div>
         </div>
     </div>
+
+<!-- Ext Statist Collab (2/2) Start fourth row -->
   <div class="responsive-container-block">
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+  <!-- Peter Mueller (Müller) -->    
+  <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
             <img class="team-img" src="../assets/images/people/peterM.JPG">
           </div>
           <p class="text-blk name" style="margin-top:1em;">
             Peter Mueller (Müller)
+          </p>
+          <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+            University of Texas at Austin
           </p>
           <div class="social-media-links">
             <a href="https://www.ma.utexas.edu/component/cobalt/item/15-mathematics/364-mueller-peter?Itemid=1259" target="_blank">
@@ -367,13 +405,17 @@ title: Meet Our Team
           </div>
         </div>
       </div>
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+  <!-- Yushu Shi (Müller) -->
+  <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
             <img class="team-img" src="../assets/images/alumni/2.jpg">
           </div>
           <p class="text-blk name" style="margin-top:1em;">
             Yushu Shi
+          </p>
+          <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+            Weill Cornell Medicine
           </p>
           <div class="social-media-links">
             <a href="https://www.linkedin.com/in/yushushi" target="_blank">
@@ -382,13 +424,17 @@ title: Meet Our Team
           </div>
         </div>
       </div>
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+  <!-- Francesco Stingo -->
+  <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
             <img class="team-img" src="../assets/images/people/francescoS.jpg">
           </div>
           <p class="text-blk name" style="margin-top:1em;">
             Francesco Stingo
+          </p>
+          <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+            University of Florence
           </p>
           <div class="social-media-links">
             <a href="https://sites.google.com/site/fcstingo/" target="_blank">
@@ -397,13 +443,17 @@ title: Meet Our Team
           </div>
         </div>
       </div>
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+  <!-- Bin Yu -->
+  <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
             <img class="team-img" src="../assets/images/people/binYu.JPG">
           </div>
           <p class="text-blk name" style="margin-top:1em;">
             Bin Yu
+          </p>
+          <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+            University of California, Berkeley
           </p>
           <div class="social-media-links">
             <a href="https://binyu.stat.berkeley.edu/" target="_blank">
@@ -412,13 +462,17 @@ title: Meet Our Team
           </div>
         </div>
       </div>
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+  <!-- LiangLiang zhang-->
+  <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
             <img class="team-img" src="../assets/images/alumni/3.jpg">
           </div>
           <p class="text-blk name" style="margin-top:1em;">
             Liangliang Zhang
+          </p>
+          <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+            Case Western Reserve University
           </p>
           <div class="social-media-links">
             <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/liangliang-lyons-zhang" target="_blank">
@@ -432,8 +486,9 @@ title: Meet Our Team
 </div>
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 <!--End Third Row-->
-<!-- Start Fourth Row-->
-  <hr>
+
+<!-- PostDoc fellow Start Fourth Row-->
+<hr>
 <div class="responsive-container-block outer-container">
   <div class="responsive-container-block inner-container">
   <hr>
@@ -441,7 +496,8 @@ title: Meet Our Team
         Postdoctoral Fellows
       </div>
         <div class="responsive-container-block">
-            <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+<!-- Seyyed Mahmood Ghasemi -->
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
                 <div class="team-card">
                   <div class="img-wrapper">
                     <img class="team-img" src="../assets/images/people/mahmoodG.JPG">
@@ -462,7 +518,8 @@ title: Meet Our Team
                   </div>
                 </div>
               </div>
-          <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+<!-- Satabdi Saha -->  
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
             <div class="team-card">
               <div class="img-wrapper">
                 <img class="team-img" src="../assets/images/people/satabdiS.JPG">
@@ -486,9 +543,10 @@ title: Meet Our Team
     </div>
   </div>
 </div>
-  <!-- End Third Row -->
+  <!-- End Fourth Row -->
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-  <!-- Start Fourth row -->
+
+<!-- Students (1/2), Start Fourth row -->
 <hr>
 <div class="responsive-container-block outer-container">
   <div class="responsive-container-block inner-container">
@@ -497,6 +555,7 @@ title: Meet Our Team
         Students
       </div>
       <div class="responsive-container-block">
+<!-- Chunhui Gu-->
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -529,6 +588,7 @@ title: Meet Our Team
             </div>
           </div>
         </div>
+<!-- Lulu Song-->        
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -550,6 +610,7 @@ title: Meet Our Team
             </div>
           </div>
         </div>
+<!-- Hongxu Zhu-->
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -570,8 +631,9 @@ title: Meet Our Team
         </div>
       </div>
 <!-- End Fourth Row-->
-<!-- Start Fifth Row-->
+<!-- Students (2/2) Start Fifth Row-->
    <div class="responsive-container-block">
+<!-- Abhishikta Roy -->
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
@@ -590,6 +652,7 @@ title: Meet Our Team
             </div>
         </div>
       </div>
+<!-- Becky Tseng-->
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
@@ -619,13 +682,16 @@ title: Meet Our Team
 </div>
 <!--End Fifth Row -->
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-<hr>   
+<hr>
+
+<!-- Alumni (1/6) Start Sixth Row-->   
 <div class="responsive-container-block outer-container">
   <div class="responsive-container-block inner-container">
       <div class="text-blk section-head-text" style="margin-top:1em;">
         Alumni
       </div>
       <div class="responsive-container-block">
+<!-- Clemente Aguilar -->
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -634,6 +700,9 @@ title: Meet Our Team
             <p class="text-blk name" style="margin-top:1em;">
               Clemente Aguilar
             </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              SK Life Science Labs
+            </p>
             <div class="social-media-links">
               <a href="https://www.linkedin.com/in/clementeaguilar/" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
@@ -641,6 +710,7 @@ title: Meet Our Team
             </div>
           </div>
         </div>
+<!-- Xuebei An -->
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -649,8 +719,11 @@ title: Meet Our Team
             <p class="text-blk name" style="margin-top:1em;">
               Xuebei An
             </p>
+             <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+            </p>
           </div>
         </div>
+<!-- Raj Bandyopadhyay -->     
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -659,6 +732,9 @@ title: Meet Our Team
             <p class="text-blk name" style="margin-top:1em;">
               Raj Bandyopadhyay
             </p>
+             <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              Pindrop Security
+            </p>
             <div class="social-media-links">
               <a href="https://www.blackhat.com/us-14/speakers/Raj-Bandyopadhyay.html" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
@@ -666,6 +742,7 @@ title: Meet Our Team
             </div>
           </div>
         </div>
+<!-- Vini Bonato -->          
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -674,6 +751,9 @@ title: Meet Our Team
             <p class="text-blk name" style="margin-top:1em;">
               Vini Bonato
             </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              Pfizer
+            </p>
             <div class="social-media-links">
               <a href="https://www.linkedin.com/in/vini-bonato-9a9032296/" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
@@ -681,6 +761,7 @@ title: Meet Our Team
             </div>
           </div>
         </div>
+<!-- Thierry Chekouo -->    
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -688,6 +769,9 @@ title: Meet Our Team
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Thierry Chekouo
+            </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              University of Minnesota
             </p>
             <div class="social-media-links">
               <a href="https://directory.sph.umn.edu/bio/sph-a-z/thierry-chekouo" target="_blank">
@@ -697,14 +781,19 @@ title: Meet Our Team
           </div>
         </div>
       </div>
-      <div class="responsive-container-block">
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+<!--Alumni (2/6) Start Sixth Row -->
+<!-- Caleb Class-->
+    <div class="responsive-container-block">
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
               <img class="team-img" src="../assets/images/alumni/5.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Caleb Class
+            </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              Butler University
             </p>
             <div class="social-media-links">
               <a href="https://research.butler.edu/caleb-class-lab/caleb-class/" target="_blank">
@@ -713,6 +802,7 @@ title: Meet Our Team
             </div>
           </div>
         </div>
+<!-- Faezeh Darbanyian-->
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -720,6 +810,9 @@ title: Meet Our Team
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Faezeh Darbanyian
+            </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              MD Anderson Cancer Center
             </p>
             <div class="social-media-links">
               <a href="https://www.linkedin.com/in/faezeh-darbaniyan-047b9098" target="_blank">
@@ -731,6 +824,7 @@ title: Meet Our Team
             </div>
           </div>
         </div>
+<!-- Priyam Das -->
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -739,6 +833,9 @@ title: Meet Our Team
             <p class="text-blk name" style="margin-top:1em;">
               Priyam Das
             </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              Virginia Commonwealth University
+            </p>
             <div class="social-media-links">
               <a href="https://medschool.vcu.edu/about/portfolio/details/dasp4/" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
@@ -746,6 +843,7 @@ title: Meet Our Team
             </div>
           </div>
         </div>
+<!-- Dorota Doherty -->      
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -754,6 +852,9 @@ title: Meet Our Team
             <p class="text-blk name" style="margin-top:1em;">
               Dorota Doherty
             </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              The University of Western Australia
+            </p>
             <div class="social-media-links">
               <a href="https://research-repository.uwa.edu.au/en/persons/dorota-doherty" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
@@ -761,6 +862,7 @@ title: Meet Our Team
             </div>
           </div>
         </div>
+<!-- Min Jin Ha -->         
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -768,6 +870,9 @@ title: Meet Our Team
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Min Jin Ha
+            </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              Yonsei University
             </p>
             <div class="social-media-links">
               <a href="https://sites.google.com/view/minjinha/home" target="_blank">
@@ -777,14 +882,19 @@ title: Meet Our Team
           </div>
         </div>
       </div>
+<!--Alumni (3/6) Start Seventh Row -->
+<!-- Licai Huang -->    
       <div class="responsive-container-block">
-      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
             <div class="team-card">
               <div class="img-wrapper">
                 <img class="team-img" src="../assets/images/alumni/8.jpg">
               </div>
               <p class="text-blk name" style="margin-top:1em;">
                 Licai Huang
+              </p>
+              <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+                GRAIL
               </p>
               <div class="social-media-links">
                 <a href="https://www.linkedin.com/in/licai-huang-b01bb1b2" target="_blank">
@@ -793,6 +903,7 @@ title: Meet Our Team
               </div>
             </div>
           </div>
+<!-- Petra Kuhnert -->     
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -801,6 +912,9 @@ title: Meet Our Team
             <p class="text-blk name" style="margin-top:1em;">
               Petra Kuhnert
             </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              CSIRO's Data61
+            </p>
             <div class="social-media-links">
               <a href="https://people.csiro.au/K/P/Petra-Kuhnert" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
@@ -808,6 +922,7 @@ title: Meet Our Team
             </div>
           </div>
         </div>
+<!-- Xiangying Mao --> 
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -816,6 +931,9 @@ title: Meet Our Team
             <p class="text-blk name" style="margin-top:1em;">
               Xiangying Mao
             </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              Azenta
+            </p>
             <div class="social-media-links">
               <a href="https://www.linkedin.com/in/xiangying-mao-2a03aba5" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
@@ -823,6 +941,7 @@ title: Meet Our Team
             </div>
           </div>
         </div>
+<!-- Luis Gonzalo Leon Novela -->      
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -831,6 +950,9 @@ title: Meet Our Team
             <p class="text-blk name" style="margin-top:1em;">
               Luis Gonzalo Leon Novela
             </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              The University of Texas Health Science Center at Houston
+            </p>
             <div class="social-media-links">
               <a href="https://www.linkedin.com/in/luis-leon-novelo-42b81231" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
@@ -838,6 +960,7 @@ title: Meet Our Team
             </div>
           </div>
         </div>
+<!-- Yushu Shi -->       
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
@@ -845,6 +968,9 @@ title: Meet Our Team
           </div>
           <p class="text-blk name" style="margin-top:1em;">
             Yushu Shi
+          </p>
+          <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+            Weill Cornell Medicine
           </p>
           <div class="social-media-links">
             <a href="https://www.linkedin.com/in/yushushi" target="_blank">
@@ -854,6 +980,8 @@ title: Meet Our Team
         </div>
       </div>
     </div>
+<!--Alumni (4/6) Start 8th Row -->   
+<!-- David Shih -->   
     <div class="responsive-container-block">
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
             <div class="team-card">
@@ -863,6 +991,9 @@ title: Meet Our Team
               <p class="text-blk name" style="margin-top:1em;">
                 David Shih
               </p>
+              <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+                The University of Hong Kong
+              </p>
               <div class="social-media-links">
                 <a href="https://hk.linkedin.com/in/davidjhshih" target="_blank">
                   <i class="fa fa-link" style="color: #000000;"></i>
@@ -870,6 +1001,7 @@ title: Meet Our Team
               </div>
             </div>
           </div>
+<!-- Nabihah Tayob -->         
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -878,6 +1010,9 @@ title: Meet Our Team
             <p class="text-blk name" style="margin-top:1em;">
               Nabihah Tayob
             </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              Dana-Farber Cancer Institute
+            </p>
             <div class="social-media-links">
               <a href="https://www.dfhcc.harvard.edu/insider/member-detail?tx_hcc_persondetail%5Baction%5D=show&tx_hcc_persondetail%5Bcontroller%5D=Person&tx_hcc_persondetail%5Bperson%5D=1552&cHash=0dfc96bc25b8363d733c4512de514627" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
@@ -885,6 +1020,7 @@ title: Meet Our Team
             </div>
           </div>
         </div>
+<!-- Yuan Wang -->       
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -893,6 +1029,9 @@ title: Meet Our Team
             <p class="text-blk name" style="margin-top:1em;">
               Yuan Wang
             </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              Washington State University
+            </p>
             <div class="social-media-links">
               <a href="hhttps://www.math.wsu.edu/faculty/ywang/" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
@@ -900,13 +1039,17 @@ title: Meet Our Team
             </div>
           </div>
         </div>
+<!-- Yuanqing Yan -->      
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
               <img class="team-img" src="../assets/images/alumni/16.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
-              Yuanging Yan
+              Yuanqing Yan
+            </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              Northwestern Medicine
             </p>
             <div class="social-media-links">
               <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=53252" target="_blank">
@@ -916,7 +1059,9 @@ title: Meet Our Team
           </div>
         </div>
       </div>
-    <div class="responsive-container-block">
+<!--Alumni (5/6) Start 9th Row -->   
+<div class="responsive-container-block">
+<!-- Liangliang Zhang -->   
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -925,6 +1070,9 @@ title: Meet Our Team
             <p class="text-blk name" style="margin-top:1em;">
               Liangliang Zhang
             </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              Case Western Reserve
+            </p>
             <div class="social-media-links">
               <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/liangliang-lyons-zhang" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
@@ -932,6 +1080,7 @@ title: Meet Our Team
             </div>
           </div>
         </div>
+<!-- Lin Zhang -->        
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -940,6 +1089,9 @@ title: Meet Our Team
             <p class="text-blk name" style="margin-top:1em;">
               Lin Zhang
             </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              University of Minnesota
+            </p>
             <div class="social-media-links">
               <a href="https://directory.sph.umn.edu/bio/sph-a-z/lin-zhang" target="_blank">
                 <i class="fa fa-link" style="color: #000000;"></i>
@@ -947,6 +1099,7 @@ title: Meet Our Team
             </div>
           </div>
         </div>
+<!-- Song Zhang -->      
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
@@ -954,6 +1107,9 @@ title: Meet Our Team
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Song Zhang
+            </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              UT Southwestern Medical Center
             </p>
             <div class="social-media-links">
               <a href="https://profiles.utsouthwestern.edu/profile/97222/song-zhang.html" target="_blank">
@@ -966,6 +1122,7 @@ title: Meet Our Team
     </div>
   </div>
 <div class="responsive-container-block1">
+<!--Alumni (6/6) Start 10th Row -->   
   <div class="row-container" style="margin-top: 3em;">
     <p class="text-blk name" style="margin-right:5em;">Lori Jackson</p>
     <p class="text-blk name" style="margin-right:5em;">Junghi Kim</p>
