@@ -5,6 +5,10 @@ permalink: /gallery/
 author_profile: true
 
 gallery:
+  - url: /assets/images/gallery/celebrateDinnerKasra.JPG
+    image_path: /assets/images/gallery/celebrateDinnerKasra.JPG
+    alt: "Celebratory dinner at Kasra Persian Grill"
+    title: "Celebratory dinner at Kasra Persian Grill"
 
   - url: /assets/images/gallery/gingerCafe.JPG
     image_path: /assets/images/gallery/gingerCafe.JPG
