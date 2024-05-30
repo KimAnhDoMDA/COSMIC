@@ -97,16 +97,13 @@ feature_row3:
     <img src="./assets/images/misc/side-image1.JPG" alt="DINGO graph" class="spaced-image top-aligned" style="width: 80%; margin-left:20%;">
     <img src="./assets/images/misc/iBRIGHT.JPG" alt="iBRIGHT 2019 Conference" class="spaced-image top-aligned" style="width: 80%; margin-left: 20%;">
   </div>
-  <div class="sideImg">
-    
-  </div>
   </div>
 
   <div class= "bioContent">
-    <div class="center" style="font-size: 25px;">
-      <p style="text-align: left; font-size: 25px;">
+    <div class="center responsive-font" >
+      <p style="text-align: left;" class = "responsive-font">
       Our dedicated research team is at the forefront of cutting-edge development in translational data science focusing on
-      <p style="text-align: center; font-size: 25px;"><b>COmputational Statistics, Medicine, Integrative omiC Research (COSMIC).</b></p>
+      <p style="text-align: center;" class = "responsive-font"><b>COmputational Statistics, Medicine, Integrative omiC Research (COSMIC).</b></p>
       Our dynamic group provides a wealth of expertise in developing statistical and machine-learning methodologies to address translational data science challenges including the integration and analysis of biological omic data (genomic, transcriptomic, proteomic, metabolomic, microbiome, single cell RNA-sequencing, and spatial transcriptomic),
       producing computational tools to efficiently apply our statistical methods to large biological data sets, small clinical data sets or large pan-cancer data sets.
       <br/>
@@ -115,26 +112,25 @@ feature_row3:
       <br/>
       Our group provides critical collaborative expertise to data scientists, basic and computational biologists, clinicians, bioinformaticians, geneticists, and statisticians:
       <ul> 
-        <li style="font-size: 25px;">Bayesian Methodology</li>
-        <li style="font-size: 25px;">Graphical and Neural Network Modeling</li> 
-        <li style="font-size: 25px;">Feature Selection of Biomarkers</li>
-        <li style="font-size: 25px;">Deep Learning Methodology and Causal Models to Maximize Prediction Performance</li> 
-        <li style="font-size: 25px;">Clinical Trial Design</li>
-        <li style="font-size: 25px;">Survival Modeling</li>
+        <li class = "responsive-font">Bayesian Methodology</li>
+        <li class = "responsive-font">Graphical and Neural Network Modeling</li> 
+        <li class = "responsive-font">Feature Selection of Biomarkers</li>
+        <li class = "responsive-font">Deep Learning Methodology and Causal Models to Maximize Prediction Performance</li> 
+        <li class = "responsive-font">Clinical Trial Design</li>
+        <li class = "responsive-font">Survival Modeling</li>
       </ul>
       We also design state-of-the-art courses for the education and training of the next generation of computational statisticians and data scientists.</p>
     </div>
   </div>
-    <div class="sideImg">
-    <img src="./assets/images/misc/oralMicro.JPG" alt="Oral Microbiome" class="spaced-image top-aligned" style="width: 80%;">
-    <img src="./assets/images/misc/methyNetwork.JPG" alt="Methy Network Group" class="spaced-image top-aligned" style="width: 80%; margin-top: -1em;">
+    <div class="side-image">
+    <img src="./assets/images/misc/oralMicro.JPG" alt="Oral Microbiome" class="spaced-image top-aligned" style="width: 90%; margin-right: 10%;">
+    <img src="./assets/images/misc/methyNetwork.JPG" alt="Methy Network Group" class="spaced-image top-aligned" style="width: 90%; margin-top: -1em; margin-right: 10%;">
   </div>
 </div>
 <div class="photoCenter">
   <figure class="center">
-  <img src="./assets/images/people/group.JPG" class="responsive-image" alt="">
-  <figcaption>Dr Kim-Anh Do with the COSMIC team 2023</figcaption>
-  <a href="mailto:kimdo@mdanderson.org"><p style="text-style: none; text-align: center; font-size:20px">Contact Me</p></a>
+  <img src="./assets/images/people/collage2.JPG" class="responsive-image" style= "margin-top: -4em;" alt="">
+  <a href="mailto:kimdo@mdanderson.org"><p style="text-style: none; text-align: center; font-size:20px; margin-top: -2em;">Contact Me</p></a>
   </figure>
 </div>
 </div>
@@ -143,6 +139,10 @@ feature_row3:
   <h2 style="text-decoration: none; color: black; text-align:center;">In the News</h2>
 </div>
 <div class="custom-feature">
+    <p style="font-size: medium;">Posted on 05-30-2024</p>
+    <a href="https://www.mdpi.com/2072-6694/16/11/2070" target="_blank">
+    <h3>Our Groundbreaking Article on Lethal Lung Cancer Biomarkers Published in Cancers Journal's Special Issue!</h3></a>
+    <p style="font-size: 25px;" >Click on the title to read more about the Validation of a Blood-Based Protein Biomarker Panel for a Risk Assessment of Lethal Lung Cancer in the Physicians’ Health Study</p>
     <p style="font-size: medium;">Posted on 12-21-2023</p>
     <a href="https://www.mdanderson.org/cancerwise/23-cancer-research-highlights-from-the-past-year-2023.h00-159624168.html" target="_blank">
     <h3>Our Research Study Earns a Place in MD Anderson's 23 Cancer Research Highlights of 2023! </h3></a>
