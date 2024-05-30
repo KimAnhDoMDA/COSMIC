@@ -94,8 +94,8 @@ feature_row3:
 <div class="photoContainer">
   <div class="columnContainer">
   <div class="side-image">
-    <img src="/assets/images/misc/side-image1.JPG" alt="DINGO graph" class="spaced-image top-aligned" style="width: 80%; margin-left:20%;">
-    <img src="/assets/images/misc/iBRIGHT.JPG" alt="iBRIGHT 2019 Conference" class="spaced-image top-aligned" style="width: 80%; margin-left: 20%;">
+    <img src="./assets/images/misc/side-image1.JPG" alt="DINGO graph" class="spaced-image top-aligned" style="width: 80%; margin-left:20%;">
+    <img src="./assets/images/misc/iBRIGHT.JPG" alt="iBRIGHT 2019 Conference" class="spaced-image top-aligned" style="width: 80%; margin-left: 20%;">
   </div>
   <div class="sideImg">
     
@@ -126,8 +126,8 @@ feature_row3:
     </div>
   </div>
     <div class="sideImg">
-    <img src="/assets/images/misc/oralMicro.JPG" alt="Oral Microbiome" class="spaced-image top-aligned" style="width: 80%;">
-    <img src="/assets/images/misc/methyNetwork.JPG" alt="Methy Network Group" class="spaced-image top-aligned" style="width: 80%; margin-top: -1em;">
+    <img src="./assets/images/misc/oralMicro.JPG" alt="Oral Microbiome" class="spaced-image top-aligned" style="width: 80%;">
+    <img src="./assets/images/misc/methyNetwork.JPG" alt="Methy Network Group" class="spaced-image top-aligned" style="width: 80%; margin-top: -1em;">
   </div>
 </div>
 <div class="photoCenter">
