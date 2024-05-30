@@ -100,7 +100,7 @@ body {
 }
 
 
-.center {
+.photoCenter {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -539,4 +539,71 @@ image{
   color: red; /* Change to the color you prefer */
 }
 
- 
+.photoContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+.bioContent {
+  max-width: 1250px;
+  padding: 20px;
+  text-align: left;
+  font-size: 25px;
+}
+
+.side-image, .sideImg {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-bottom: 20px;
+  flex-wrap: nowrap;
+  align-self: center;
+}
+
+@media (max-width: 768px) {
+  .photoContainer {
+      flex-direction: column;
+  }
+  .side-image {
+    width: 100%;
+  }
+  .columnContainer, .bioContent{
+    width: 100%;
+  }
+
+  .bioContent {
+      padding: 10px;
+  }
+}
+
+.spaced-image {
+  margin-top: 4em;
+  margin-bottom: 4em; /* Adjust this value to set the desired space */
+  height: auto;
+}
+
+.top-aligned {
+  align-self: flex-start; /* Align the first image to the top */
+  width: 40%;
+}
+
+.columnContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  min-width: 200px;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+}
+
+.toTheLeft{
+  margin-left: 20%;
+}

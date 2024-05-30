@@ -5,6 +5,17 @@ permalink: /gallery/
 author_profile: true
 
 gallery:
+
+  - url: /assets/images/gallery/jamesAllison3.JPG
+    image_path: /assets/images/gallery/jamesAllison3.JPG
+    alt: "Kim with James Allison"
+    title: "Nobel Prize Winner, James Weinstein seminar 2024"
+
+  - url: /assets/images/gallery/jamesAllison4.JPG
+    image_path: /assets/images/gallery/jamesAllison4.JPG
+    alt: "Kim with John Weinstein, James Allison, Eyal Gotlieb "
+    title: "Nobel Prize winner, James Weinstein, seminar 2024"
+
   - url: /assets/images/gallery/celebrateDinnerKasra.JPG
     image_path: /assets/images/gallery/celebrateDinnerKasra.JPG
     alt: "Celebratory dinner at Kasra Persian Grill"
@@ -55,10 +66,10 @@ gallery:
     alt: "Clinical Trial Speakers"
     title: "Clinical Trial Speakers"
 
-  - url: "/assets/images/gallery/Crowd-IBRIFGHT.JPG"
-    image_path: "/assets/images/gallery/Crowd-IBRIFGHT.JPG"  
-    alt: "iBRIGHT Crowd"
-    title: "iBRIGHT Crowd"
+  - url: "/assets/images/gallery/Ki-YangN.JPG"
+    image_path: "/assets/images/gallery/Ki-YangN.JPG"  
+    alt: "Kim with Yang Ni"
+    title: "Kim with Yang Ni"
 
   - url: "/assets/images/gallery/Kim-Christina-Kendziorski.JPG"
     image_path: "/assets/images/gallery/Kim-Christina-Kendziorski.JPG"  
@@ -70,10 +81,10 @@ gallery:
     alt: "Texas A&M Cancer Research: Basic Science to Bioinformatics Golden Award"
     title: "Texas A&M Cancer Research: Basic Science to Bioinformatics Golden Award"
 
-  - url: "/assets/images/gallery/Ki-YangN.JPG"
-    image_path: "/assets/images/gallery/Ki-YangN.JPG"  
-    alt: "Kim with Yang Ni"
-    title: "Kim with Yang Ni"
+  - url: "/assets/images/gallery/Crowd-IBRIFGHT.JPG"
+    image_path: "/assets/images/gallery/Crowd-IBRIFGHT.JPG"  
+    alt: "iBRIGHT Crowd"
+    title: "iBRIGHT Crowd"
 
   - url: "/assets/images/gallery/Group-Invited-IBRIGHT2019.JPG"
     image_path: "/assets/images/gallery/Group-Invited-IBRIGHT2019.JPG"  
