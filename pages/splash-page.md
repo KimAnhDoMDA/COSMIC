@@ -90,43 +90,47 @@ feature_row3:
 
 
 ---
-<div>
 <div class="photoContainer">
   <div class="columnContainer">
-  <div class="side-image">
-    <img src="./assets/images/misc/side-image1.JPG" alt="DINGO graph" class="spaced-image top-aligned" style="width: 80%; margin-left:20%;">
-    <img src="./assets/images/misc/iBRIGHT.JPG" alt="iBRIGHT 2019 Conference" class="spaced-image top-aligned" style="width: 80%; margin-left: 20%;">
-  </div>
-  </div>
-
-  <div class= "bioContent">
-    <div class="center responsive-font" >
-      <p style="text-align: left;" class = "responsive-font">
-      Our dedicated research team is at the forefront of cutting-edge development in translational data science focusing on
-      <p style="text-align: center;" class = "responsive-font"><b>COmputational Statistics, Medicine, Integrative omiC Research (COSMIC).</b></p>
-      Our dynamic group provides a wealth of expertise in developing statistical and machine-learning methodologies to address translational data science challenges including the integration and analysis of biological omic data (genomic, transcriptomic, proteomic, metabolomic, microbiome, single cell RNA-sequencing, and spatial transcriptomic),
-      producing computational tools to efficiently apply our statistical methods to large biological data sets, small clinical data sets or large pan-cancer data sets.
-      <br/>
-      Together, we are passionately committed to advancing statistical research and its transformative impact on healthcare.
-      Our collective efforts underscore the significance of rigorous statistical methods in unraveling the complexities of correlated data in biology and medicine, marking them as vital contributors to the ongoing progress of these fields, particularly in personalized medicine and precision oncology.
-      <br/>
-      Our group provides critical collaborative expertise to data scientists, basic and computational biologists, clinicians, bioinformaticians, geneticists, and statisticians:
-      <ul> 
-        <li class = "responsive-font">Bayesian Methodology</li>
-        <li class = "responsive-font">Graphical and Neural Network Modeling</li> 
-        <li class = "responsive-font">Feature Selection of Biomarkers</li>
-        <li class = "responsive-font">Deep Learning Methodology and Causal Models to Maximize Prediction Performance</li> 
-        <li class = "responsive-font">Clinical Trial Design</li>
-        <li class = "responsive-font">Survival Modeling</li>
-      </ul>
-      We also design state-of-the-art courses for the education and training of the next generation of computational statisticians and data scientists.</p>
+    <div class="side-image">
+      <img src="./assets/images/misc/side-image1.JPG" alt="DINGO graph" class="spaced-image">
+      <img src="./assets/images/misc/methyNetwork.JPG" alt="methy Network" class="spaced-image">
     </div>
   </div>
+
+  <div class="bioContent">
+    <div class="center responsive-font">
+      <p style="text-align: left;" class="responsive-font">
+        Our dedicated research team is at the forefront of cutting-edge development in translational data science focusing on
+        <p style="text-align: center;" class="responsive-font"><b>COmputational Statistics, Medicine, Integrative omiC Research (COSMIC).</b></p>
+        Our dynamic group provides a wealth of expertise in developing statistical and machine-learning methodologies to address translational data science challenges including the integration and analysis of biological omic data (genomic, transcriptomic, proteomic, metabolomic, microbiome, single cell RNA-sequencing, and spatial transcriptomic),
+        producing computational tools to efficiently apply our statistical methods to large biological data sets, small clinical data sets or large pan-cancer data sets.
+        <br/>
+        Together, we are passionately committed to advancing statistical research and its transformative impact on healthcare.
+        Our collective efforts underscore the significance of rigorous statistical methods in unraveling the complexities of correlated data in biology and medicine, marking them as vital contributors to the ongoing progress of these fields, particularly in personalized medicine and precision oncology.
+        <br/>
+        Our group provides critical collaborative expertise to data scientists, basic and computational biologists, clinicians, bioinformaticians, geneticists, and statisticians:
+        <ul>
+          <li class="responsive-font">Bayesian Methodology</li>
+          <li class="responsive-font">Graphical and Neural Network Modeling</li>
+          <li class="responsive-font">Feature Selection of Biomarkers</li>
+          <li class="responsive-font">Deep Learning Methodology and Causal Models to Maximize Prediction Performance</li>
+          <li class="responsive-font">Clinical Trial Design</li>
+          <li class="responsive-font">Survival Modeling</li>
+        </ul>
+        We also design state-of-the-art courses for the education and training of the next generation of computational statisticians and data scientists.
+      </p>
+    </div>
+  </div>
+
+  <div class="columnContainer">
     <div class="side-image">
-    <img src="./assets/images/misc/oralMicro.JPG" alt="Oral Microbiome" class="spaced-image top-aligned" style="width: 90%; margin-right: 10%;">
-    <img src="./assets/images/misc/methyNetwork.JPG" alt="Methy Network Group" class="spaced-image top-aligned" style="width: 90%; margin-top: -1em; margin-right: 10%;">
+      <img src="./assets/images/misc/iBRIGHT.JPG" alt="iBRIGHT symbol" class="spaced-image">
+      <img src="./assets/images/misc/oralMicro.JPG" alt="Oral Microbiome" class="spaced-image">
+    </div>
   </div>
 </div>
+
 <div class="photoCenter">
   <figure class="center">
   <img src="./assets/images/people/collage2.JPG" class="responsive-image" style= "margin-top: -4em;" alt="">
