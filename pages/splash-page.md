@@ -137,7 +137,7 @@ feature_row3:
   <a href="mailto:kimdo@mdanderson.org"><p style="text-style: none; text-align: center; font-size:20px; margin-top: -2em;">Contact Me</p></a>
   </figure>
 </div>
-</div>
+
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 <div>
   <h2 style="text-decoration: none; color: black; text-align:center;">In the News</h2>
