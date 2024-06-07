@@ -633,6 +633,25 @@ title: Meet Our Team
 <!-- End Fourth Row-->
 <!-- Students (2/2) Start Fifth Row-->
    <div class="responsive-container-block">
+<!-- Justin Nguyen -->
+   <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/people/justinNguyen.JPG">
+          </div>
+            <p class="text-blk name" style="margin-top:1em;">
+              Justin Nguyen
+            </p>
+            <p class="text-blk position" style="margin-top:-1em;">
+              Catalyst Graduate Summer Intern
+            </p>
+            <div class="social-media-links">
+              <a href="https://www.linkedin.com/in/justin-nguyen-25b351244/" target="_blank">
+                <i class="fab fa-linkedin" style="color: #000000;"></i>
+              </a>
+            </div>
+        </div>
+      </div>
 <!-- Abhishikta Roy -->
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">

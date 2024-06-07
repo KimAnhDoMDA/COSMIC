@@ -12,8 +12,33 @@ title: "Kim-Anh Do, Ph.D<br>"
 excerpt: "<h4><b>Welcome to COSMIC!</b></h4>"
 tagline: "COmputational Statistics, Medicine, Integrative omiC Research"
 
-
 feature_row:
+  - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 1"
+    image_caption: "Published 10-8-2018"
+    title: "PRECISE: Personalized Integrated Network Modeling of the Cancer Proteome Atlas"
+    excerpt: "Personalized (patient-specific) approaches have recently emerged with a precision medicine paradigm that acknowledges the fact that molecular pathway structures and activity might be considerably different within and across tumors. The functional cancer genome and proteome provide rich sources of information to identify patient-specific variations in signaling pathways and activities within and across tumors; however, current analytic methods lack the ability to exploit the diverse and multi-layered architecture of these complex biological networks."
+    url: "https://pubmed.ncbi.nlm.nih.gov/30297783/"
+  - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 2"
+    image_caption: "Published on 8-28-2019"
+    title: "NExUS: Bayesian simultaneous network estimation across unequal sample sizes"
+    excerpt: "Network-based analyses of high-throughput genomics data provide a holistic, systems-level understanding of various biological mechanisms for a common population. However, when estimating multiple networks across heterogeneous sub-populations, varying sample sizes pose a challenge in the estimation and inference, as network differences may be driven by differences in power."
+    url: "https://academic.oup.com/bioinformatics/article/36/3/798/5555873"
+  - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 3"
+    image_caption: "Published on 7-6-2015"
+    title: "DINGO: differential network analysis in genomics"
+    excerpt: "Cancer progression and development are initiated by aberrations in various molecular networks through coordinated changes across multiple genes and pathways. It is important to understand how these networks change under different stress conditions and/or patient-specific groups to infer differential patterns of activation and inhibition."
+    url: "https://academic.oup.com/bioinformatics/article/31/21/3413/195238"
+  - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 4"
+    image_caption: "Published on 9-9-2022"
+    title: "CAMLU: A machine learning-based method for automatically identifying novel cells in annotating single-cell RNA-seq data"
+    excerpt: "Single-cell RNA sequencing (scRNA-seq) has been widely used to decompose complex tissues into functionally distinct cell types. The first and usually the most important step of scRNA-seq data analysis is to accurately annotate the cell labels. In recent years, many supervised annotation methods have been developed and shown to be more convenient and accurate than unsupervised cell clustering."
+    url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9801963/"
+
+feature_row2:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 2"
     image_caption: "Accepted on 11-29-2023"
@@ -38,7 +63,8 @@ feature_row:
     title: "Study finds link between oral microbiome and common side effect in patients with head and neck cancer"
     excerpt: "Oral mucositis refers to erythematous and ulcerative lesions of the oral mucosa observed in patients with cancer being treated with chemotherapy, and/or with radiation therapy to fields involving the oral cavity. Lesions of oral mucositis are often very painful and compromise nutrition and oral hygiene as well as increase risk for local and systemic infection. Mucositis can also involve other areas of the alimentary tract; for example, gastrointestinal (GI) mucositis can manifest as diarrhea. Thus, mucositis is a highly significant and sometimes dose-limiting complication of cancer therapy"
     url: "https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.35001"
-feature_row2:
+
+feature_row3:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
     image_caption: "Revised on 11-09-2023"
@@ -68,7 +94,7 @@ feature_row2:
     excerpt: "We developed a straightforward yet effective method combining autoencoder with iterative feature selection to automatically identify novel cells from scRNA-seq data. Our method trains an autoencoder with the labeled training data and applies the autoencoder to the testing data to obtain reconstruction errors. By iteratively selecting features that demonstrate a bi-modal pattern and reclustering the cells using the selected feature, our method can accurately identify novel cells that are not present in the training data."
     url: "https://pubmed.ncbi.nlm.nih.gov/36083008/"
 
-feature_row3:
+feature_row4:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
     image_caption: "Posted on 10-14-2022"
