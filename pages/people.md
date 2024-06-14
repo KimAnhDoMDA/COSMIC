@@ -1004,7 +1004,7 @@ title: Meet Our Team
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
-            <img class="team-img" src="../assets/images/misc/bio-photo.JPG">
+            <img class="team-img" src="../assets/images/misc/bio-photo.jpg">
           </div>
           <p class="text-blk name" style="margin-top:1em;">
             Lianchun Xiao
