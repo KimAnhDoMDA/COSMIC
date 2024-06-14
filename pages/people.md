@@ -720,7 +720,7 @@ title: Meet Our Team
             James Allison
           </p>
           <p class="text-blk position" style="margin-top:-1em; text-align: center;">
-          Department of Immunology
+          Immunology
           </p>
           <div class="social-media-links">
             <a href="https://faculty.mdanderson.org/profiles/james_allison.html" target="_blank">
@@ -739,7 +739,7 @@ title: Meet Our Team
             Ana Aparicio
           </p>
           <p class="text-blk position" style="margin-top:-1em; text-align: center;">
-          Department of Genitourinary Medical Oncology
+          Genitourinary Medical Oncology
           </p>
           <div class="social-media-links">
             <a href="https://faculty.mdanderson.org/profiles/ana_aparicio.html" target="_blank">
@@ -777,7 +777,7 @@ title: Meet Our Team
             Paul Corn
           </p>
           <p class="text-blk position" style="margin-top:-1em; text-align: center;">
-          Department of Genitourinary Medical Oncology
+          Genitourinary Medical Oncology
           </p>
           <div class="social-media-links">
             <a href="https://faculty.mdanderson.org/profiles/paul_corn.html" target="_blank">
@@ -795,7 +795,7 @@ title: Meet Our Team
             Kim-Anh Do
           </p>
           <p class="text-blk position" style="margin-top:-1em; text-align: center;">
-          Department of Biostatistics
+          Biostatistics
           </p>
           <div class="social-media-links">
             <a href="https://faculty.mdanderson.org/profiles/kim-anh_do.html" target="_blank">
@@ -816,7 +816,7 @@ title: Meet Our Team
             Suprateek Kundu
           </p>
           <p class="text-blk position" style="margin-top:-1em; text-align: center;">
-          Department of Biostatistics
+          Biostatistics
           </p>
           <div class="social-media-links">
             <a href="https://faculty.mdanderson.org/profiles/suprateek_kundu.html" target="_blank">
@@ -835,7 +835,7 @@ title: Meet Our Team
             Sue-Hwa Lin
           </p>
           <p class="text-blk position" style="margin-top:-1em; text-align: center;">
-          Department of Translational Molecular Pathology
+          Translational Molecular Pathology
           </p>
           <div class="social-media-links">
             <a href="https://faculty.mdanderson.org/profiles/sue-hwa_lin.html" target="_blank">
@@ -854,7 +854,7 @@ title: Meet Our Team
             Christopher Logothetis
           </p>
           <p class="text-blk position" style="margin-top:-1em; text-align: center;">
-          Department of Genitourinary Medical Oncology
+          Genitourinary Medical Oncology
           </p>
           <div class="social-media-links">
             <a href="https://faculty.mdanderson.org/profiles/christopher_logothetis.html" target="_blank">
@@ -873,7 +873,7 @@ title: Meet Our Team
             James Long
           </p>
           <p class="text-blk position" style="margin-top:-1em; text-align: center;">
-          Department of Biostatistics
+          Biostatistics
           </p>
           <div class="social-media-links">
             <a href="https://faculty.mdanderson.org/profiles/james_long.html" target="_blank">
@@ -884,6 +884,25 @@ title: Meet Our Team
       </div>
     </div>
   <div class="responsive-container-block">
+<!-- Ganiraju Manyam -->
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/people/ganirajuM.JPG">
+          </div>
+          <p class="text-blk name" style="margin-top:1em;">
+            Ganiraju Manyam
+          </p>
+          <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+          Bioinformatics and Computational Biology
+          </p>
+          <div class="social-media-links">
+            <a href="https://mason.gmu.edu/~gmanyam/about.html" target="_blank">
+              <i class="fa fa-link" style="color: #000000;"></i>
+            </a>
+          </div>
+        </div>
+      </div>
 <!-- Padmanee Sharma -->
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
@@ -894,7 +913,7 @@ title: Meet Our Team
             Padmanee Sharma
           </p>
           <p class="text-blk position" style="margin-top:-1em; text-align: center;">
-          Department of Genitourinary Medical Oncology
+          Genitourinary Medical Oncology
           </p>
           <div class="social-media-links">
             <a href="https://faculty.mdanderson.org/profiles/padmanee_sharma.html" target="_blank">
@@ -913,7 +932,7 @@ title: Meet Our Team
             Bilal A Siddiqi
           </p>
           <p class="text-blk position" style="margin-top:-1em; text-align: center;">
-          Department of Genitourinary Medical Oncology
+          Genitourinary Medical Oncology
           </p>
           <div class="social-media-links">
             <a href="https://faculty.mdanderson.org/profiles/bilal_siddiqui.html" target="_blank">
@@ -922,7 +941,26 @@ title: Meet Our Team
           </div>
         </div>
       </div>
-<!-- Timothy C Thompson -->
+<!-- Becky Slack Tidwell -->
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/people/beckyS.JPG">
+          </div>
+          <p class="text-blk name" style="margin-top:1em;">
+            Becky Slack Tidwell
+          </p>
+          <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+          Biostatistics
+          </p>
+          <div class="social-media-links">
+            <a href="https://cancerletter.com/contributors/becky-slack-tidwell/" target="_blank">
+              <i class="fa fa-link" style="color: #000000;"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+  <!-- Timothy C Thompson -->
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
@@ -932,7 +970,7 @@ title: Meet Our Team
             Timothy C Thompson
           </p>
           <p class="text-blk position" style="margin-top:-1em; text-align: center;">
-          Department of Genitourinary Medical Oncology
+          Genitourinary Medical Oncology
           </p>
           <div class="social-media-links">
             <a href="https://faculty.mdanderson.org/profiles/timothy_thompson.html" target="_blank">
@@ -941,7 +979,9 @@ title: Meet Our Team
           </div>
         </div>
       </div>
-<!-- Patricia Troncoso -->
+    </div>
+    <div class="responsive-container-block">
+    <!-- Patricia Troncoso -->
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
@@ -951,7 +991,7 @@ title: Meet Our Team
             Patricia Troncoso
           </p>
           <p class="text-blk position" style="margin-top:-1em; text-align: center;">
-          Department of Anatomical Pathology
+          Anatomical Pathology
           </p>
           <div class="social-media-links">
             <a href="https://faculty.mdanderson.org/profiles/patricia_troncoso.html" target="_blank">
@@ -960,7 +1000,26 @@ title: Meet Our Team
           </div>
         </div>
       </div>
-  <!-- Di Zhao-->
+      <!-- Lianchun Xiao -->
+      <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+          <div class="img-wrapper">
+            <img class="team-img" src="../assets/images/misc/bio-photo.JPG">
+          </div>
+          <p class="text-blk name" style="margin-top:1em;">
+            Lianchun Xiao
+          </p>
+          <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+          Biostatistics
+          </p>
+          <div class="social-media-links">
+            <a href="https://mdanderson.elsevierpure.com/en/persons/lian-chun-xiao" target="_blank">
+              <i class="fa fa-link" style="color: #000000;"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <!-- Di Zhao-->
       <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
         <div class="team-card">
           <div class="img-wrapper">
@@ -970,7 +1029,7 @@ title: Meet Our Team
             Di Zhao
           </p>
           <p class="text-blk position" style="margin-top:-1em; text-align: center;">
-          Department of Experimental Radiation Oncology
+          Experimental Radiation Oncology
           </p>
           <div class="social-media-links">
             <a href="https://faculty.mdanderson.org/profiles/di_zhao.html" target="_blank">
@@ -979,8 +1038,8 @@ title: Meet Our Team
           </div>
         </div>
       </div>
-    </div>
   </div>
+</div>
 </div>
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 <hr>

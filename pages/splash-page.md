@@ -146,6 +146,9 @@ feature_row4:
         </ul>
         We also design state-of-the-art courses for the education and training of the next generation of computational statisticians and data scientists.
       </p>
+      <img src="./assets/images/misc/liverScan.JPG" alt="Liver Scan" class="centered-image" style="">
+      <img src="./assets/images/people/collage2.PNG" class="centered-image" style= "margin-top: -6em; width: 250%; margin-left: -75%;" alt="">
+  <a href="mailto:kimdo@mdanderson.org"><p style="text-style: none; text-align: center; font-size:20px; margin-top: -18em; margin-bottom: 10em;">Contact Me</p></a>
     </div>
   </div>
 
@@ -155,13 +158,6 @@ feature_row4:
       <img src="./assets/images/misc/oralMicro.JPG" alt="Oral Microbiome" class="spaced-image">
     </div>
   </div>
-</div>
-
-<div class="photoCenter">
-  <figure class="center">
-  <img src="./assets/images/people/collage2.JPG" class="responsive-image" style= "margin-top: -4em;" alt="">
-  <a href="mailto:kimdo@mdanderson.org"><p style="text-style: none; text-align: center; font-size:20px; margin-top: -2em;">Contact Me</p></a>
-  </figure>
 </div>
 
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>

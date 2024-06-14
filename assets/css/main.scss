@@ -100,13 +100,6 @@ body {
 }
 
 
-.photoCenter {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-  }
-
   * {
     font-family: 'Source Sans 3', sans-serif;
   }
@@ -574,6 +567,17 @@ image{
   object-fit: cover;
 }
 
+.centered-image {
+  margin-top: 2em;
+  margin-bottom: 2em; /* Adjust this value to set the desired space */
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  object-fit: cover;
+  height: 30%;
+  width: 30%;
+}
+
 .top-aligned {
   align-self: flex-start; /* Align the first image to the top */
   width: 40%;
@@ -599,8 +603,10 @@ image{
 }
 
 .responsive-image {
-  width: 120%;
-  margin-left: -6.5em;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
 }
 
 /* Responsive adjustments */
