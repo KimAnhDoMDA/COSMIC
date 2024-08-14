@@ -40,31 +40,23 @@ feature_row:
 
 feature_row2:
   - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 1"
+    image_caption: "Published on 05-30-2024"
+    title: "Validation of a Blood-Based Protein Biomarker Panel for a Risk Assessment of Lethal Lung Cancer in the Physicians' Health Study"
+    excerpt: "This study aimed to assess a four-marker protein panel (4MP)'s performance, including the precursor form of surfactant protein B, cancer antigen 125, carcinoembryonic antigen, and cytokeratin-19, for predicting lung cancer in a cohort enriched with never- and ever-smokers. Blinded pre-diagnostic plasma samples collected within 2 years prior to a lung cancer diagnosis from 25 cases and 100 sex-, age-, and smoking-matched controls were obtained from the Physicians' Health Study (PHS)"
+    url: "https://pubmed.ncbi.nlm.nih.gov/38893188/"
+  - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 2"
+    image_caption: "Published on 01-04-2024"
+    title: "Contributions of the Microbiome-Derived Metabolome for Risk Assessment and Prognostication of Pancreatic Cancer"
+    excerpt: "The occurrence of microbial metabolites in biofluids thereby enables risk assessment and prognostication of PDAC, as well as having potential for design of interception strategies. In this review, we first highlight the relevance of the microbiome for progression of precancerous lesions in the pancreas and, using liquid chromatography-mass spectrometry, provide supporting evidence that microbe-derived metabolites manifest in pancreatic cystic fluid and are associated with malignant progression of intraductal papillary mucinous neoplasm(s)."
+    url: "https://pubmed.ncbi.nlm.nih.gov/38175578/"
+  - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 3"
     image_caption: "Accepted on 11-29-2023"
     title: "Attempts to Understand Oral Mucositis in Head and Neck Cancer Patients through Omics Studies: A Narrative Review"
     excerpt: "Oral mucositis (OM) is a common and clinically impactful side effect of cytotoxic cancer treatment, particularly in patients with head and neck squamous cell carcinoma (HNSCC) who undergo radiotherapy with or without concomitant chemotherapy. The etiology and pathogenic mechanisms of OM are complex, multifaceted and elicit both direct and indirect damage to the mucosa. In this narrative review, we describe studies that use various omics methodologies (genomics, transcriptomics, microbiomics and metabolomics) in attempts to elucidate the biological pathways associated with the development or severity of OM."
     url: "https://pubmed.ncbi.nlm.nih.gov/38069314/"
-  - image_path: ./assets/images/misc/blank.JPG
-    alt: "Article 3"
-    image_caption: "Published on 9-20-2023"
-    title: "Mortality Benefit of a Blood-Based Biomarker Panel for Lung Cancer on the Basis of the Prostate, Lung, Colorectal, and Ovarian Cohort"
-    excerpt: "To investigate the utility of integrating a panel of circulating protein biomarkers in combination with a risk model on the basis of subject characteristics to identify individuals at high risk of harboring a lethal lung cancer."
-    url: "https://ascopubs.org/doi/abs/10.1200/JCO.22.02424?role=tab&journalCode=jco"
-  - image_path: ./assets/images/misc/blank.JPG
-    alt: "Article 4"
-    image_caption: "Published on 9-19-2023"
-    title: "A blood-based metabolomic signature predictive of risk for pancreatic cancer"
-    excerpt: "Emerging evidence implicates microbiome involvement in the development of pancreatic cancer (PaCa). Here, we investigate whether increases in circulating microbial-related metabolites associate with PaCa risk by applying metabolomics profiling to 172 sera collected within 5 years prior to PaCa diagnosis and 863 matched non-subject sera from participants in the Prostate, Lung, Colorectal, and Ovarian (PLCO) cohort."
-    url: "https://pubmed.ncbi.nlm.nih.gov/37729870/"
-  - image_path: ./assets/images/misc/blank.JPG
-    alt: "Article 4"
-    image_caption: "Published on 9-8-2023"
-    title: "Study finds link between oral microbiome and common side effect in patients with head and neck cancer"
-    excerpt: "Oral mucositis refers to erythematous and ulcerative lesions of the oral mucosa observed in patients with cancer being treated with chemotherapy, and/or with radiation therapy to fields involving the oral cavity. Lesions of oral mucositis are often very painful and compromise nutrition and oral hygiene as well as increase risk for local and systemic infection. Mucositis can also involve other areas of the alimentary tract; for example, gastrointestinal (GI) mucositis can manifest as diarrhea. Thus, mucositis is a highly significant and sometimes dose-limiting complication of cancer therapy"
-    url: "https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.35001"
-
-feature_row3:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
     image_caption: "Revised on 11-09-2023"
@@ -75,12 +67,34 @@ feature_row3:
     (CD), is consistent under hidden confounding and represents an alternative to classical instrumental variable estimators such as Two Stage Least
     Squares (TSLS)."
     url: "https://arxiv.org/abs/2207.14753v2"
+
+feature_row3:
+  - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 1"
+    image_caption: "Published on 09-20-2023"
+    title: "Mortality Benefit of a Blood-Based Biomarker Panel for Lung Cancer on the Basis of the Prostate, Lung, Colorectal, and Ovarian Cohort"
+    excerpt: "To investigate the utility of integrating a panel of circulating protein biomarkers in combination with a risk model on the basis of subject characteristics to identify individuals at high risk of harboring a lethal lung cancer."
+    url: "https://ascopubs.org/doi/abs/10.1200/JCO.22.02424?role=tab&journalCode=jco"
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 2"
+    image_caption: "Published on 09-19-2023"
+    title: "A blood-based metabolomic signature predictive of risk for pancreatic cancer"
+    excerpt: "Emerging evidence implicates microbiome involvement in the development of pancreatic cancer (PaCa). Here, we investigate whether increases in circulating microbial-related metabolites associate with PaCa risk by applying metabolomics profiling to 172 sera collected within 5 years prior to PaCa diagnosis and 863 matched non-subject sera from participants in the Prostate, Lung, Colorectal, and Ovarian (PLCO) cohort."
+    url: "https://pubmed.ncbi.nlm.nih.gov/37729870/"
+  - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 3"
+    image_caption: "Published on 09-08-2023"
+    title: "Study finds link between oral microbiome and common side effect in patients with head and neck cancer"
+    excerpt: "Oral mucositis refers to erythematous and ulcerative lesions of the oral mucosa observed in patients with cancer being treated with chemotherapy, and/or with radiation therapy to fields involving the oral cavity. Lesions of oral mucositis are often very painful and compromise nutrition and oral hygiene as well as increase risk for local and systemic infection. Mucositis can also involve other areas of the alimentary tract; for example, gastrointestinal (GI) mucositis can manifest as diarrhea. Thus, mucositis is a highly significant and sometimes dose-limiting complication of cancer therapy"
+    url: "https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.35001"
+  - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 4"
     image_caption: "Published on 02-05-2023"
     title: "Performance determinants of unsupervised clustering methods for microbiome data"
     excerpt: "In microbiome data analysis, unsupervised clustering is often used to identify naturally occurring clusters, which can then be assessed for associations with characteristics of interest. In this work, we systematically compared beta diversity and clustering methods commonly used in microbiome analyses. We applied these to four published datasets where highly distinct microbiome profiles could be seen between sample groups, as well a clinical dataset with less clear separation between groups."
     url: "https://pubmed.ncbi.nlm.nih.gov/35120564/"
+
+feature_row4:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 3"
     image_caption: "Posted on 11-1-2022"
@@ -94,7 +108,7 @@ feature_row3:
     excerpt: "We developed a straightforward yet effective method combining autoencoder with iterative feature selection to automatically identify novel cells from scRNA-seq data. Our method trains an autoencoder with the labeled training data and applies the autoencoder to the testing data to obtain reconstruction errors. By iteratively selecting features that demonstrate a bi-modal pattern and reclustering the cells using the selected feature, our method can accurately identify novel cells that are not present in the training data."
     url: "https://pubmed.ncbi.nlm.nih.gov/36083008/"
 
-feature_row4:
+feature_row5:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
     image_caption: "Posted on 10-14-2022"
@@ -146,8 +160,7 @@ feature_row4:
         </ul>
         We also design state-of-the-art courses for the education and training of the next generation of computational statisticians and data scientists.
       </p>
-      <img src="./assets/images/misc/microbiome.png" alt="Liver Scan" class="centered-image" style="">
-      <img src="./assets/images/people/collage2.PNG" class="centered-image" style= "margin-top: -4em; width: 250%; margin-left: -75%;" alt="">
+      <img src="./assets/images/people/collage2.PNG" class="centered-image" style= "margin-top: -4em; width: 225%; margin-left: -65%;" alt="">
   <a href="mailto:kimdo@mdanderson.org"><p style="text-style: none; text-align: center; font-size:20px; margin-top: -5em; margin-bottom: 2em;">Contact Me</p></a>
     </div>
   </div>
@@ -156,15 +169,20 @@ feature_row4:
     <div class="side-image">
       <img src="./assets/images/misc/iBRIGHT.JPG" alt="iBRIGHT symbol" class="spaced-image">
       <img src="./assets/images/misc/oralMicro.JPG" alt="Oral Microbiome" class="spaced-image">
+      <img src="./assets/images/misc/microbiome.png" alt="microbiome" class="spaced-image">
     </div>
   </div>
 </div>
-
+<!-- IN THE NEWS -->
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 <div>
   <h2 style="text-decoration: none; color: black; text-align:center;">In the News</h2>
 </div>
 <div class="custom-feature">
+    <p style="font-size: medium;">Posted on 08-13-2024</p>
+    <a href="https://cwstat.org/awards/janet-norwood-award/" target="_blank">
+    <h3>Kim-Anh Do selected to receive the Janet L. Norwood Award for 2024!</h3></a>
+    <p style="font-size: 25px;" >This award is given annually and recognizes outstanding achievement by a woman in the statistical sciences. Read more about it on their website.</p>
     <p style="font-size: medium;">Posted on 05-30-2024</p>
     <a href="https://www.mdpi.com/2072-6694/16/11/2070" target="_blank">
     <h3>Our Groundbreaking Article on Lethal Lung Cancer Biomarkers Published in Cancers Journal's Special Issue!</h3></a>
@@ -195,6 +213,7 @@ feature_row4:
         <li style="font-size: 25px;"><a href="https://github.com/MinJinHa/PRECISE" target="_blank">PRECISE</a></li>
         <li style="font-size: 25px;"><a href="https://biostatistics.mdanderson.org/shinyapps/ProgPerm/" target="_blank">ProgPerm</a></li>
         <li style="font-size: 25px;"><a href="https://github.com/YushuShi/sparseMbClust/" target="_blank">sparseMbClust</a></li>
+        <li style="font-size: 25px;"><a href="https://biostatistics.mdanderson.org/shinyapps/survivalContour/" target="_blank">Survival Contour Plot</a></li>
       </div>
     </div>
   </div>

@@ -148,3 +148,16 @@ title: Softwares
 </dl3>
 </details>
 </div>
+
+<!--Survival Contour Plot-->
+<div style="margin-top:1.5em; text-align: left;">
+<details>
+<summary><h2 style="display: inline;">SurvivalContour</h2></summary>
+<dl3 style="margin-top:1.5em; text-align: left;">
+    <p>SurvivalContour: Show Survival Prediction in Contour Plot: <a href="https://biostatistics.mdanderson.org/shinyapps/survivalContour/" target="_blank">SurvivalContour</a><br/> 
+     the predicted survival or cumulative incidence function (for competing risks data) over time for a single continuous covariate in the form of a contour plot. <br/>
+     The estimate for the survival probability is based on the Cox model, the spline model, random survival forest, or parametric survival models, 
+     including the generalized <br/> Gamma AFT model, the stable generalized Gamma AFT model, the Weibull AFT model, the log-logistic AFT model, and the log-Normal AFT model. </p>
+</dl3>
+</details>
+</div>
