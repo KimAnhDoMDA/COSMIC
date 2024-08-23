@@ -1,6 +1,8 @@
 main:
   - title: "People"
     url: /people/
+  - title: "Major Grants"
+    url: /majorgrants/
   - title: "About Me"
     url: /about/
   - title: "Softwares"

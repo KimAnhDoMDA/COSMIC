@@ -5,6 +5,15 @@ permalink: /gallery/
 author_profile: true
 
 gallery:
+  - url: /assets/images/gallery/JustinSymposium2.JPG
+    image_path: /assets/images/gallery/JustinSymposium2.JPG
+    alt: "Kim with Catalyst inter, Justin Nguyen"
+    title: "Catalyst intern, Justin Nguyen, poster session"
+
+  - url: /assets/images/gallery/JustinSymposium.JPG
+    image_path: /assets/images/gallery/JustinSymposium.JPG
+    alt: "Kim with Catalyst inter, Justin Nguyen"
+    title: "Catalyst intern, Justin Nguyen, poster session"
 
   - url: /assets/images/gallery/jamesAllison3.JPG
     image_path: /assets/images/gallery/jamesAllison3.JPG
