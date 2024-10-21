@@ -518,6 +518,36 @@ title: Meet Our Team
                   </div>
                 </div>
               </div>
+<!-- Hamid Khoshfekr Rudsari-->        
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+          <div class="team-card">
+            <div class="img-wrapper">
+              <img class="team-img" src="../assets/images/people/hamidR.JPG">
+            </div>
+            <p class="text-blk name" style="margin-top:1em;">
+              Hamid Khoshfekr Rudsari, Ph.D.
+            </p>
+            <p class="text-blk position" style="margin-top:-1em;">
+              <a href="../assets/hamidRcv.pdf" target="_blank" style="text-decoration: none; color: black;"> 
+                Postdoctoral Fellow
+              </a>
+            </p>
+            <div class="social-media-links1">
+              <a href="mailto:khoshfekr1994@gmail.com" target="_blank">
+                <i class="fa fa-envelope" style="color: #000000;"></i>
+              </a>
+              <a href="https://www.linkedin.com/in/hamid-khoshfekr-rudsari-379414b7/" target="_blank">
+                <i class="fab fa-linkedin" style="color: #000000;"></i>
+              </a>
+              <a href="https://scholar.google.com/citations?user=a_RMvBcAAAAJ&hl=en" target="_blank">
+                <i class="fab fa-google" style="color: #000000;"></i>
+              </a>
+              <a href="https://github.com/khoshfekr1994" target="_blank">
+                <i class="fab fa-github" style="color: #000000;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
 <!-- Satabdi Saha -->  
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
             <div class="team-card">
@@ -681,7 +711,7 @@ title: Meet Our Team
             Becky Tseng
           </p>
           <p class="text-blk position" style="margin-top:-1em;">
-            College Student
+            Graduate Student
           </p>
           <div class="social-media-links3">
             <a href="mailto:btseng@mdanderson.org" target="_blank">

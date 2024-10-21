@@ -5,6 +5,36 @@ permalink: /gallery/
 author_profile: true
 
 gallery:
+  - url: /assets/images/gallery/hamidLunch2.JPG
+    image_path: /assets/images/gallery/hamidLunch2.JPG
+    alt: "Welcome Group Lunch at Kasra"
+    title: "Welcome Group Lunch at Kasra"
+
+  - url: /assets/images/gallery/hamidLunch1.JPG
+    image_path: /assets/images/gallery/hamidLunch1.JPG
+    alt: "Welcome Group Lunch at Kasra"
+    title: "Welcome Group Lunch at Kasra"
+
+  - url: /assets/images/gallery/JanetNorwoodCommittee.JPG
+    image_path: /assets/images/gallery/JanetNorwoodCommittee.JPG
+    alt: "Kim with Janet Norwood Committee members and Chair of Biostats at UAB"
+    title: "Kim with Janet Norwood Committee members and Chair of Biostats at UAB"
+
+  - url: /assets/images/gallery/JanetNorwood2.JPG
+    image_path: /assets/images/gallery/JanetNorwood2.JPG
+    alt: "Kim with Janet Norwood Committee members"
+    title: "Kim with Janet Norwood Committee members"
+
+  - url: /assets/images/gallery/twoDeans.JPG
+    image_path: /assets/images/gallery/twoDeans.JPG
+    alt: "Kim with two deans: Dean Leslie McClure of SPH at St Louis University and Dean Paul Erwin of SPH at UAB"
+    title: "Kim with two deans: Dean Leslie McClure of SPH at St Louis University and Dean Paul Erwin of SPH at UAB"
+
+  - url: /assets/images/gallery/DrLiZhang.JPG
+    image_path: /assets/images/gallery/DrLiZhang.JPG
+    alt: "Kim with Katholi dissertation award winner, Dr Li Zhang."
+    title: "Kim with Katholi dissertation award winner, Dr Li Zhang."
+
   - url: /assets/images/gallery/JustinSymposium2.JPG
     image_path: /assets/images/gallery/JustinSymposium2.JPG
     alt: "Kim with Catalyst inter, Justin Nguyen"
