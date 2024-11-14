@@ -428,28 +428,49 @@ title: Major Grants
           </div>
         </div>
       </div>
-  <!-- Jing Ning -->  
-    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-            <div class="team-card">
-                <div class="img-wrapper">
-                  <img class="team-img" src="../assets/images/people/jNing.JPG">
-                </div>
-                <p class="text-blk name" style="margin-top:1em;">
-                  Jing Ning
-                </p>
-                <p class="text-blk position" style="margin-top:-1em; text-align: center;">
-                  Biostatistics
-                </p>
-                <div class="social-media-links">
-                  <a href="https://faculty.mdanderson.org/profiles/jing_ning.html" target="_blank">
-                    <i class="fa fa-link" style="color: #000000;"></i>
-                  </a>
-                </div>
-              </div>
-        </div> 
     </div>
   </div>
-</div>
+  </div>
+  <div class="responsive-container-block">
+  <!-- Jing Ning -->  
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+            <div class="img-wrapper">
+              <img class="team-img" src="../assets/images/people/jNing.JPG">
+            </div>
+            <p class="text-blk name" style="margin-top:1em;">
+              Jing Ning
+            </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              Biostatistics
+            </p>
+            <div class="social-media-links">
+              <a href="https://faculty.mdanderson.org/profiles/jing_ning.html" target="_blank">
+                <i class="fa fa-link" style="color: #000000;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- Ying Yuan -->  
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+        <div class="team-card">
+            <div class="img-wrapper">
+              <img class="team-img" src="../assets/images/people/yingY.JPG">
+            </div>
+            <p class="text-blk name" style="margin-top:1em;">
+              Ying Yuan
+            </p>
+            <p class="text-blk position" style="margin-top:-1em; text-align: center;">
+              Biostatistics
+            </p>
+            <div class="social-media-links">
+              <a href="https://faculty.mdanderson.org/profiles/ying_yuan.html" target="_blank">
+                <i class="fa fa-link" style="color: #000000;"></i>
+              </a>
+            </div>
+          </div>
+        </div>  
+    </div>
 <p>    
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 </p>

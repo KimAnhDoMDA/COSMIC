@@ -180,9 +180,9 @@ feature_row5:
 </div>
 <div class="custom-feature">
     <p style="font-size: medium;">Posted on 08-13-2024</p>
-    <a href="https://cwstat.org/awards/janet-norwood-award/" target="_blank">
+    <a href="https://www.youtube.com/watch?v=frB8eJ0k9W0" target="_blank">
     <h3>Kim-Anh Do selected to receive the Janet L. Norwood Award for 2024!</h3></a>
-    <p style="font-size: 25px;" >This award is given annually and recognizes outstanding achievement by a woman in the statistical sciences. Read more about it on their website.</p>
+    <p style="font-size: 25px;" >This award is given annually and recognizes outstanding achievement by a woman in the statistical sciences. Click the link for the award ceremony</p>
     <p style="font-size: medium;">Posted on 05-30-2024</p>
     <a href="https://www.mdpi.com/2072-6694/16/11/2070" target="_blank">
     <h3>Our Groundbreaking Article on Lethal Lung Cancer Biomarkers Published in Cancers Journal's Special Issue!</h3></a>
