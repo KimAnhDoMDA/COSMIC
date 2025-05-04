@@ -5,6 +5,21 @@ permalink: /gallery/
 author_profile: true
 
 gallery:
+  - url: /assets/images/gallery/20250319_HuddleRoom.JPG
+    image_path: /assets/images/gallery/20250319_HuddleRoom.JPG
+    alt: "Dr Do with colleagues in meeting room"
+    title: "Dr Do with colleagues in meeting room"
+
+  - url: /assets/images/gallery/20250319Biostatistics_Bioinformatics.JPG
+    image_path: /assets/images/gallery/20250319Biostatistics_Bioinformatics.JPG
+    alt: "Group photo with the department of Biostatistics and Bioinformatics"
+    title: "Group photo with the department of Biostatistics and Bioinformatics"
+
+  - url: /assets/images/gallery/ENAR2.JPG
+    image_path: /assets/images/gallery/ENAR2.JPG
+    alt: "ENAR group photo"
+    title: "ENAR group photo"
+
   - url: /assets/images/gallery/hamidLunch2.JPG
     image_path: /assets/images/gallery/hamidLunch2.JPG
     alt: "Welcome Group Lunch at Kasra"
