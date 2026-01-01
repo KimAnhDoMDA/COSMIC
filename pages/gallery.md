@@ -5,6 +5,16 @@ permalink: /gallery/
 author_profile: true
 
 gallery:
+  - url: "/assets/images/gallery/HongxuZhu-phd-defense.JPG"
+    image_path: "/assets/images/gallery/HongxuZhu-phd-defense.JPG"  
+    alt: "Hongxu Zhu PhD Defense"
+    title: "Hongxu Zhu PhD Defense"
+
+  - url: "/assets/images/gallery/ChunhuiGu-phd-defense.JPG"
+    image_path: "/assets/images/gallery/ChunhuiGu-phd-defense.JPG"  
+    alt: "Chunhui Gu PhD Defense"
+    title: "Chunhui Gu PhD Defense"
+
   - url: /assets/images/gallery/20250319_HuddleRoom.JPG
     image_path: /assets/images/gallery/20250319_HuddleRoom.JPG
     alt: "Dr Do with colleagues in meeting room"
