@@ -12,7 +12,33 @@ title: "Kim-Anh Do, Ph.D<br>"
 excerpt: "<h4><b>Welcome to COSMIC!</b></h4>"
 tagline: "COmputational Statistics, Medicine, Integrative omiC Research"
 
-feature_row:
+feature_row1:
+  - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 1"
+    image_caption: "Published 12-1-2025"
+    title: "SMAGS-LASSO: A Novel Feature Selection Method for Sensitivity Maximization in Early Cancer Detection"
+    excerpt: "We developed SMAGS-LASSO, a machine learning algorithm that combines our developed Sensitivity Maximization at a Given Specificity (SMAGS) framework with L1 regularization for feature selection."
+    url: "https://aacrjournals.org/cebp/article-lookup/doi/10.1158/1055-9965.EPI-25-1032"
+  - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 2"
+    image_caption: "Published on 7-11-2025"
+    title: "CAT: a conditional association test for microbiome data using a permutation approach"
+    excerpt: "This paper proposes a novel conditional association test, CAT, that can account for other features and phylogenetic relatedness when testing the association between a feature and an outcome."
+    url: "https://academic.oup.com/bib/article/26/4/bbaf326/8196359?login=false"
+  - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 3"
+    image_caption: "Published on 4-26-2025"
+    title: "Grape-Pi: graph-based neural networks for enhanced protein identification in proteomics pipelines"
+    excerpt: "We developed a graph neural network (GNN)-based model, Graph Neural Network using Protein–Protein Interaction for Enhancing Protein Identification (Grape-Pi), which is applicable to all proteomics pipelines."
+    url: "https://academic.oup.com/bioinformaticsadvances/article/5/1/vbaf095/8120414?login=false"
+  - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 4"
+    image_caption: "Published on 1-7-2025"
+    title: "Causal models and prediction in cell line perturbation experiments"
+    excerpt: "We propose causal structural equations for modeling how perturbations effect cells. From this model, we derive two estimators for predicting responses: a Linear Regression (LR) estimator and a causal structure learning estimator that we term Causal Structure Regression (CSR)."
+    url: "https://link.springer.com/article/10.1186/s12859-024-06027-7"
+
+feature_row2:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
     image_caption: "Published 10-8-2018"
@@ -38,7 +64,7 @@ feature_row:
     excerpt: "Single-cell RNA sequencing (scRNA-seq) has been widely used to decompose complex tissues into functionally distinct cell types. The first and usually the most important step of scRNA-seq data analysis is to accurately annotate the cell labels. In recent years, many supervised annotation methods have been developed and shown to be more convenient and accurate than unsupervised cell clustering."
     url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9801963/"
 
-feature_row2:
+feature_row3:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
     image_caption: "Published on 05-30-2024"
@@ -68,7 +94,7 @@ feature_row2:
     Squares (TSLS)."
     url: "https://arxiv.org/abs/2207.14753v2"
 
-feature_row3:
+feature_row4:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
     image_caption: "Published on 09-20-2023"
@@ -94,7 +120,7 @@ feature_row3:
     excerpt: "In microbiome data analysis, unsupervised clustering is often used to identify naturally occurring clusters, which can then be assessed for associations with characteristics of interest. In this work, we systematically compared beta diversity and clustering methods commonly used in microbiome analyses. We applied these to four published datasets where highly distinct microbiome profiles could be seen between sample groups, as well a clinical dataset with less clear separation between groups."
     url: "https://pubmed.ncbi.nlm.nih.gov/35120564/"
 
-feature_row4:
+feature_row5:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 3"
     image_caption: "Posted on 11-1-2022"
@@ -108,7 +134,7 @@ feature_row4:
     excerpt: "We developed a straightforward yet effective method combining autoencoder with iterative feature selection to automatically identify novel cells from scRNA-seq data. Our method trains an autoencoder with the labeled training data and applies the autoencoder to the testing data to obtain reconstruction errors. By iteratively selecting features that demonstrate a bi-modal pattern and reclustering the cells using the selected feature, our method can accurately identify novel cells that are not present in the training data."
     url: "https://pubmed.ncbi.nlm.nih.gov/36083008/"
 
-feature_row5:
+feature_row6:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
     image_caption: "Posted on 10-14-2022"
@@ -223,8 +249,10 @@ feature_row5:
   <a href="/COSMIC/papers" target="_blank" style="text-decoration: none; color: black; text-align:center;"><h2>Recent Published and Impactful Papers</h2></a>
 </div>
 
-{% include feature_row id="feature_row" %}
+{% include feature_row id="feature_row1" %}
 
 {% include feature_row id="feature_row2" %}
 
 {% include feature_row id="feature_row3" %}
+
+{% include feature_row id="feature_row4" %}
