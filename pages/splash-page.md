@@ -41,32 +41,6 @@ feature_row1:
 feature_row2:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
-    image_caption: "Published 10-8-2018"
-    title: "PRECISE: Personalized Integrated Network Modeling of the Cancer Proteome Atlas"
-    excerpt: "Personalized (patient-specific) approaches have recently emerged with a precision medicine paradigm that acknowledges the fact that molecular pathway structures and activity might be considerably different within and across tumors. The functional cancer genome and proteome provide rich sources of information to identify patient-specific variations in signaling pathways and activities within and across tumors; however, current analytic methods lack the ability to exploit the diverse and multi-layered architecture of these complex biological networks."
-    url: "https://pubmed.ncbi.nlm.nih.gov/30297783/"
-  - image_path: ./assets/images/misc/blank.JPG
-    alt: "Article 2"
-    image_caption: "Published on 8-28-2019"
-    title: "NExUS: Bayesian simultaneous network estimation across unequal sample sizes"
-    excerpt: "Network-based analyses of high-throughput genomics data provide a holistic, systems-level understanding of various biological mechanisms for a common population. However, when estimating multiple networks across heterogeneous sub-populations, varying sample sizes pose a challenge in the estimation and inference, as network differences may be driven by differences in power."
-    url: "https://academic.oup.com/bioinformatics/article/36/3/798/5555873"
-  - image_path: ./assets/images/misc/blank.JPG
-    alt: "Article 3"
-    image_caption: "Published on 7-6-2015"
-    title: "DINGO: differential network analysis in genomics"
-    excerpt: "Cancer progression and development are initiated by aberrations in various molecular networks through coordinated changes across multiple genes and pathways. It is important to understand how these networks change under different stress conditions and/or patient-specific groups to infer differential patterns of activation and inhibition."
-    url: "https://academic.oup.com/bioinformatics/article/31/21/3413/195238"
-  - image_path: ./assets/images/misc/blank.JPG
-    alt: "Article 4"
-    image_caption: "Published on 9-9-2022"
-    title: "CAMLU: A machine learning-based method for automatically identifying novel cells in annotating single-cell RNA-seq data"
-    excerpt: "Single-cell RNA sequencing (scRNA-seq) has been widely used to decompose complex tissues into functionally distinct cell types. The first and usually the most important step of scRNA-seq data analysis is to accurately annotate the cell labels. In recent years, many supervised annotation methods have been developed and shown to be more convenient and accurate than unsupervised cell clustering."
-    url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9801963/"
-
-feature_row3:
-  - image_path: ./assets/images/misc/blank.JPG
-    alt: "Article 1"
     image_caption: "Published on 05-30-2024"
     title: "Validation of a Blood-Based Protein Biomarker Panel for a Risk Assessment of Lethal Lung Cancer in the Physicians' Health Study"
     excerpt: "This study aimed to assess a four-marker protein panel (4MP)'s performance, including the precursor form of surfactant protein B, cancer antigen 125, carcinoembryonic antigen, and cytokeratin-19, for predicting lung cancer in a cohort enriched with never- and ever-smokers. Blinded pre-diagnostic plasma samples collected within 2 years prior to a lung cancer diagnosis from 25 cases and 100 sex-, age-, and smoking-matched controls were obtained from the Physicians' Health Study (PHS)"
@@ -94,7 +68,7 @@ feature_row3:
     Squares (TSLS)."
     url: "https://arxiv.org/abs/2207.14753v2"
 
-feature_row4:
+feature_row3:
   - image_path: ./assets/images/misc/blank.JPG
     alt: "Article 1"
     image_caption: "Published on 09-20-2023"
@@ -120,39 +94,65 @@ feature_row4:
     excerpt: "In microbiome data analysis, unsupervised clustering is often used to identify naturally occurring clusters, which can then be assessed for associations with characteristics of interest. In this work, we systematically compared beta diversity and clustering methods commonly used in microbiome analyses. We applied these to four published datasets where highly distinct microbiome profiles could be seen between sample groups, as well a clinical dataset with less clear separation between groups."
     url: "https://pubmed.ncbi.nlm.nih.gov/35120564/"
 
-feature_row5:
+feature_row4:
   - image_path: ./assets/images/misc/blank.JPG
-    alt: "Article 3"
+    alt: "Article 1"
     image_caption: "Posted on 11-1-2022"
     title: "A Blood-Based Metabolite Panel for Distinguishing Ovarian Cancer from Benign Pelvic Masses"
     excerpt: "A blood-based metabolite panel was developed that demonstrates independent predictive ability and complements ROMA for distinguishing early-stage ovarian cancer from benign disease to better inform clinical decision making."
     url: "https://pubmed.ncbi.nlm.nih.gov/36037307/"
   - image_path: ./assets/images/misc/blank.JPG
-    alt: "Article 4"
+    alt: "Article 2"
     image_caption: "Posted on 10-21-2022"
     title: "A machine learning-based method for automatically identifying novel cells in annotating single-cell RNA-seq data"
     excerpt: "We developed a straightforward yet effective method combining autoencoder with iterative feature selection to automatically identify novel cells from scRNA-seq data. Our method trains an autoencoder with the labeled training data and applies the autoencoder to the testing data to obtain reconstruction errors. By iteratively selecting features that demonstrate a bi-modal pattern and reclustering the cells using the selected feature, our method can accurately identify novel cells that are not present in the training data."
     url: "https://pubmed.ncbi.nlm.nih.gov/36083008/"
-
-feature_row6:
   - image_path: ./assets/images/misc/blank.JPG
-    alt: "Article 1"
+    alt: "Article 3"
     image_caption: "Posted on 10-14-2022"
     title: "Bayesian hierarchical quantile regression with application to characterizing the immune architecture of lung cancer"
     excerpt: "The successful development and implementation of precision immuno-oncology therapies requires a deeper understanding of the immune architecture at a patient level. T-cell receptor (TCR) repertoire sequencing is a relatively new technology that enables monitoring of T-cells, a subset of immune cells that play a central role in modulating immune response."
     url: "https://onlinelibrary.wiley.com/doi/10.1111/biom.13774"  
   - image_path: ./assets/images/misc/blank.JPG
-    alt: "Article 2"
+    alt: "Article 4"
     image_caption: "Posted on 9-21-2022"
     title: "Transcriptomic Signatures of Hypomethylating Agent Failure in Myelodysplastic Syndromes and Chronic Myelomonocytic Leukemia. Exp Hematol"
     excerpt: "Hypomethylating agents (HMAs) are the standard of care for myelodysplastic syndromes (MDS) and chronic myelomonocytic leukemia (CMML). HMA treatment failure is a major clinical problem and its mechanisms are poorly characterized. We performed RNA sequencing in CD34+ bone marrow stem hematopoietic stem and progenitor cells (BM-HSPCs) from 51 patients with CMML and MDS before HMA treatment and compared transcriptomic signatures between responders and nonresponders."
     url: "https://www.exphem.org/article/S0301-472X(22)00697-X/fulltext" 
+
+feature_row5:
   - image_path: ./assets/images/misc/blank.JPG
-    alt: "Article 3"
+    alt: "Article 1"
+    image_caption: "Published on 9-9-2022"
+    title: "CAMLU: A machine learning-based method for automatically identifying novel cells in annotating single-cell RNA-seq data"
+    excerpt: "Single-cell RNA sequencing (scRNA-seq) has been widely used to decompose complex tissues into functionally distinct cell types. The first and usually the most important step of scRNA-seq data analysis is to accurately annotate the cell labels. In recent years, many supervised annotation methods have been developed and shown to be more convenient and accurate than unsupervised cell clustering."
+    url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9801963/"
+  - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 2"
     image_caption: "Posted on 9-5-2022"
     title: "MDM2 antagonist improves therapeutic activity of azacitidine in myelodysplastic syndromes and chronic myelomonocytic leukemia"
     excerpt: "Failure of hypomethylation agent (HMA) treatments is an important issue in myelodysplastic syndromes (MDS) and chronic myelomonocytic leukemia (CMML). Recent studies indicated that function of wildtype TP53 positively impacts outcome of HMA treatments. We investigated the combination of the...."
     url: "https://www.tandfonline.com/doi/abs/10.1080/10428194.2022.2116932" 
+  - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 3"
+    image_caption: "Published on 8-28-2019"
+    title: "NExUS: Bayesian simultaneous network estimation across unequal sample sizes"
+    excerpt: "Network-based analyses of high-throughput genomics data provide a holistic, systems-level understanding of various biological mechanisms for a common population. However, when estimating multiple networks across heterogeneous sub-populations, varying sample sizes pose a challenge in the estimation and inference, as network differences may be driven by differences in power."
+    url: "https://academic.oup.com/bioinformatics/article/36/3/798/5555873"
+  - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 4"
+    image_caption: "Published 10-8-2018"
+    title: "PRECISE: Personalized Integrated Network Modeling of the Cancer Proteome Atlas"
+    excerpt: "Personalized (patient-specific) approaches have recently emerged with a precision medicine paradigm that acknowledges the fact that molecular pathway structures and activity might be considerably different within and across tumors. The functional cancer genome and proteome provide rich sources of information to identify patient-specific variations in signaling pathways and activities within and across tumors; however, current analytic methods lack the ability to exploit the diverse and multi-layered architecture of these complex biological networks."
+    url: "https://pubmed.ncbi.nlm.nih.gov/30297783/"
+
+feature_row6:
+  - image_path: ./assets/images/misc/blank.JPG
+    alt: "Article 1"
+    image_caption: "Published on 7-6-2015"
+    title: "DINGO: differential network analysis in genomics"
+    excerpt: "Cancer progression and development are initiated by aberrations in various molecular networks through coordinated changes across multiple genes and pathways. It is important to understand how these networks change under different stress conditions and/or patient-specific groups to infer differential patterns of activation and inhibition."
+    url: "https://academic.oup.com/bioinformatics/article/31/21/3413/195238"
 
 
 ---
@@ -246,7 +246,7 @@ feature_row6:
 </div>  
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 <div>
-  <a href="/COSMIC/papers" target="_blank" style="text-decoration: none; color: black; text-align:center;"><h2>Recent Published and Impactful Papers</h2></a>
+  <a href="/COSMIC/papers" target="_blank" style="text-decoration: none; color: black; text-align:center;"><h2>Selected Published and Impactful Papers</h2></a>
 </div>
 
 {% include feature_row id="feature_row1" %}
@@ -256,3 +256,7 @@ feature_row6:
 {% include feature_row id="feature_row3" %}
 
 {% include feature_row id="feature_row4" %}
+
+{% include feature_row id="feature_row5" %}
+
+{% include feature_row id="feature_row6" %}
