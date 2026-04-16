@@ -161,6 +161,10 @@ feature_row6:
     <div class="side-image">
       <img src="./assets/images/misc/side-image1.JPG" alt="DINGO graph" class="spaced-image">
       <img src="./assets/images/misc/methyNetwork.JPG" alt="methy Network" class="spaced-image">
+      <figure style="margin-bottom: 3em; width:80%; font-size: smaller; line-height: normal;">
+      <img src="./assets/images/misc/COTS-2026.jpg" alt="COTS 2026 Photo">
+      <figcaption>Dr. Kim-Anh Do with colleagues at <A href="https://cvent.utexas.edu/event/6dcc4fd7-b686-4f19-aa57-1795b405276b/summary">COTS 2026</A></figcaption>
+      </figure>
     </div>
   </div>
 
