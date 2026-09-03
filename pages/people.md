@@ -570,6 +570,23 @@ title: Meet Our Team
               </div>
             </div>
         </div>
+<!-- Bitan Sarkar-->        
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+          <div class="team-card">
+            <div class="img-wrapper">
+              <img class="team-img" src="../assets/images/people/Bitan_Sarkar.jpg">
+            </div>
+            <p class="text-blk name" style="margin-top:1em;">
+              Bitan Sarkar, Ph.D.
+            </p>
+            <p class="text-blk position" style="margin-top:-1em;">
+                Postdoctoral Fellow
+            </p>
+            <div class="social-media-links1">
+            </div>
+          </div>
+        </div>
+<!-- Add more postdocs above here. -->
     </div>
   </div>
 </div>
