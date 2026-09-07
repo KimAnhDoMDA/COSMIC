@@ -496,58 +496,6 @@ title: Meet Our Team
         Postdoctoral Fellows
       </div>
         <div class="responsive-container-block">
-<!-- Seyyed Mahmood Ghasemi -->
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-                <div class="team-card">
-                  <div class="img-wrapper">
-                    <img class="team-img" src="../assets/images/people/mahmoodG.JPG">
-                  </div>
-                  <p class="text-blk name" style="margin-top:1em;">
-                    Seyyed Mahmood Ghasemi, Ph.D.
-                  </p>
-                  <p class="text-blk position" style="margin-top:-1em;">
-                    Postdoctoral Fellow
-                  </p>
-                  <div class="social-media-links">
-                    <a href="mailto:SGhasemi@mdanderson.org" target="_blank">
-                    <i class="fa fa-envelope" style="color: #000000;"></i>
-                    </a>
-                    <a href="https://www.linkedin.com/in/smahmoodghasemi/" target="_blank">
-                    <i class="fab fa-linkedin" style="color: #000000;"></i>
-                    </a>
-                  </div>
-                </div>
-              </div>
-<!-- Hamid Khoshfekr Rudsari-->        
-        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
-          <div class="team-card">
-            <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/people/hamidR.JPG">
-            </div>
-            <p class="text-blk name" style="margin-top:1em;">
-              Hamid Khoshfekr Rudsari, Ph.D.
-            </p>
-            <p class="text-blk position" style="margin-top:-1em;">
-              <a href="../assets/hamidRcv.pdf" target="_blank" style="text-decoration: none; color: black;"> 
-                Postdoctoral Fellow
-              </a>
-            </p>
-            <div class="social-media-links1">
-              <a href="mailto:khoshfekr1994@gmail.com" target="_blank">
-                <i class="fa fa-envelope" style="color: #000000;"></i>
-              </a>
-              <a href="https://www.linkedin.com/in/hamid-khoshfekr-rudsari-379414b7/" target="_blank">
-                <i class="fab fa-linkedin" style="color: #000000;"></i>
-              </a>
-              <a href="https://scholar.google.com/citations?user=a_RMvBcAAAAJ&hl=en" target="_blank">
-                <i class="fab fa-google" style="color: #000000;"></i>
-              </a>
-              <a href="https://github.com/khoshfekr1994" target="_blank">
-                <i class="fab fa-github" style="color: #000000;"></i>
-              </a>
-            </div>
-          </div>
-        </div>
 <!-- Satabdi Saha -->  
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
             <div class="team-card">
@@ -574,10 +522,26 @@ title: Meet Our Team
         <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
           <div class="team-card">
             <div class="img-wrapper">
-              <img class="team-img" src="../assets/images/people/Bitan_Sarkar.jpg">
+              <img class="team-img" src="../assets/images/people/Bitan_Sarkar-cropped.jpg">
             </div>
             <p class="text-blk name" style="margin-top:1em;">
               Bitan Sarkar, Ph.D.
+            </p>
+            <p class="text-blk position" style="margin-top:-1em;">
+                Postdoctoral Fellow
+            </p>
+            <div class="social-media-links1">
+            </div>
+          </div>
+        </div>
+<!-- Heekyung Ahn -->
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+          <div class="team-card">
+            <div class="img-wrapper">
+              <img class="team-img" src="../assets/images/people/Heekyung_Ahn.jpg">
+            </div>
+            <p class="text-blk name" style="margin-top:1em;">
+              Heekyung Ahn, Ph.D.
             </p>
             <p class="text-blk position" style="margin-top:-1em;">
                 Postdoctoral Fellow
@@ -1183,6 +1147,27 @@ title: Meet Our Team
             </div>
           </div>
         </div>
+<!-- Seyyed Mahmood Ghasemi -->
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+                <div class="team-card">
+                  <div class="img-wrapper">
+                    <img class="team-img" src="../assets/images/people/mahmoodG.JPG">
+                  </div>
+                  <p class="text-blk name" style="margin-top:1em;">
+                    Seyyed Mahmood Ghasemi, Ph.D.
+                  </p>
+                  <p></p>
+                  <div class="social-media-links">
+                    <a href="mailto:SGhasemi@mdanderson.org" target="_blank">
+                    <i class="fa fa-envelope" style="color: #000000;"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/smahmoodghasemi/" target="_blank">
+                    <i class="fab fa-linkedin" style="color: #000000;"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+<!-- -->
       </div>
     </div>
   </div>
@@ -1192,6 +1177,31 @@ title: Meet Our Team
     <p class="text-blk name" style="margin-right:5em;">Lori Jackson</p>
     <p class="text-blk name" style="margin-right:5em;">Junghi Kim</p>
     <p class="text-blk name" style="margin-right:5em;">Wenting Wang</p>
+<!-- Hamid Khoshfekr Rudsari-->        
+        <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 team-card-container">
+          <div class="team-card">
+            <div class="img-wrapper">
+              <img class="team-img" src="../assets/images/people/hamidR.JPG">
+            </div>
+            <p class="text-blk name" style="margin-top:1em;">
+              Hamid Khoshfekr Rudsari, Ph.D.
+            </p>
+            <div class="social-media-links1">
+              <a href="mailto:khoshfekr1994@gmail.com" target="_blank">
+                <i class="fa fa-envelope" style="color: #000000;"></i>
+              </a>
+              <a href="https://www.linkedin.com/in/hamid-khoshfekr-rudsari-379414b7/" target="_blank">
+                <i class="fab fa-linkedin" style="color: #000000;"></i>
+              </a>
+              <a href="https://scholar.google.com/citations?user=a_RMvBcAAAAJ&hl=en" target="_blank">
+                <i class="fab fa-google" style="color: #000000;"></i>
+              </a>
+              <a href="https://github.com/khoshfekr1994" target="_blank">
+                <i class="fab fa-github" style="color: #000000;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
   </div>
 </div>
 <a href="#" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
