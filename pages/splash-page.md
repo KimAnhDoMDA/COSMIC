@@ -172,10 +172,14 @@ feature_row6:
   <div class="columnContainer">
     <div class="side-image">
       <img src="./assets/images/misc/side-image1.JPG" alt="DINGO graph" class="spaced-image">
-      <img src="./assets/images/misc/methyNetwork.JPG" alt="methy Network" class="spaced-image">
+      <!--<img src="./assets/images/misc/methyNetwork.JPG" alt="methy Network" class="spaced-image">-->
       <figure style="margin-bottom: 3em; width:80%; font-size: smaller; line-height: normal;">
       <img src="./assets/images/misc/COTS-2026.jpg" alt="COTS 2026 Photo">
       <figcaption>Dr. Kim-Anh Do with colleagues at <A href="https://cvent.utexas.edu/event/6dcc4fd7-b686-4f19-aa57-1795b405276b/summary">COTS 2026</A></figcaption>
+      </figure>
+      <figure style="margin-bottom: 3em; width:80%; font-size: smaller; line-height: normal;">
+      <img src="./assets/images/misc/IMS-2026-Official.jpg" alt="IMS 2026 Photo">
+      <figcaption>Dr. Kim-Anh Do receiving IMS Fellowship Certificate at <A href="https://imstat.org/2026/09/01/ims-salzburg-meeting-report/">IMS 2026</A></figcaption>
       </figure>
     </div>
   </div>
@@ -202,7 +206,7 @@ feature_row6:
         </ul>
         We also design state-of-the-art courses for the education and training of the next generation of computational statisticians and data scientists.
       </p>
-      <img src="./assets/images/people/collage2.PNG" class="centered-image" style= "margin-top: -4em; width: 225%; margin-left: -65%;" alt="">
+      <img src="./assets/images/people/collage2.PNG" class="centered-image" style= "margin-top: 0em; width: 225%; margin-left: -65%;" alt="">
   <a href="mailto:kimdo@mdanderson.org"><p style="text-style: none; text-align: center; font-size:20px; margin-top: -5em; margin-bottom: 2em;">Contact Me</p></a>
     </div>
   </div>
@@ -212,6 +216,11 @@ feature_row6:
       <img src="./assets/images/misc/iBRIGHT.JPG" alt="iBRIGHT symbol" class="spaced-image">
       <img src="./assets/images/misc/oralMicro.JPG" alt="Oral Microbiome" class="spaced-image">
       <img src="./assets/images/misc/microbiome.png" alt="microbiome" class="spaced-image">
+      <figure style="margin-bottom: 3em; width:80%; font-size: smaller; line-height: normal;">
+        <img src="./assets/images/misc/Janet_Norwood-cropped.jpg" alt="COTS 2026 Photo">
+        <figcaption>Dr. Kim-Anh Do receiving the 2024 Janet Norwood award for outstanding woman in statistical sciences</figcaption>
+      </figure>
+
     </div>
   </div>
 </div>
